@@ -1,0 +1,452 @@
+Season,RaceNumber,Driver,Team,FP1,FP2,FP3,Qualifying,SprintShootout,Sprint,Race
+2021,1,Max Verstappen,Red Bull Racing,1.0,1.0,1.0,1.0,,,2.0
+2021,1,Valtteri Bottas,Mercedes,2.0,5.0,4.0,3.0,,,3.0
+2021,1,Lando Norris,McLaren,3.0,2.0,16.0,7.0,,,4.0
+2021,1,Lewis Hamilton,Mercedes,4.0,3.0,2.0,2.0,,,1.0
+2021,1,Charles Leclerc,Ferrari,5.0,12.0,11.0,4.0,,,6.0
+2021,1,Sergio Perez,Red Bull Racing,6.0,10.0,5.0,11.0,,,5.0
+2021,1,Pierre Gasly,AlphaTauri,7.0,9.0,3.0,5.0,,,17.0
+2021,1,Carlos Sainz,Ferrari,8.0,4.0,6.0,8.0,,,8.0
+2021,1,Daniel Ricciardo,McLaren,9.0,6.0,10.0,6.0,,,7.0
+2021,1,Antonio Giovinazzi,Alfa Romeo Racing,10.0,13.0,12.0,12.0,,,12.0
+2021,1,Kimi Räikkönen,Alfa Romeo Racing,11.0,16.0,7.0,14.0,,,11.0
+2021,1,Sebastian Vettel,Aston Martin,12.0,14.0,14.0,18.0,,,15.0
+2021,1,Lance Stroll,Aston Martin,13.0,8.0,9.0,10.0,,,10.0
+2021,1,Yuki Tsunoda,AlphaTauri,14.0,7.0,13.0,13.0,,,9.0
+2021,1,Esteban Ocon,Alpine,15.0,11.0,8.0,16.0,,,13.0
+2021,1,Fernando Alonso,Alpine,16.0,15.0,15.0,9.0,,,19.0
+2021,1,George Russell,Williams,17.0,17.0,17.0,15.0,,,14.0
+2021,1,Nicholas Latifi,Williams,18.0,19.0,20.0,17.0,,,18.0
+2021,1,Mick Schumacher,Haas F1 Team,19.0,18.0,18.0,19.0,,,16.0
+2021,1,Nikita Mazepin,Haas F1 Team,20.0,20.0,19.0,20.0,,,20.0
+2021,2,Valtteri Bottas,Mercedes,1.0,2.0,7.0,8.0,,,18.0
+2021,2,Lewis Hamilton,Mercedes,2.0,3.0,3.0,1.0,,,2.0
+2021,2,Max Verstappen,Red Bull Racing,3.0,15.0,1.0,3.0,,,1.0
+2021,2,Charles Leclerc,Ferrari,4.0,1.0,5.0,4.0,,,4.0
+2021,2,Pierre Gasly,AlphaTauri,5.0,4.0,6.0,5.0,,,7.0
+2021,2,Carlos Sainz,Ferrari,6.0,5.0,8.0,11.0,,,5.0
+2021,2,Fernando Alonso,Alpine,7.0,14.0,9.0,15.0,,,10.0
+2021,2,Lance Stroll,Aston Martin,8.0,10.0,12.0,10.0,,,8.0
+2021,2,Nicholas Latifi,Williams,9.0,13.0,17.0,14.0,,,20.0
+2021,2,Daniel Ricciardo,McLaren,10.0,11.0,13.0,6.0,,,6.0
+2021,2,George Russell,Williams,11.0,17.0,15.0,12.0,,,19.0
+2021,2,Kimi Räikkönen,Alfa Romeo Racing,12.0,18.0,19.0,16.0,,,13.0
+2021,2,Lando Norris,McLaren,13.0,8.0,2.0,7.0,,,3.0
+2021,2,Sebastian Vettel,Aston Martin,14.0,16.0,14.0,13.0,,,15.0
+2021,2,Antonio Giovinazzi,Alfa Romeo Racing,15.0,9.0,18.0,17.0,,,14.0
+2021,2,Sergio Perez,Red Bull Racing,16.0,6.0,4.0,2.0,,,11.0
+2021,2,Esteban Ocon,Alpine,17.0,12.0,10.0,9.0,,,9.0
+2021,2,Nikita Mazepin,Haas F1 Team,18.0,20.0,20.0,19.0,,,17.0
+2021,2,Mick Schumacher,Haas F1 Team,19.0,19.0,16.0,18.0,,,16.0
+2021,2,Yuki Tsunoda,AlphaTauri,20.0,7.0,11.0,20.0,,,12.0
+2021,3,Valtteri Bottas,Mercedes,1.0,3.0,4.0,1.0,,,3.0
+2021,3,Max Verstappen,Red Bull Racing,2.0,2.0,1.0,3.0,,,2.0
+2021,3,Sergio Perez,Red Bull Racing,3.0,10.0,5.0,4.0,,,4.0
+2021,3,Charles Leclerc,Ferrari,4.0,7.0,7.0,8.0,,,6.0
+2021,3,Lewis Hamilton,Mercedes,5.0,1.0,2.0,2.0,,,1.0
+2021,3,Pierre Gasly,AlphaTauri,6.0,11.0,10.0,9.0,,,10.0
+2021,3,George Russell,Williams,7.0,13.0,17.0,11.0,,,16.0
+2021,3,Lando Norris,McLaren,8.0,12.0,9.0,7.0,,,5.0
+2021,3,Carlos Sainz,Ferrari,9.0,4.0,8.0,5.0,,,11.0
+2021,3,Esteban Ocon,Alpine,10.0,6.0,6.0,6.0,,,7.0
+2021,3,Lance Stroll,Aston Martin,11.0,9.0,15.0,17.0,,,14.0
+2021,3,Daniel Ricciardo,McLaren,12.0,8.0,13.0,16.0,,,9.0
+2021,3,Yuki Tsunoda,AlphaTauri,13.0,14.0,12.0,14.0,,,15.0
+2021,3,Fernando Alonso,Alpine,14.0,5.0,3.0,13.0,,,8.0
+2021,3,Kimi Räikkönen,Alfa Romeo Racing,15.0,16.0,11.0,15.0,,,20.0
+2021,3,Sebastian Vettel,Aston Martin,16.0,15.0,18.0,10.0,,,13.0
+2021,3,Callum Ilott,Alfa Romeo Racing,17.0,,,,,,
+2021,3,Mick Schumacher,Haas F1 Team,18.0,17.0,16.0,19.0,,,17.0
+2021,3,Nicholas Latifi,Williams,19.0,19.0,20.0,18.0,,,18.0
+2021,3,Nikita Mazepin,Haas F1 Team,20.0,20.0,19.0,20.0,,,19.0
+2021,3,Antonio Giovinazzi,Alfa Romeo Racing,,18.0,14.0,12.0,,,12.0
+2021,4,Valtteri Bottas,Mercedes,1.0,2.0,5.0,3.0,,,3.0
+2021,4,Max Verstappen,Red Bull Racing,2.0,9.0,1.0,2.0,,,2.0
+2021,4,Lewis Hamilton,Mercedes,3.0,1.0,2.0,1.0,,,1.0
+2021,4,Lando Norris,McLaren,4.0,12.0,6.0,9.0,,,8.0
+2021,4,Charles Leclerc,Ferrari,5.0,3.0,3.0,4.0,,,4.0
+2021,4,Carlos Sainz,Ferrari,6.0,8.0,4.0,6.0,,,7.0
+2021,4,Pierre Gasly,AlphaTauri,7.0,6.0,7.0,12.0,,,10.0
+2021,4,Sebastian Vettel,Aston Martin,8.0,11.0,17.0,13.0,,,13.0
+2021,4,Sergio Perez,Red Bull Racing,9.0,10.0,10.0,8.0,,,5.0
+2021,4,Lance Stroll,Aston Martin,10.0,14.0,14.0,11.0,,,11.0
+2021,4,Yuki Tsunoda,AlphaTauri,11.0,7.0,12.0,16.0,,,20.0
+2021,4,Esteban Ocon,Alpine,12.0,4.0,13.0,5.0,,,9.0
+2021,4,Antonio Giovinazzi,Alfa Romeo Racing,13.0,13.0,16.0,14.0,,,15.0
+2021,4,Daniel Ricciardo,McLaren,14.0,15.0,8.0,7.0,,,6.0
+2021,4,Fernando Alonso,Alpine,15.0,5.0,11.0,10.0,,,17.0
+2021,4,Nicholas Latifi,Williams,16.0,18.0,18.0,19.0,,,16.0
+2021,4,Roy Nissany,Williams,17.0,,,,,,
+2021,4,Mick Schumacher,Haas F1 Team,18.0,19.0,19.0,18.0,,,18.0
+2021,4,Robert Kubica,Alfa Romeo Racing,19.0,,,,,,
+2021,4,Nikita Mazepin,Haas F1 Team,20.0,20.0,20.0,20.0,,,19.0
+2021,4,Kimi Räikkönen,Alfa Romeo Racing,,16.0,9.0,17.0,,,12.0
+2021,4,George Russell,Williams,,17.0,15.0,15.0,,,14.0
+2021,5,Sergio Perez,Red Bull Racing,1.0,8.0,5.0,9.0,,,4.0
+2021,5,Carlos Sainz,Ferrari,2.0,2.0,2.0,4.0,,,2.0
+2021,5,Max Verstappen,Red Bull Racing,3.0,4.0,1.0,2.0,,,1.0
+2021,5,Pierre Gasly,AlphaTauri,4.0,7.0,9.0,6.0,,,6.0
+2021,5,Lewis Hamilton,Mercedes,5.0,3.0,7.0,7.0,,,7.0
+2021,5,Valtteri Bottas,Mercedes,6.0,5.0,4.0,3.0,,,19.0
+2021,5,Lando Norris,McLaren,7.0,6.0,6.0,5.0,,,3.0
+2021,5,Sebastian Vettel,Aston Martin,8.0,10.0,10.0,8.0,,,5.0
+2021,5,Yuki Tsunoda,AlphaTauri,9.0,20.0,19.0,16.0,,,16.0
+2021,5,Kimi Räikkönen,Alfa Romeo Racing,10.0,11.0,8.0,14.0,,,11.0
+2021,5,Lance Stroll,Aston Martin,11.0,13.0,12.0,13.0,,,8.0
+2021,5,Antonio Giovinazzi,Alfa Romeo Racing,12.0,9.0,11.0,10.0,,,10.0
+2021,5,Fernando Alonso,Alpine,13.0,12.0,15.0,17.0,,,13.0
+2021,5,Nicholas Latifi,Williams,14.0,17.0,18.0,18.0,,,15.0
+2021,5,Daniel Ricciardo,McLaren,15.0,15.0,13.0,12.0,,,12.0
+2021,5,Esteban Ocon,Alpine,16.0,14.0,20.0,11.0,,,9.0
+2021,5,Nikita Mazepin,Haas F1 Team,17.0,18.0,16.0,19.0,,,17.0
+2021,5,Mick Schumacher,Haas F1 Team,18.0,19.0,14.0,,,,18.0
+2021,5,George Russell,Williams,19.0,16.0,17.0,15.0,,,14.0
+2021,5,Charles Leclerc,Ferrari,20.0,1.0,3.0,1.0,,,20.0
+2021,6,Max Verstappen,Red Bull Racing,1.0,2.0,15.0,3.0,,,18.0
+2021,6,Charles Leclerc,Ferrari,2.0,4.0,4.0,1.0,,,4.0
+2021,6,Carlos Sainz,Ferrari,3.0,3.0,5.0,5.0,,,8.0
+2021,6,Sergio Perez,Red Bull Racing,4.0,1.0,2.0,7.0,,,1.0
+2021,6,Daniel Ricciardo,McLaren,5.0,13.0,10.0,13.0,,,9.0
+2021,6,Pierre Gasly,AlphaTauri,6.0,5.0,1.0,4.0,,,3.0
+2021,6,Lewis Hamilton,Mercedes,7.0,11.0,3.0,2.0,,,15.0
+2021,6,Lando Norris,McLaren,8.0,8.0,6.0,6.0,,,5.0
+2021,6,Fernando Alonso,Alpine,9.0,6.0,7.0,9.0,,,6.0
+2021,6,Valtteri Bottas,Mercedes,10.0,16.0,13.0,10.0,,,12.0
+2021,6,Kimi Räikkönen,Alfa Romeo Racing,11.0,12.0,14.0,14.0,,,10.0
+2021,6,Antonio Giovinazzi,Alfa Romeo Racing,12.0,7.0,17.0,20.0,,,11.0
+2021,6,Lance Stroll,Aston Martin,13.0,14.0,12.0,19.0,,,19.0
+2021,6,Yuki Tsunoda,AlphaTauri,14.0,10.0,8.0,8.0,,,7.0
+2021,6,Sebastian Vettel,Aston Martin,15.0,15.0,11.0,11.0,,,2.0
+2021,6,Esteban Ocon,Alpine,16.0,9.0,9.0,12.0,,,20.0
+2021,6,George Russell,Williams,17.0,17.0,18.0,15.0,,,17.0
+2021,6,Nicholas Latifi,Williams,18.0,20.0,16.0,16.0,,,16.0
+2021,6,Mick Schumacher,Haas F1 Team,19.0,19.0,19.0,17.0,,,13.0
+2021,6,Nikita Mazepin,Haas F1 Team,20.0,18.0,20.0,18.0,,,14.0
+2021,7,Valtteri Bottas,Mercedes,1.0,2.0,2.0,3.0,,,4.0
+2021,7,Lewis Hamilton,Mercedes,2.0,3.0,5.0,2.0,,,2.0
+2021,7,Max Verstappen,Red Bull Racing,3.0,1.0,1.0,1.0,,,1.0
+2021,7,Sergio Perez,Red Bull Racing,4.0,12.0,4.0,4.0,,,3.0
+2021,7,Esteban Ocon,Alpine,5.0,6.0,8.0,11.0,,,14.0
+2021,7,Daniel Ricciardo,McLaren,6.0,14.0,10.0,10.0,,,6.0
+2021,7,Fernando Alonso,Alpine,7.0,4.0,7.0,9.0,,,8.0
+2021,7,Pierre Gasly,AlphaTauri,8.0,7.0,9.0,6.0,,,7.0
+2021,7,Lando Norris,McLaren,9.0,10.0,6.0,8.0,,,5.0
+2021,7,Yuki Tsunoda,AlphaTauri,10.0,13.0,12.0,20.0,,,13.0
+2021,7,Charles Leclerc,Ferrari,11.0,5.0,11.0,7.0,,,16.0
+2021,7,Antonio Giovinazzi,Alfa Romeo Racing,12.0,11.0,13.0,13.0,,,15.0
+2021,7,Kimi Räikkönen,Alfa Romeo Racing,13.0,9.0,16.0,17.0,,,17.0
+2021,7,Lance Stroll,Aston Martin,14.0,16.0,14.0,19.0,,,10.0
+2021,7,Sebastian Vettel,Aston Martin,15.0,15.0,15.0,12.0,,,9.0
+2021,7,Carlos Sainz,Ferrari,16.0,8.0,3.0,5.0,,,11.0
+2021,7,Nicholas Latifi,Williams,17.0,18.0,18.0,16.0,,,18.0
+2021,7,Nikita Mazepin,Haas F1 Team,18.0,20.0,20.0,18.0,,,20.0
+2021,7,Mick Schumacher,Haas F1 Team,19.0,19.0,19.0,15.0,,,19.0
+2021,7,Roy Nissany,Williams,20.0,,,,,,
+2021,7,George Russell,Williams,,17.0,17.0,14.0,,,12.0
+2021,8,Max Verstappen,Red Bull Racing,1.0,2.0,2.0,1.0,,,1.0
+2021,8,Valtteri Bottas,Mercedes,2.0,12.0,3.0,2.0,,,3.0
+2021,8,Pierre Gasly,AlphaTauri,3.0,,7.0,6.0,,,20.0
+2021,8,Lewis Hamilton,Mercedes,4.0,1.0,1.0,3.0,,,2.0
+2021,8,Yuki Tsunoda,AlphaTauri,5.0,15.0,5.0,8.0,,,10.0
+2021,8,Fernando Alonso,Alpine,6.0,5.0,9.0,9.0,,,9.0
+2021,8,Esteban Ocon,Alpine,7.0,4.0,13.0,17.0,,,14.0
+2021,8,Lance Stroll,Aston Martin,8.0,8.0,10.0,10.0,,,8.0
+2021,8,Antonio Giovinazzi,Alfa Romeo Racing,9.0,10.0,12.0,15.0,,,15.0
+2021,8,Charles Leclerc,Ferrari,10.0,13.0,8.0,7.0,,,7.0
+2021,8,Carlos Sainz,Ferrari,11.0,11.0,14.0,12.0,,,6.0
+2021,8,Daniel Ricciardo,McLaren,12.0,3.0,18.0,13.0,,,13.0
+2021,8,Sergio Perez,Red Bull Racing,13.0,9.0,4.0,5.0,,,4.0
+2021,8,Sebastian Vettel,Aston Martin,14.0,6.0,11.0,14.0,,,12.0
+2021,8,George Russell,Williams,15.0,16.0,15.0,11.0,,,19.0
+2021,8,Lando Norris,McLaren,16.0,7.0,6.0,4.0,,,5.0
+2021,8,Nicholas Latifi,Williams,17.0,19.0,19.0,16.0,,,17.0
+2021,8,Mick Schumacher,Haas F1 Team,18.0,17.0,17.0,19.0,,,16.0
+2021,8,Robert Kubica,Alfa Romeo Racing,19.0,,,,,,
+2021,8,Nikita Mazepin,Haas F1 Team,20.0,18.0,20.0,20.0,,,18.0
+2021,8,Kimi Räikkönen,Alfa Romeo Racing,,14.0,16.0,18.0,,,11.0
+2021,9,Max Verstappen,Red Bull Racing,1.0,3.0,1.0,1.0,,,1.0
+2021,9,Charles Leclerc,Ferrari,2.0,17.0,9.0,12.0,,,8.0
+2021,9,Carlos Sainz,Ferrari,3.0,14.0,6.0,11.0,,,5.0
+2021,9,Valtteri Bottas,Mercedes,4.0,2.0,3.0,5.0,,,2.0
+2021,9,Yuki Tsunoda,AlphaTauri,5.0,6.0,12.0,7.0,,,12.0
+2021,9,Kimi Räikkönen,Alfa Romeo Racing,6.0,9.0,17.0,16.0,,,15.0
+2021,9,Lewis Hamilton,Mercedes,7.0,1.0,2.0,4.0,,,4.0
+2021,9,Pierre Gasly,AlphaTauri,8.0,7.0,4.0,6.0,,,9.0
+2021,9,Sergio Perez,Red Bull Racing,9.0,12.0,7.0,3.0,,,6.0
+2021,9,Lando Norris,McLaren,10.0,10.0,15.0,2.0,,,3.0
+2021,9,Esteban Ocon,Alpine,11.0,13.0,13.0,17.0,,,20.0
+2021,9,Daniel Ricciardo,McLaren,12.0,16.0,16.0,13.0,,,7.0
+2021,9,Lance Stroll,Aston Martin,13.0,4.0,11.0,10.0,,,13.0
+2021,9,Sebastian Vettel,Aston Martin,14.0,5.0,10.0,8.0,,,17.0
+2021,9,Guanyu Zhou,Alpine,15.0,,,,,,
+2021,9,Callum Ilott,Alfa Romeo Racing,16.0,,,,,,
+2021,9,Mick Schumacher,Haas F1 Team,17.0,15.0,18.0,19.0,,,18.0
+2021,9,Roy Nissany,Williams,18.0,,,,,,
+2021,9,Nicholas Latifi,Williams,19.0,19.0,19.0,18.0,,,16.0
+2021,9,Nikita Mazepin,Haas F1 Team,20.0,20.0,20.0,20.0,,,19.0
+2021,9,Fernando Alonso,Alpine,,8.0,8.0,14.0,,,10.0
+2021,9,Antonio Giovinazzi,Alfa Romeo Racing,,11.0,5.0,15.0,,,14.0
+2021,9,George Russell,Williams,,18.0,14.0,9.0,,,11.0
+2021,10,Max Verstappen,Red Bull Racing,1.0,1.0,,2.0,1.0,1.0,20.0
+2021,10,Lando Norris,McLaren,2.0,4.0,,6.0,5.0,5.0,4.0
+2021,10,Lewis Hamilton,Mercedes,3.0,8.0,,1.0,2.0,2.0,1.0
+2021,10,Charles Leclerc,Ferrari,4.0,2.0,,4.0,4.0,4.0,2.0
+2021,10,Valtteri Bottas,Mercedes,5.0,9.0,,3.0,3.0,3.0,3.0
+2021,10,Carlos Sainz,Ferrari,6.0,3.0,,9.0,11.0,11.0,6.0
+2021,10,Sebastian Vettel,Aston Martin,7.0,11.0,,10.0,8.0,8.0,19.0
+2021,10,Sergio Perez,Red Bull Racing,8.0,6.0,,5.0,20.0,20.0,16.0
+2021,10,Daniel Ricciardo,McLaren,9.0,7.0,,7.0,6.0,6.0,5.0
+2021,10,Esteban Ocon,Alpine,10.0,5.0,,13.0,10.0,10.0,9.0
+2021,10,Pierre Gasly,AlphaTauri,11.0,10.0,,12.0,12.0,12.0,11.0
+2021,10,Yuki Tsunoda,AlphaTauri,12.0,17.0,,16.0,16.0,16.0,10.0
+2021,10,Antonio Giovinazzi,Alfa Romeo Racing,13.0,13.0,,14.0,15.0,15.0,13.0
+2021,10,Fernando Alonso,Alpine,14.0,14.0,,11.0,7.0,7.0,7.0
+2021,10,Kimi Räikkönen,Alfa Romeo Racing,15.0,15.0,,17.0,13.0,13.0,15.0
+2021,10,Mick Schumacher,Haas F1 Team,16.0,20.0,,19.0,18.0,18.0,18.0
+2021,10,Nicholas Latifi,Williams,17.0,16.0,,18.0,17.0,17.0,14.0
+2021,10,Lance Stroll,Aston Martin,18.0,18.0,,15.0,14.0,14.0,8.0
+2021,10,George Russell,Williams,19.0,12.0,,8.0,9.0,9.0,12.0
+2021,10,Nikita Mazepin,Haas F1 Team,20.0,19.0,,20.0,19.0,19.0,17.0
+2021,11,Max Verstappen,Red Bull Racing,1.0,3.0,2.0,3.0,,,9.0
+2021,11,Valtteri Bottas,Mercedes,2.0,1.0,3.0,2.0,,,16.0
+2021,11,Lewis Hamilton,Mercedes,3.0,2.0,1.0,1.0,,,2.0
+2021,11,Carlos Sainz,Ferrari,4.0,12.0,4.0,15.0,,,3.0
+2021,11,Pierre Gasly,AlphaTauri,5.0,6.0,11.0,5.0,,,5.0
+2021,11,Fernando Alonso,Alpine,6.0,7.0,9.0,9.0,,,4.0
+2021,11,Charles Leclerc,Ferrari,7.0,11.0,5.0,7.0,,,18.0
+2021,11,Sergio Perez,Red Bull Racing,8.0,5.0,7.0,4.0,,,17.0
+2021,11,Lando Norris,McLaren,9.0,9.0,6.0,6.0,,,15.0
+2021,11,Lance Stroll,Aston Martin,10.0,10.0,10.0,12.0,,,19.0
+2021,11,Esteban Ocon,Alpine,11.0,4.0,12.0,8.0,,,1.0
+2021,11,Yuki Tsunoda,AlphaTauri,12.0,18.0,14.0,16.0,,,6.0
+2021,11,Sebastian Vettel,Aston Martin,13.0,8.0,13.0,10.0,,,20.0
+2021,11,Daniel Ricciardo,McLaren,14.0,13.0,8.0,11.0,,,11.0
+2021,11,George Russell,Williams,15.0,16.0,16.0,17.0,,,8.0
+2021,11,Nicholas Latifi,Williams,16.0,17.0,17.0,18.0,,,7.0
+2021,11,Mick Schumacher,Haas F1 Team,17.0,19.0,19.0,20.0,,,12.0
+2021,11,Robert Kubica,Alfa Romeo Racing,18.0,,,,,,
+2021,11,Nikita Mazepin,Haas F1 Team,19.0,20.0,20.0,19.0,,,14.0
+2021,11,Antonio Giovinazzi,Alfa Romeo Racing,20.0,14.0,18.0,14.0,,,13.0
+2021,11,Kimi Räikkönen,Alfa Romeo Racing,,15.0,15.0,13.0,,,10.0
+2021,12,Valtteri Bottas,Mercedes,1.0,2.0,11.0,8.0,,,12.0
+2021,12,Max Verstappen,Red Bull Racing,2.0,1.0,1.0,1.0,,,1.0
+2021,12,Pierre Gasly,AlphaTauri,3.0,5.0,7.0,6.0,,,6.0
+2021,12,Charles Leclerc,Ferrari,4.0,18.0,16.0,11.0,,,8.0
+2021,12,Carlos Sainz,Ferrari,5.0,11.0,14.0,13.0,,,10.0
+2021,12,Sergio Perez,Red Bull Racing,6.0,10.0,2.0,7.0,,,19.0
+2021,12,Sebastian Vettel,Aston Martin,7.0,8.0,8.0,5.0,,,5.0
+2021,12,Lando Norris,McLaren,8.0,9.0,4.0,10.0,,,14.0
+2021,12,Esteban Ocon,Alpine,9.0,7.0,5.0,9.0,,,7.0
+2021,12,Fernando Alonso,Alpine,10.0,4.0,10.0,14.0,,,11.0
+2021,12,Lance Stroll,Aston Martin,11.0,6.0,6.0,15.0,,,20.0
+2021,12,Daniel Ricciardo,McLaren,12.0,15.0,13.0,4.0,,,4.0
+2021,12,Antonio Giovinazzi,Alfa Romeo Racing,13.0,13.0,18.0,16.0,,,13.0
+2021,12,George Russell,Williams,14.0,17.0,9.0,2.0,,,2.0
+2021,12,Yuki Tsunoda,AlphaTauri,15.0,12.0,17.0,17.0,,,15.0
+2021,12,Nicholas Latifi,Williams,16.0,16.0,12.0,12.0,,,9.0
+2021,12,Kimi Räikkönen,Alfa Romeo Racing,17.0,14.0,20.0,19.0,,,18.0
+2021,12,Lewis Hamilton,Mercedes,18.0,3.0,3.0,3.0,,,3.0
+2021,12,Nikita Mazepin,Haas F1 Team,19.0,19.0,19.0,20.0,,,17.0
+2021,12,Mick Schumacher,Haas F1 Team,20.0,20.0,15.0,18.0,,,16.0
+2021,13,Lewis Hamilton,Mercedes,1.0,11.0,3.0,2.0,,,2.0
+2021,13,Max Verstappen,Red Bull Racing,2.0,5.0,1.0,1.0,,,1.0
+2021,13,Carlos Sainz,Ferrari,3.0,2.0,16.0,6.0,,,7.0
+2021,13,Charles Leclerc,Ferrari,4.0,1.0,9.0,5.0,,,5.0
+2021,13,Valtteri Bottas,Mercedes,5.0,4.0,2.0,3.0,,,3.0
+2021,13,Fernando Alonso,Alpine,6.0,6.0,5.0,9.0,,,6.0
+2021,13,Esteban Ocon,Alpine,7.0,3.0,13.0,8.0,,,9.0
+2021,13,Antonio Giovinazzi,Alfa Romeo Racing,8.0,9.0,15.0,7.0,,,14.0
+2021,13,Lance Stroll,Aston Martin,9.0,14.0,7.0,12.0,,,12.0
+2021,13,Pierre Gasly,AlphaTauri,10.0,7.0,10.0,4.0,,,4.0
+2021,13,Lando Norris,McLaren,11.0,8.0,6.0,13.0,,,10.0
+2021,13,Nicholas Latifi,Williams,12.0,18.0,12.0,14.0,,,16.0
+2021,13,Kimi Räikkönen,Alfa Romeo Racing,13.0,16.0,,,,,
+2021,13,Daniel Ricciardo,McLaren,14.0,15.0,11.0,10.0,,,11.0
+2021,13,George Russell,Williams,15.0,20.0,14.0,11.0,,,17.0
+2021,13,Sergio Perez,Red Bull Racing,16.0,12.0,4.0,16.0,,,8.0
+2021,13,Nikita Mazepin,Haas F1 Team,17.0,19.0,18.0,20.0,,,20.0
+2021,13,Mick Schumacher,Haas F1 Team,18.0,17.0,20.0,19.0,,,18.0
+2021,13,Sebastian Vettel,Aston Martin,19.0,10.0,8.0,17.0,,,13.0
+2021,13,Yuki Tsunoda,AlphaTauri,20.0,13.0,17.0,15.0,,,19.0
+2021,13,Robert Kubica,Alfa Romeo Racing,,,19.0,18.0,,,15.0
+2021,14,Lewis Hamilton,Mercedes,1.0,1.0,,2.0,5.0,5.0,17.0
+2021,14,Lando Norris,McLaren,2.0,10.0,,4.0,4.0,4.0,2.0
+2021,14,Max Verstappen,Red Bull Racing,3.0,3.0,,3.0,2.0,2.0,18.0
+2021,14,Valtteri Bottas,Mercedes,4.0,2.0,,1.0,1.0,1.0,3.0
+2021,14,Daniel Ricciardo,McLaren,5.0,12.0,,5.0,3.0,3.0,1.0
+2021,14,Lance Stroll,Aston Martin,6.0,18.0,,12.0,10.0,10.0,7.0
+2021,14,Pierre Gasly,AlphaTauri,7.0,9.0,,6.0,20.0,20.0,19.0
+2021,14,Charles Leclerc,Ferrari,8.0,11.0,,8.0,6.0,6.0,4.0
+2021,14,Sebastian Vettel,Aston Martin,9.0,16.0,,11.0,12.0,12.0,12.0
+2021,14,Carlos Sainz,Ferrari,10.0,20.0,,7.0,7.0,7.0,6.0
+2021,14,Fernando Alonso,Alpine,11.0,8.0,,13.0,11.0,11.0,8.0
+2021,14,Sergio Perez,Red Bull Racing,12.0,4.0,,9.0,9.0,9.0,5.0
+2021,14,Antonio Giovinazzi,Alfa Romeo Racing,13.0,7.0,,10.0,8.0,8.0,13.0
+2021,14,Yuki Tsunoda,AlphaTauri,14.0,15.0,,17.0,16.0,16.0,20.0
+2021,14,Esteban Ocon,Alpine,15.0,5.0,,14.0,13.0,13.0,10.0
+2021,14,Robert Kubica,Alfa Romeo Racing,16.0,6.0,,19.0,18.0,18.0,14.0
+2021,14,George Russell,Williams,17.0,14.0,,15.0,15.0,15.0,9.0
+2021,14,Nicholas Latifi,Williams,18.0,13.0,,16.0,14.0,14.0,11.0
+2021,14,Nikita Mazepin,Haas F1 Team,19.0,17.0,,20.0,17.0,17.0,16.0
+2021,14,Mick Schumacher,Haas F1 Team,20.0,19.0,,18.0,19.0,19.0,15.0
+2021,15,Valtteri Bottas,Mercedes,1.0,1.0,,7.0,,,5.0
+2021,15,Lewis Hamilton,Mercedes,2.0,2.0,,4.0,,,1.0
+2021,15,Max Verstappen,Red Bull Racing,3.0,6.0,,20.0,,,2.0
+2021,15,Charles Leclerc,Ferrari,4.0,10.0,,15.0,,,15.0
+2021,15,Sebastian Vettel,Aston Martin,5.0,9.0,,11.0,,,12.0
+2021,15,Pierre Gasly,AlphaTauri,6.0,3.0,,12.0,,,13.0
+2021,15,Carlos Sainz,Ferrari,7.0,7.0,,2.0,,,3.0
+2021,15,Lando Norris,McLaren,8.0,4.0,,1.0,,,7.0
+2021,15,Sergio Perez,Red Bull Racing,9.0,11.0,,9.0,,,9.0
+2021,15,Fernando Alonso,Alpine,10.0,8.0,,6.0,,,6.0
+2021,15,Esteban Ocon,Alpine,11.0,5.0,,10.0,,,14.0
+2021,15,Lance Stroll,Aston Martin,12.0,15.0,,8.0,,,11.0
+2021,15,Antonio Giovinazzi,Alfa Romeo Racing,13.0,14.0,,18.0,,,16.0
+2021,15,Daniel Ricciardo,McLaren,14.0,17.0,,5.0,,,4.0
+2021,15,Kimi Räikkönen,Alfa Romeo Racing,15.0,12.0,,16.0,,,8.0
+2021,15,Yuki Tsunoda,AlphaTauri,16.0,18.0,,13.0,,,17.0
+2021,15,George Russell,Williams,17.0,13.0,,3.0,,,10.0
+2021,15,Nicholas Latifi,Williams,18.0,16.0,,14.0,,,19.0
+2021,15,Nikita Mazepin,Haas F1 Team,19.0,19.0,,19.0,,,18.0
+2021,15,Mick Schumacher,Haas F1 Team,20.0,20.0,,17.0,,,20.0
+2021,16,Lewis Hamilton,Mercedes,1.0,1.0,18.0,1.0,,,5.0
+2021,16,Max Verstappen,Red Bull Racing,2.0,5.0,2.0,3.0,,,2.0
+2021,16,Charles Leclerc,Ferrari,3.0,2.0,5.0,4.0,,,4.0
+2021,16,Valtteri Bottas,Mercedes,4.0,3.0,9.0,2.0,,,1.0
+2021,16,Carlos Sainz,Ferrari,5.0,12.0,4.0,15.0,,,8.0
+2021,16,Esteban Ocon,Alpine,6.0,8.0,10.0,12.0,,,10.0
+2021,16,Lando Norris,McLaren,7.0,6.0,15.0,8.0,,,7.0
+2021,16,Pierre Gasly,AlphaTauri,8.0,9.0,1.0,5.0,,,6.0
+2021,16,Fernando Alonso,Alpine,9.0,7.0,6.0,6.0,,,16.0
+2021,16,Sergio Perez,Red Bull Racing,10.0,4.0,3.0,7.0,,,3.0
+2021,16,George Russell,Williams,11.0,18.0,,13.0,,,15.0
+2021,16,Daniel Ricciardo,McLaren,12.0,13.0,14.0,16.0,,,13.0
+2021,16,Sebastian Vettel,Aston Martin,13.0,16.0,12.0,11.0,,,18.0
+2021,16,Antonio Giovinazzi,Alfa Romeo Racing,14.0,10.0,11.0,18.0,,,11.0
+2021,16,Nicholas Latifi,Williams,15.0,17.0,19.0,17.0,,,17.0
+2021,16,Kimi Räikkönen,Alfa Romeo Racing,16.0,15.0,7.0,19.0,,,12.0
+2021,16,Lance Stroll,Aston Martin,17.0,14.0,16.0,9.0,,,9.0
+2021,16,Yuki Tsunoda,AlphaTauri,18.0,11.0,8.0,10.0,,,14.0
+2021,16,Mick Schumacher,Haas F1 Team,19.0,19.0,13.0,14.0,,,19.0
+2021,16,Nikita Mazepin,Haas F1 Team,20.0,20.0,17.0,20.0,,,20.0
+2021,17,Valtteri Bottas,Mercedes,1.0,4.0,6.0,4.0,,,6.0
+2021,17,Lewis Hamilton,Mercedes,2.0,1.0,2.0,2.0,,,2.0
+2021,17,Max Verstappen,Red Bull Racing,3.0,8.0,1.0,1.0,,,1.0
+2021,17,Sergio Perez,Red Bull Racing,4.0,2.0,3.0,3.0,,,3.0
+2021,17,Daniel Ricciardo,McLaren,5.0,5.0,8.0,7.0,,,5.0
+2021,17,Charles Leclerc,Ferrari,6.0,7.0,7.0,5.0,,,4.0
+2021,17,Sebastian Vettel,Aston Martin,7.0,16.0,11.0,12.0,,,10.0
+2021,17,Carlos Sainz,Ferrari,8.0,9.0,4.0,6.0,,,7.0
+2021,17,Pierre Gasly,AlphaTauri,9.0,12.0,9.0,9.0,,,20.0
+2021,17,Lando Norris,McLaren,10.0,3.0,5.0,8.0,,,8.0
+2021,17,Antonio Giovinazzi,Alfa Romeo Racing,11.0,10.0,15.0,13.0,,,11.0
+2021,17,Kimi Räikkönen,Alfa Romeo Racing,12.0,14.0,13.0,18.0,,,13.0
+2021,17,George Russell,Williams,13.0,19.0,12.0,15.0,,,14.0
+2021,17,Esteban Ocon,Alpine,14.0,11.0,10.0,11.0,,,19.0
+2021,17,Lance Stroll,Aston Martin,15.0,6.0,16.0,16.0,,,12.0
+2021,17,Fernando Alonso,Alpine,16.0,13.0,17.0,14.0,,,18.0
+2021,17,Yuki Tsunoda,AlphaTauri,17.0,15.0,18.0,10.0,,,9.0
+2021,17,Nicholas Latifi,Williams,18.0,18.0,14.0,17.0,,,15.0
+2021,17,Mick Schumacher,Haas F1 Team,19.0,17.0,19.0,19.0,,,16.0
+2021,17,Nikita Mazepin,Haas F1 Team,20.0,20.0,20.0,20.0,,,17.0
+2021,18,Valtteri Bottas,Mercedes,1.0,2.0,4.0,1.0,,,15.0
+2021,18,Lewis Hamilton,Mercedes,2.0,3.0,3.0,2.0,,,2.0
+2021,18,Max Verstappen,Red Bull Racing,3.0,1.0,2.0,3.0,,,1.0
+2021,18,Sergio Perez,Red Bull Racing,4.0,4.0,1.0,4.0,,,3.0
+2021,18,Pierre Gasly,AlphaTauri,5.0,6.0,8.0,5.0,,,4.0
+2021,18,Carlos Sainz,Ferrari,6.0,5.0,5.0,6.0,,,6.0
+2021,18,Fernando Alonso,Alpine,7.0,10.0,15.0,16.0,,,9.0
+2021,18,Charles Leclerc,Ferrari,8.0,7.0,9.0,8.0,,,5.0
+2021,18,Esteban Ocon,Alpine,9.0,14.0,16.0,15.0,,,13.0
+2021,18,Sebastian Vettel,Aston Martin,10.0,9.0,14.0,11.0,,,7.0
+2021,18,Yuki Tsunoda,AlphaTauri,11.0,8.0,6.0,9.0,,,20.0
+2021,18,Kimi Räikkönen,Alfa Romeo Racing,12.0,11.0,12.0,12.0,,,8.0
+2021,18,Lance Stroll,Aston Martin,13.0,17.0,11.0,20.0,,,14.0
+2021,18,Daniel Ricciardo,McLaren,14.0,15.0,7.0,7.0,,,12.0
+2021,18,Lando Norris,McLaren,15.0,12.0,10.0,10.0,,,10.0
+2021,18,Antonio Giovinazzi,Alfa Romeo Racing,16.0,13.0,13.0,14.0,,,11.0
+2021,18,George Russell,Williams,17.0,20.0,17.0,13.0,,,16.0
+2021,18,Nicholas Latifi,Williams,18.0,18.0,19.0,17.0,,,17.0
+2021,18,Mick Schumacher,Haas F1 Team,19.0,16.0,18.0,18.0,,,19.0
+2021,18,Nikita Mazepin,Haas F1 Team,20.0,19.0,20.0,19.0,,,18.0
+2021,19,Lewis Hamilton,Mercedes,1.0,5.0,,1.0,5.0,5.0,1.0
+2021,19,Max Verstappen,Red Bull Racing,2.0,2.0,,2.0,2.0,2.0,2.0
+2021,19,Sergio Perez,Red Bull Racing,3.0,6.0,,4.0,4.0,4.0,4.0
+2021,19,Valtteri Bottas,Mercedes,4.0,3.0,,3.0,1.0,1.0,3.0
+2021,19,Pierre Gasly,AlphaTauri,5.0,14.0,,5.0,8.0,8.0,7.0
+2021,19,Carlos Sainz,Ferrari,6.0,8.0,,6.0,3.0,3.0,6.0
+2021,19,Charles Leclerc,Ferrari,7.0,9.0,,7.0,7.0,7.0,5.0
+2021,19,Esteban Ocon,Alpine,8.0,4.0,,11.0,9.0,9.0,8.0
+2021,19,Fernando Alonso,Alpine,9.0,1.0,,10.0,12.0,12.0,9.0
+2021,19,Lance Stroll,Aston Martin,10.0,11.0,,16.0,14.0,14.0,20.0
+2021,19,Yuki Tsunoda,AlphaTauri,11.0,16.0,,13.0,15.0,15.0,15.0
+2021,19,Sebastian Vettel,Aston Martin,12.0,17.0,,12.0,10.0,10.0,11.0
+2021,19,Kimi Räikkönen,Alfa Romeo Racing,13.0,10.0,,14.0,18.0,18.0,12.0
+2021,19,Antonio Giovinazzi,Alfa Romeo Racing,14.0,7.0,,15.0,13.0,13.0,14.0
+2021,19,Lando Norris,McLaren,15.0,13.0,,8.0,6.0,6.0,10.0
+2021,19,Mick Schumacher,Haas F1 Team,16.0,19.0,,19.0,19.0,19.0,18.0
+2021,19,Nicholas Latifi,Williams,17.0,18.0,,17.0,16.0,16.0,16.0
+2021,19,George Russell,Williams,18.0,15.0,,18.0,17.0,17.0,13.0
+2021,19,Daniel Ricciardo,McLaren,19.0,12.0,,9.0,11.0,11.0,19.0
+2021,19,Nikita Mazepin,Haas F1 Team,20.0,20.0,,20.0,20.0,20.0,17.0
+2021,20,Max Verstappen,Red Bull Racing,1.0,3.0,3.0,2.0,,,2.0
+2021,20,Pierre Gasly,AlphaTauri,2.0,2.0,4.0,4.0,,,11.0
+2021,20,Valtteri Bottas,Mercedes,3.0,1.0,1.0,3.0,,,20.0
+2021,20,Lewis Hamilton,Mercedes,4.0,4.0,2.0,1.0,,,1.0
+2021,20,Yuki Tsunoda,AlphaTauri,5.0,7.0,10.0,8.0,,,13.0
+2021,20,Carlos Sainz,Ferrari,6.0,10.0,6.0,7.0,,,7.0
+2021,20,Charles Leclerc,Ferrari,7.0,13.0,9.0,13.0,,,8.0
+2021,20,Sergio Perez,Red Bull Racing,8.0,8.0,5.0,11.0,,,4.0
+2021,20,Esteban Ocon,Alpine,9.0,11.0,8.0,9.0,,,5.0
+2021,20,Lando Norris,McLaren,10.0,5.0,13.0,6.0,,,9.0
+2021,20,Daniel Ricciardo,McLaren,11.0,14.0,11.0,14.0,,,12.0
+2021,20,Sebastian Vettel,Aston Martin,12.0,9.0,12.0,10.0,,,10.0
+2021,20,Nicholas Latifi,Williams,13.0,18.0,18.0,17.0,,,19.0
+2021,20,Antonio Giovinazzi,Alfa Romeo Racing,14.0,17.0,17.0,18.0,,,15.0
+2021,20,Kimi Räikkönen,Alfa Romeo Racing,15.0,15.0,16.0,16.0,,,14.0
+2021,20,George Russell,Williams,16.0,16.0,14.0,15.0,,,17.0
+2021,20,Fernando Alonso,Alpine,17.0,12.0,7.0,5.0,,,3.0
+2021,20,Mick Schumacher,Haas F1 Team,18.0,19.0,19.0,19.0,,,16.0
+2021,20,Lance Stroll,Aston Martin,19.0,6.0,15.0,12.0,,,6.0
+2021,20,Nikita Mazepin,Haas F1 Team,20.0,,,20.0,,,18.0
+2021,21,Lewis Hamilton,Mercedes,1.0,1.0,2.0,1.0,,,1.0
+2021,21,Max Verstappen,Red Bull Racing,2.0,4.0,1.0,3.0,,,2.0
+2021,21,Valtteri Bottas,Mercedes,3.0,2.0,6.0,2.0,,,3.0
+2021,21,Pierre Gasly,AlphaTauri,4.0,3.0,5.0,6.0,,,6.0
+2021,21,Antonio Giovinazzi,Alfa Romeo Racing,5.0,13.0,12.0,10.0,,,9.0
+2021,21,Carlos Sainz,Ferrari,6.0,7.0,8.0,15.0,,,8.0
+2021,21,Charles Leclerc,Ferrari,7.0,10.0,7.0,4.0,,,7.0
+2021,21,Daniel Ricciardo,McLaren,8.0,11.0,14.0,11.0,,,5.0
+2021,21,Fernando Alonso,Alpine,9.0,5.0,11.0,13.0,,,13.0
+2021,21,Sebastian Vettel,Aston Martin,10.0,16.0,17.0,17.0,,,16.0
+2021,21,Sergio Perez,Red Bull Racing,11.0,9.0,3.0,5.0,,,17.0
+2021,21,Esteban Ocon,Alpine,12.0,6.0,9.0,9.0,,,4.0
+2021,21,Lando Norris,McLaren,13.0,12.0,10.0,7.0,,,10.0
+2021,21,Lance Stroll,Aston Martin,14.0,15.0,15.0,18.0,,,11.0
+2021,21,Yuki Tsunoda,AlphaTauri,15.0,8.0,4.0,8.0,,,14.0
+2021,21,Kimi Räikkönen,Alfa Romeo Racing,16.0,14.0,13.0,12.0,,,15.0
+2021,21,George Russell,Williams,17.0,17.0,16.0,14.0,,,19.0
+2021,21,Mick Schumacher,Haas F1 Team,18.0,18.0,19.0,19.0,,,20.0
+2021,21,Nicholas Latifi,Williams,19.0,19.0,18.0,16.0,,,12.0
+2021,21,Nikita Mazepin,Haas F1 Team,20.0,20.0,20.0,20.0,,,18.0
+2021,22,Max Verstappen,Red Bull Racing,1.0,5.0,2.0,1.0,,,1.0
+2021,22,Lewis Hamilton,Mercedes,2.0,1.0,1.0,2.0,,,2.0
+2021,22,Valtteri Bottas,Mercedes,3.0,3.0,3.0,6.0,,,6.0
+2021,22,Sergio Perez,Red Bull Racing,4.0,6.0,4.0,4.0,,,15.0
+2021,22,Yuki Tsunoda,AlphaTauri,5.0,7.0,6.0,8.0,,,4.0
+2021,22,Fernando Alonso,Alpine,6.0,4.0,15.0,11.0,,,8.0
+2021,22,Pierre Gasly,AlphaTauri,7.0,11.0,7.0,12.0,,,5.0
+2021,22,Charles Leclerc,Ferrari,8.0,8.0,10.0,7.0,,,10.0
+2021,22,Carlos Sainz,Ferrari,9.0,10.0,8.0,5.0,,,3.0
+2021,22,Sebastian Vettel,Aston Martin,10.0,14.0,16.0,15.0,,,11.0
+2021,22,Esteban Ocon,Alpine,11.0,2.0,12.0,9.0,,,9.0
+2021,22,Lando Norris,McLaren,12.0,12.0,5.0,3.0,,,7.0
+2021,22,Kimi Räikkönen,Alfa Romeo Racing,13.0,16.0,13.0,18.0,,,19.0
+2021,22,Antonio Giovinazzi,Alfa Romeo Racing,14.0,13.0,14.0,14.0,,,17.0
+2021,22,Lance Stroll,Aston Martin,15.0,15.0,11.0,13.0,,,13.0
+2021,22,Daniel Ricciardo,McLaren,16.0,9.0,9.0,10.0,,,12.0
+2021,22,Jack Aitken,Williams,17.0,,,,,,
+2021,22,Nicholas Latifi,Williams,18.0,18.0,18.0,16.0,,,16.0
+2021,22,Mick Schumacher,Haas F1 Team,19.0,19.0,19.0,19.0,,,14.0
+2021,22,Nikita Mazepin,Haas F1 Team,20.0,20.0,20.0,20.0,,,
+2021,22,George Russell,Williams,,17.0,17.0,17.0,,,18.0

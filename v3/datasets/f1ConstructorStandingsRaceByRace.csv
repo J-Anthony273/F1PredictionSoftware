@@ -1,0 +1,1731 @@
+season,round,position,constructorName,points
+2018,1,1,Ferrari,40.0
+2018,1,2,Mercedes,22.0
+2018,1,3,Red Bull,20.0
+2018,1,4,McLaren,12.0
+2018,1,5,Renault,7.0
+2018,1,6,Force India,0.0
+2018,1,7,Sauber,0.0
+2018,1,8,Williams,0.0
+2018,1,9,Toro Rosso,0.0
+2018,1,0,Haas F1 Team,0.0
+2018,2,1,Ferrari,65.0
+2018,2,2,Mercedes,55.0
+2018,2,3,McLaren,22.0
+2018,2,4,Red Bull,20.0
+2018,2,5,Renault,15.0
+2018,2,6,Toro Rosso,12.0
+2018,2,7,Haas F1 Team,10.0
+2018,2,8,Sauber,2.0
+2018,2,9,Force India,1.0
+2018,2,10,Williams,0.0
+2018,3,1,Mercedes,85.0
+2018,3,2,Ferrari,84.0
+2018,3,3,Red Bull,55.0
+2018,3,4,McLaren,28.0
+2018,3,5,Renault,25.0
+2018,3,6,Toro Rosso,12.0
+2018,3,7,Haas F1 Team,11.0
+2018,3,8,Sauber,2.0
+2018,3,9,Force India,1.0
+2018,3,10,Williams,0.0
+2018,4,1,Ferrari,114.0
+2018,4,2,Mercedes,110.0
+2018,4,3,Red Bull,55.0
+2018,4,4,McLaren,36.0
+2018,4,5,Renault,35.0
+2018,4,6,Force India,16.0
+2018,4,7,Toro Rosso,13.0
+2018,4,8,Haas F1 Team,11.0
+2018,4,9,Sauber,10.0
+2018,4,10,Williams,4.0
+2018,5,1,Mercedes,153.0
+2018,5,2,Ferrari,126.0
+2018,5,3,Red Bull,80.0
+2018,5,4,Renault,41.0
+2018,5,5,McLaren,40.0
+2018,5,6,Haas F1 Team,19.0
+2018,5,7,Force India,18.0
+2018,5,8,Toro Rosso,13.0
+2018,5,9,Sauber,11.0
+2018,5,10,Williams,4.0
+2018,6,1,Mercedes,178.0
+2018,6,2,Ferrari,156.0
+2018,6,3,Red Bull,107.0
+2018,6,4,Renault,46.0
+2018,6,5,McLaren,40.0
+2018,6,6,Force India,26.0
+2018,6,7,Toro Rosso,19.0
+2018,6,8,Haas F1 Team,19.0
+2018,6,9,Sauber,11.0
+2018,6,10,Williams,4.0
+2018,7,1,Mercedes,206.0
+2018,7,2,Ferrari,189.0
+2018,7,3,Red Bull,134.0
+2018,7,4,Renault,56.0
+2018,7,5,McLaren,40.0
+2018,7,6,Force India,28.0
+2018,7,7,Toro Rosso,19.0
+2018,7,8,Haas F1 Team,19.0
+2018,7,9,Sauber,12.0
+2018,7,10,Williams,4.0
+2018,8,1,Mercedes,237.0
+2018,8,2,Ferrari,214.0
+2018,8,3,Red Bull,164.0
+2018,8,4,Renault,62.0
+2018,8,5,McLaren,40.0
+2018,8,6,Force India,28.0
+2018,8,7,Haas F1 Team,27.0
+2018,8,8,Toro Rosso,19.0
+2018,8,9,Sauber,13.0
+2018,8,10,Williams,4.0
+2018,9,1,Ferrari,247.0
+2018,9,2,Mercedes,237.0
+2018,9,3,Red Bull,189.0
+2018,9,4,Renault,62.0
+2018,9,5,Haas F1 Team,49.0
+2018,9,6,McLaren,44.0
+2018,9,7,Force India,42.0
+2018,9,8,Toro Rosso,19.0
+2018,9,9,Sauber,16.0
+2018,9,10,Williams,4.0
+2018,10,1,Ferrari,287.0
+2018,10,2,Mercedes,267.0
+2018,10,3,Red Bull,199.0
+2018,10,4,Renault,70.0
+2018,10,5,Haas F1 Team,51.0
+2018,10,6,Force India,49.0
+2018,10,7,McLaren,48.0
+2018,10,8,Toro Rosso,19.0
+2018,10,9,Sauber,16.0
+2018,10,10,Williams,4.0
+2018,11,1,Mercedes,310.0
+2018,11,2,Ferrari,302.0
+2018,11,3,Red Bull,211.0
+2018,11,4,Renault,80.0
+2018,11,5,Force India,59.0
+2018,11,6,Haas F1 Team,59.0
+2018,11,7,McLaren,48.0
+2018,11,8,Toro Rosso,20.0
+2018,11,9,Sauber,18.0
+2018,11,10,Williams,4.0
+2018,12,1,Mercedes,345.0
+2018,12,2,Ferrari,335.0
+2018,12,3,Red Bull,223.0
+2018,12,4,Renault,82.0
+2018,12,5,Haas F1 Team,66.0
+2018,12,6,Force India,59.0
+2018,12,7,McLaren,52.0
+2018,12,8,Toro Rosso,28.0
+2018,12,9,Sauber,18.0
+2018,12,10,Williams,4.0
+2018,13,1,Mercedes,375.0
+2018,13,2,Ferrari,360.0
+2018,13,3,Red Bull,238.0
+2018,13,4,Renault,82.0
+2018,13,5,Force India,77.0
+2018,13,6,Haas F1 Team,76.0
+2018,13,7,McLaren,52.0
+2018,13,8,Toro Rosso,30.0
+2018,13,9,Sauber,19.0
+2018,13,10,Williams,4.0
+2018,14,1,Mercedes,415.0
+2018,14,2,Ferrari,390.0
+2018,14,3,Red Bull,248.0
+2018,14,4,Force India,91.0
+2018,14,5,Renault,86.0
+2018,14,6,Haas F1 Team,76.0
+2018,14,7,McLaren,52.0
+2018,14,8,Toro Rosso,30.0
+2018,14,9,Sauber,19.0
+2018,14,10,Williams,7.0
+2018,15,1,Mercedes,452.0
+2018,15,2,Ferrari,415.0
+2018,15,3,Red Bull,274.0
+2018,15,4,Force India,91.0
+2018,15,5,Renault,91.0
+2018,15,6,Haas F1 Team,76.0
+2018,15,7,McLaren,58.0
+2018,15,8,Toro Rosso,30.0
+2018,15,9,Sauber,21.0
+2018,15,10,Williams,7.0
+2018,16,1,Mercedes,495.0
+2018,16,2,Ferrari,442.0
+2018,16,3,Red Bull,292.0
+2018,16,4,Force India,94.0
+2018,16,5,Renault,91.0
+2018,16,6,Haas F1 Team,80.0
+2018,16,7,McLaren,58.0
+2018,16,8,Toro Rosso,30.0
+2018,16,9,Sauber,27.0
+2018,16,10,Williams,7.0
+2018,17,1,Mercedes,538.0
+2018,17,2,Ferrari,460.0
+2018,17,3,Red Bull,319.0
+2018,17,4,Force India,102.0
+2018,17,5,Renault,92.0
+2018,17,6,Haas F1 Team,84.0
+2018,17,7,McLaren,58.0
+2018,17,8,Toro Rosso,30.0
+2018,17,9,Sauber,27.0
+2018,17,10,Williams,7.0
+2018,18,1,Mercedes,563.0
+2018,18,2,Ferrari,497.0
+2018,18,3,Red Bull,337.0
+2018,18,4,Force India,106.0
+2018,18,5,Renault,106.0
+2018,18,6,Haas F1 Team,84.0
+2018,18,7,McLaren,58.0
+2018,18,8,Toro Rosso,32.0
+2018,18,9,Sauber,28.0
+2018,18,10,Williams,7.0
+2018,19,1,Mercedes,585.0
+2018,19,2,Ferrari,530.0
+2018,19,3,Red Bull,362.0
+2018,19,4,Renault,114.0
+2018,19,5,Force India,106.0
+2018,19,6,Haas F1 Team,84.0
+2018,19,7,McLaren,62.0
+2018,19,8,Sauber,36.0
+2018,19,9,Toro Rosso,33.0
+2018,19,10,Williams,7.0
+2018,20,1,Mercedes,620.0
+2018,20,2,Ferrari,553.0
+2018,20,3,Red Bull,392.0
+2018,20,4,Renault,114.0
+2018,20,5,Force India,107.0
+2018,20,6,Haas F1 Team,90.0
+2018,20,7,McLaren,62.0
+2018,20,8,Sauber,42.0
+2018,20,9,Toro Rosso,33.0
+2018,20,10,Williams,7.0
+2018,21,1,Mercedes,655.0
+2018,21,2,Ferrari,571.0
+2018,21,3,Red Bull,419.0
+2018,21,4,Renault,122.0
+2018,21,5,Force India,111.0
+2018,21,6,Haas F1 Team,93.0
+2018,21,7,McLaren,62.0
+2018,21,8,Sauber,48.0
+2018,21,9,Toro Rosso,33.0
+2018,21,10,Williams,7.0
+2019,1,1,Mercedes,44.0
+2019,1,2,Ferrari,22.0
+2019,1,3,Red Bull,15.0
+2019,1,4,Haas F1 Team,8.0
+2019,1,5,Renault,6.0
+2019,1,6,Alfa Romeo,4.0
+2019,1,7,Racing Point,2.0
+2019,1,8,Toro Rosso,1.0
+2019,1,9,McLaren,0.0
+2019,1,10,Williams,0.0
+2019,2,1,Mercedes,87.0
+2019,2,2,Ferrari,48.0
+2019,2,3,Red Bull,31.0
+2019,2,4,Alfa Romeo,10.0
+2019,2,5,McLaren,8.0
+2019,2,6,Haas F1 Team,8.0
+2019,2,7,Renault,6.0
+2019,2,8,Toro Rosso,3.0
+2019,2,9,Racing Point,3.0
+2019,2,10,Williams,0.0
+2019,3,1,Mercedes,130.0
+2019,3,2,Ferrari,73.0
+2019,3,3,Red Bull,52.0
+2019,3,4,Renault,12.0
+2019,3,5,Alfa Romeo,12.0
+2019,3,6,Haas F1 Team,8.0
+2019,3,7,McLaren,8.0
+2019,3,8,Racing Point,7.0
+2019,3,9,Toro Rosso,4.0
+2019,3,10,Williams,0.0
+2019,4,1,Mercedes,173.0
+2019,4,2,Ferrari,99.0
+2019,4,3,Red Bull,64.0
+2019,4,4,McLaren,18.0
+2019,4,5,Racing Point,17.0
+2019,4,6,Alfa Romeo,13.0
+2019,4,7,Renault,12.0
+2019,4,8,Haas F1 Team,8.0
+2019,4,9,Toro Rosso,4.0
+2019,4,10,Williams,0.0
+2019,5,1,Mercedes,217.0
+2019,5,2,Ferrari,121.0
+2019,5,3,Red Bull,87.0
+2019,5,4,McLaren,22.0
+2019,5,5,Racing Point,17.0
+2019,5,6,Haas F1 Team,15.0
+2019,5,7,Alfa Romeo,13.0
+2019,5,8,Renault,12.0
+2019,5,9,Toro Rosso,6.0
+2019,5,10,Williams,0.0
+2019,6,1,Mercedes,257.0
+2019,6,2,Ferrari,139.0
+2019,6,3,Red Bull,110.0
+2019,6,4,McLaren,30.0
+2019,6,5,Racing Point,17.0
+2019,6,6,Haas F1 Team,16.0
+2019,6,7,Toro Rosso,16.0
+2019,6,8,Renault,14.0
+2019,6,9,Alfa Romeo,13.0
+2019,6,10,Williams,0.0
+2019,7,1,Mercedes,295.0
+2019,7,2,Ferrari,172.0
+2019,7,3,Red Bull,124.0
+2019,7,4,McLaren,30.0
+2019,7,5,Renault,28.0
+2019,7,6,Racing Point,19.0
+2019,7,7,Toro Rosso,17.0
+2019,7,8,Haas F1 Team,16.0
+2019,7,9,Alfa Romeo,13.0
+2019,7,10,Williams,0.0
+2019,8,1,Mercedes,338.0
+2019,8,2,Ferrari,198.0
+2019,8,3,Red Bull,137.0
+2019,8,4,McLaren,40.0
+2019,8,5,Renault,32.0
+2019,8,6,Racing Point,19.0
+2019,8,7,Alfa Romeo,19.0
+2019,8,8,Toro Rosso,17.0
+2019,8,9,Haas F1 Team,16.0
+2019,8,10,Williams,0.0
+2019,9,1,Mercedes,363.0
+2019,9,2,Ferrari,228.0
+2019,9,3,Red Bull,169.0
+2019,9,4,McLaren,52.0
+2019,9,5,Renault,32.0
+2019,9,6,Alfa Romeo,22.0
+2019,9,7,Racing Point,19.0
+2019,9,8,Toro Rosso,17.0
+2019,9,9,Haas F1 Team,16.0
+2019,9,10,Williams,0.0
+2019,10,1,Mercedes,407.0
+2019,10,2,Ferrari,243.0
+2019,10,3,Red Bull,191.0
+2019,10,4,McLaren,60.0
+2019,10,5,Renault,39.0
+2019,10,6,Alfa Romeo,26.0
+2019,10,7,Racing Point,19.0
+2019,10,8,Toro Rosso,19.0
+2019,10,9,Haas F1 Team,16.0
+2019,10,10,Williams,0.0
+2019,11,1,Mercedes,409.0
+2019,11,2,Ferrari,261.0
+2019,11,3,Red Bull,217.0
+2019,11,4,McLaren,70.0
+2019,11,5,Toro Rosso,42.0
+2019,11,6,Renault,39.0
+2019,11,7,Racing Point,31.0
+2019,11,8,Haas F1 Team,26.0
+2019,11,9,Alfa Romeo,26.0
+2019,11,10,Williams,1.0
+2019,12,1,Mercedes,438.0
+2019,12,2,Ferrari,288.0
+2019,12,3,Red Bull,244.0
+2019,12,4,McLaren,82.0
+2019,12,5,Toro Rosso,43.0
+2019,12,6,Renault,39.0
+2019,12,7,Alfa Romeo,32.0
+2019,12,8,Racing Point,31.0
+2019,12,9,Haas F1 Team,26.0
+2019,12,10,Williams,1.0
+2019,13,1,Mercedes,471.0
+2019,13,2,Ferrari,326.0
+2019,13,3,Red Bull,254.0
+2019,13,4,McLaren,82.0
+2019,13,5,Toro Rosso,51.0
+2019,13,6,Renault,43.0
+2019,13,7,Racing Point,40.0
+2019,13,8,Alfa Romeo,32.0
+2019,13,9,Haas F1 Team,26.0
+2019,13,10,Williams,1.0
+2019,14,1,Mercedes,505.0
+2019,14,2,Ferrari,351.0
+2019,14,3,Red Bull,266.0
+2019,14,4,McLaren,83.0
+2019,14,5,Renault,65.0
+2019,14,6,Toro Rosso,51.0
+2019,14,7,Racing Point,46.0
+2019,14,8,Alfa Romeo,34.0
+2019,14,9,Haas F1 Team,26.0
+2019,14,10,Williams,1.0
+2019,15,1,Mercedes,527.0
+2019,15,2,Ferrari,394.0
+2019,15,3,Red Bull,289.0
+2019,15,4,McLaren,89.0
+2019,15,5,Renault,67.0
+2019,15,6,Toro Rosso,55.0
+2019,15,7,Racing Point,46.0
+2019,15,8,Alfa Romeo,35.0
+2019,15,9,Haas F1 Team,26.0
+2019,15,10,Williams,1.0
+2019,16,1,Mercedes,571.0
+2019,16,2,Ferrari,409.0
+2019,16,3,Red Bull,311.0
+2019,16,4,McLaren,101.0
+2019,16,5,Renault,68.0
+2019,16,6,Toro Rosso,55.0
+2019,16,7,Racing Point,52.0
+2019,16,8,Alfa Romeo,35.0
+2019,16,9,Haas F1 Team,28.0
+2019,16,10,Williams,1.0
+2019,17,1,Mercedes,612.0
+2019,17,2,Ferrari,435.0
+2019,17,3,Red Bull,323.0
+2019,17,4,McLaren,111.0
+2019,17,5,Renault,68.0
+2019,17,6,Toro Rosso,62.0
+2019,17,7,Racing Point,58.0
+2019,17,8,Alfa Romeo,35.0
+2019,17,9,Haas F1 Team,28.0
+2019,17,10,Williams,1.0
+2019,18,1,Mercedes,652.0
+2019,18,2,Ferrari,466.0
+2019,18,3,Red Bull,341.0
+2019,18,4,McLaren,111.0
+2019,18,5,Renault,73.0
+2019,18,6,Toro Rosso,64.0
+2019,18,7,Racing Point,64.0
+2019,18,8,Alfa Romeo,35.0
+2019,18,9,Haas F1 Team,28.0
+2019,18,10,Williams,1.0
+2019,19,1,Mercedes,695.0
+2019,19,2,Ferrari,479.0
+2019,19,3,Red Bull,366.0
+2019,19,4,McLaren,121.0
+2019,19,5,Renault,83.0
+2019,19,6,Racing Point,65.0
+2019,19,7,Toro Rosso,64.0
+2019,19,8,Alfa Romeo,35.0
+2019,19,9,Haas F1 Team,28.0
+2019,19,10,Williams,1.0
+2019,20,1,Mercedes,701.0
+2019,20,2,Ferrari,479.0
+2019,20,3,Red Bull,391.0
+2019,20,4,McLaren,140.0
+2019,20,5,Renault,91.0
+2019,20,6,Toro Rosso,83.0
+2019,20,7,Racing Point,67.0
+2019,20,8,Alfa Romeo,57.0
+2019,20,9,Haas F1 Team,28.0
+2019,20,10,Williams,1.0
+2019,21,1,Mercedes,739.0
+2019,21,2,Ferrari,504.0
+2019,21,3,Red Bull,417.0
+2019,21,4,McLaren,145.0
+2019,21,5,Renault,91.0
+2019,21,6,Toro Rosso,85.0
+2019,21,7,Racing Point,73.0
+2019,21,8,Alfa Romeo,57.0
+2019,21,9,Haas F1 Team,28.0
+2019,21,10,Williams,1.0
+2020,1,1,Mercedes,37.0
+2020,1,2,McLaren,26.0
+2020,1,3,Ferrari,19.0
+2020,1,4,AlphaTauri,6.0
+2020,1,5,Renault,4.0
+2020,1,6,Alfa Romeo,2.0
+2020,1,7,Racing Point,0.0
+2020,1,8,Williams,0.0
+2020,1,9,Red Bull,0.0
+2020,1,0,Haas F1 Team,0.0
+2020,2,1,Mercedes,80.0
+2020,2,2,McLaren,39.0
+2020,2,3,Red Bull,27.0
+2020,2,4,Ferrari,19.0
+2020,2,5,Renault,8.0
+2020,2,6,Racing Point,7.0
+2020,2,7,AlphaTauri,7.0
+2020,2,8,Alfa Romeo,2.0
+2020,2,9,Williams,0.0
+2020,2,10,Haas F1 Team,0.0
+2020,3,1,Mercedes,121.0
+2020,3,2,Red Bull,55.0
+2020,3,3,McLaren,41.0
+2020,3,4,Ferrari,27.0
+2020,3,5,Racing Point,25.0
+2020,3,6,Renault,12.0
+2020,3,7,AlphaTauri,7.0
+2020,3,8,Alfa Romeo,2.0
+2020,3,9,Haas F1 Team,1.0
+2020,3,10,Williams,0.0
+2020,4,1,Mercedes,146.0
+2020,4,2,Red Bull,78.0
+2020,4,3,McLaren,51.0
+2020,4,4,Ferrari,43.0
+2020,4,5,Renault,32.0
+2020,4,6,Racing Point,27.0
+2020,4,7,AlphaTauri,13.0
+2020,4,8,Alfa Romeo,2.0
+2020,4,9,Haas F1 Team,1.0
+2020,4,10,Williams,0.0
+2020,5,1,Mercedes,180.0
+2020,5,2,Red Bull,113.0
+2020,5,3,Ferrari,55.0
+2020,5,4,McLaren,53.0
+2020,5,5,Racing Point,41.0
+2020,5,6,Renault,36.0
+2020,5,7,AlphaTauri,14.0
+2020,5,8,Alfa Romeo,2.0
+2020,5,9,Haas F1 Team,1.0
+2020,5,10,Williams,0.0
+2020,6,1,Mercedes,221.0
+2020,6,2,Red Bull,135.0
+2020,6,3,Racing Point,63.0
+2020,6,4,McLaren,62.0
+2020,6,5,Ferrari,61.0
+2020,6,6,Renault,36.0
+2020,6,7,AlphaTauri,16.0
+2020,6,8,Alfa Romeo,2.0
+2020,6,9,Haas F1 Team,1.0
+2020,6,10,Williams,0.0
+2020,7,1,Mercedes,264.0
+2020,7,2,Red Bull,158.0
+2020,7,3,McLaren,68.0
+2020,7,4,Racing Point,66.0
+2020,7,5,Ferrari,61.0
+2020,7,6,Renault,59.0
+2020,7,7,AlphaTauri,20.0
+2020,7,8,Alfa Romeo,2.0
+2020,7,9,Haas F1 Team,1.0
+2020,7,10,Williams,0.0
+2020,8,1,Mercedes,281.0
+2020,8,2,Red Bull,158.0
+2020,8,3,McLaren,98.0
+2020,8,4,Racing Point,82.0
+2020,8,5,Renault,71.0
+2020,8,6,Ferrari,61.0
+2020,8,7,AlphaTauri,47.0
+2020,8,8,Alfa Romeo,2.0
+2020,8,9,Haas F1 Team,1.0
+2020,8,10,Williams,0.0
+2020,9,1,Mercedes,325.0
+2020,9,2,Red Bull,173.0
+2020,9,3,McLaren,106.0
+2020,9,4,Racing Point,92.0
+2020,9,5,Renault,83.0
+2020,9,6,Ferrari,66.0
+2020,9,7,AlphaTauri,53.0
+2020,9,8,Alfa Romeo,4.0
+2020,9,9,Haas F1 Team,1.0
+2020,9,10,Williams,0.0
+2020,10,1,Mercedes,366.0
+2020,10,2,Red Bull,192.0
+2020,10,3,McLaren,106.0
+2020,10,4,Racing Point,104.0
+2020,10,5,Renault,99.0
+2020,10,6,Ferrari,74.0
+2020,10,7,AlphaTauri,59.0
+2020,10,8,Alfa Romeo,4.0
+2020,10,9,Haas F1 Team,1.0
+2020,10,10,Williams,0.0
+2020,11,1,Mercedes,391.0
+2020,11,2,Red Bull,211.0
+2020,11,3,Racing Point,120.0
+2020,11,4,McLaren,116.0
+2020,11,5,Renault,114.0
+2020,11,6,Ferrari,80.0
+2020,11,7,AlphaTauri,67.0
+2020,11,8,Alfa Romeo,5.0
+2020,11,9,Haas F1 Team,3.0
+2020,11,10,Williams,0.0
+2020,12,1,Mercedes,435.0
+2020,12,2,Red Bull,226.0
+2020,12,3,Racing Point,126.0
+2020,12,4,McLaren,124.0
+2020,12,5,Renault,120.0
+2020,12,6,Ferrari,93.0
+2020,12,7,AlphaTauri,77.0
+2020,12,8,Alfa Romeo,5.0
+2020,12,9,Haas F1 Team,3.0
+2020,12,10,Williams,0.0
+2020,13,1,Mercedes,479.0
+2020,13,2,Red Bull,226.0
+2020,13,3,Renault,135.0
+2020,13,4,McLaren,134.0
+2020,13,5,Racing Point,134.0
+2020,13,6,Ferrari,103.0
+2020,13,7,AlphaTauri,89.0
+2020,13,8,Alfa Romeo,8.0
+2020,13,9,Haas F1 Team,3.0
+2020,13,10,Williams,0.0
+2020,14,1,Mercedes,504.0
+2020,14,2,Red Bull,240.0
+2020,14,3,Racing Point,154.0
+2020,14,4,McLaren,149.0
+2020,14,5,Renault,136.0
+2020,14,6,Ferrari,130.0
+2020,14,7,AlphaTauri,89.0
+2020,14,8,Alfa Romeo,8.0
+2020,14,9,Haas F1 Team,3.0
+2020,14,10,Williams,0.0
+2020,15,1,Mercedes,533.0
+2020,15,2,Red Bull,274.0
+2020,15,3,McLaren,171.0
+2020,15,4,Racing Point,154.0
+2020,15,5,Renault,144.0
+2020,15,6,Ferrari,131.0
+2020,15,7,AlphaTauri,97.0
+2020,15,8,Alfa Romeo,8.0
+2020,15,9,Haas F1 Team,3.0
+2020,15,10,Williams,0.0
+2020,16,1,Mercedes,540.0
+2020,16,2,Red Bull,282.0
+2020,16,3,Racing Point,194.0
+2020,16,4,McLaren,184.0
+2020,16,5,Renault,172.0
+2020,16,6,Ferrari,131.0
+2020,16,7,AlphaTauri,103.0
+2020,16,8,Alfa Romeo,8.0
+2020,16,9,Haas F1 Team,3.0
+2020,16,10,Williams,0.0
+2020,17,1,Mercedes,573.0
+2020,17,2,Red Bull,319.0
+2020,17,3,McLaren,202.0
+2020,17,4,Racing Point,195.0
+2020,17,5,Renault,181.0
+2020,17,6,Ferrari,131.0
+2020,17,7,AlphaTauri,107.0
+2020,17,8,Alfa Romeo,8.0
+2020,17,9,Haas F1 Team,3.0
+2020,17,10,Williams,0.0
+2021,1,1,Mercedes,41.0
+2021,1,2,Red Bull,28.0
+2021,1,3,McLaren,18.0
+2021,1,4,Ferrari,12.0
+2021,1,5,AlphaTauri,2.0
+2021,1,6,Aston Martin,1.0
+2021,1,7,Alfa Romeo,0.0
+2021,1,8,Alpine F1 Team,0.0
+2021,1,9,Williams,0.0
+2021,1,10,Haas F1 Team,0.0
+2021,2,1,Mercedes,60.0
+2021,2,2,Red Bull,53.0
+2021,2,3,McLaren,41.0
+2021,2,4,Ferrari,34.0
+2021,2,5,AlphaTauri,8.0
+2021,2,6,Aston Martin,5.0
+2021,2,7,Alpine F1 Team,3.0
+2021,2,8,Alfa Romeo,0.0
+2021,2,9,Williams,0.0
+2021,2,10,Haas F1 Team,0.0
+2021,3,1,Mercedes,101.0
+2021,3,2,Red Bull,83.0
+2021,3,3,McLaren,53.0
+2021,3,4,Ferrari,42.0
+2021,3,5,Alpine F1 Team,13.0
+2021,3,6,AlphaTauri,9.0
+2021,3,7,Aston Martin,5.0
+2021,3,8,Alfa Romeo,0.0
+2021,3,9,Williams,0.0
+2021,3,10,Haas F1 Team,0.0
+2021,4,1,Mercedes,141.0
+2021,4,2,Red Bull,112.0
+2021,4,3,McLaren,65.0
+2021,4,4,Ferrari,60.0
+2021,4,5,Alpine F1 Team,15.0
+2021,4,6,AlphaTauri,10.0
+2021,4,7,Aston Martin,5.0
+2021,4,8,Alfa Romeo,0.0
+2021,4,9,Williams,0.0
+2021,4,10,Haas F1 Team,0.0
+2021,5,1,Red Bull,149.0
+2021,5,2,Mercedes,148.0
+2021,5,3,McLaren,80.0
+2021,5,4,Ferrari,78.0
+2021,5,5,Aston Martin,19.0
+2021,5,6,AlphaTauri,18.0
+2021,5,7,Alpine F1 Team,17.0
+2021,5,8,Alfa Romeo,1.0
+2021,5,9,Williams,0.0
+2021,5,10,Haas F1 Team,0.0
+2021,6,1,Red Bull,174.0
+2021,6,2,Mercedes,148.0
+2021,6,3,Ferrari,94.0
+2021,6,4,McLaren,92.0
+2021,6,5,AlphaTauri,39.0
+2021,6,6,Aston Martin,37.0
+2021,6,7,Alpine F1 Team,25.0
+2021,6,8,Alfa Romeo,2.0
+2021,6,9,Haas F1 Team,0.0
+2021,6,10,Williams,0.0
+2021,7,1,Red Bull,215.0
+2021,7,2,Mercedes,178.0
+2021,7,3,McLaren,110.0
+2021,7,4,Ferrari,94.0
+2021,7,5,AlphaTauri,45.0
+2021,7,6,Aston Martin,40.0
+2021,7,7,Alpine F1 Team,29.0
+2021,7,8,Alfa Romeo,2.0
+2021,7,9,Williams,0.0
+2021,7,10,Haas F1 Team,0.0
+2021,8,1,Red Bull,252.0
+2021,8,2,Mercedes,212.0
+2021,8,3,McLaren,120.0
+2021,8,4,Ferrari,108.0
+2021,8,5,AlphaTauri,46.0
+2021,8,6,Aston Martin,44.0
+2021,8,7,Alpine F1 Team,31.0
+2021,8,8,Alfa Romeo,2.0
+2021,8,9,Williams,0.0
+2021,8,10,Haas F1 Team,0.0
+2021,9,1,Red Bull,286.0
+2021,9,2,Mercedes,242.0
+2021,9,3,McLaren,141.0
+2021,9,4,Ferrari,122.0
+2021,9,5,AlphaTauri,48.0
+2021,9,6,Aston Martin,44.0
+2021,9,7,Alpine F1 Team,32.0
+2021,9,8,Alfa Romeo,2.0
+2021,9,9,Williams,0.0
+2021,9,10,Haas F1 Team,0.0
+2021,10,1,Red Bull,289.0
+2021,10,2,Mercedes,285.0
+2021,10,3,McLaren,163.0
+2021,10,4,Ferrari,148.0
+2021,10,5,AlphaTauri,49.0
+2021,10,6,Aston Martin,48.0
+2021,10,7,Alpine F1 Team,40.0
+2021,10,8,Alfa Romeo,2.0
+2021,10,9,Williams,0.0
+2021,10,10,Haas F1 Team,0.0
+2021,11,1,Mercedes,303.0
+2021,11,2,Red Bull,291.0
+2021,11,3,Ferrari,163.0
+2021,11,4,McLaren,163.0
+2021,11,5,Alpine F1 Team,77.0
+2021,11,6,AlphaTauri,68.0
+2021,11,7,Aston Martin,48.0
+2021,11,8,Williams,10.0
+2021,11,9,Alfa Romeo,3.0
+2021,11,10,Haas F1 Team,0.0
+2021,12,1,Mercedes,310.5
+2021,12,2,Red Bull,303.5
+2021,12,3,McLaren,169.0
+2021,12,4,Ferrari,165.5
+2021,12,5,Alpine F1 Team,80.0
+2021,12,6,AlphaTauri,72.0
+2021,12,7,Aston Martin,53.0
+2021,12,8,Williams,20.0
+2021,12,9,Alfa Romeo,3.0
+2021,12,10,Haas F1 Team,0.0
+2021,13,1,Mercedes,344.5
+2021,13,2,Red Bull,332.5
+2021,13,3,Ferrari,181.5
+2021,13,4,McLaren,170.0
+2021,13,5,Alpine F1 Team,90.0
+2021,13,6,AlphaTauri,84.0
+2021,13,7,Aston Martin,53.0
+2021,13,8,Williams,20.0
+2021,13,9,Alfa Romeo,3.0
+2021,13,10,Haas F1 Team,0.0
+2021,14,1,Mercedes,362.5
+2021,14,2,Red Bull,344.5
+2021,14,3,McLaren,215.0
+2021,14,4,Ferrari,201.5
+2021,14,5,Alpine F1 Team,95.0
+2021,14,6,AlphaTauri,84.0
+2021,14,7,Aston Martin,59.0
+2021,14,8,Williams,22.0
+2021,14,9,Alfa Romeo,3.0
+2021,14,10,Haas F1 Team,0.0
+2021,15,1,Mercedes,397.5
+2021,15,2,Red Bull,364.5
+2021,15,3,McLaren,234.0
+2021,15,4,Ferrari,216.5
+2021,15,5,Alpine F1 Team,103.0
+2021,15,6,AlphaTauri,84.0
+2021,15,7,Aston Martin,59.0
+2021,15,8,Williams,23.0
+2021,15,9,Alfa Romeo,7.0
+2021,15,10,Haas F1 Team,0.0
+2021,16,1,Mercedes,433.5
+2021,16,2,Red Bull,397.5
+2021,16,3,McLaren,240.0
+2021,16,4,Ferrari,232.5
+2021,16,5,Alpine F1 Team,104.0
+2021,16,6,AlphaTauri,92.0
+2021,16,7,Aston Martin,61.0
+2021,16,8,Williams,23.0
+2021,16,9,Alfa Romeo,7.0
+2021,16,10,Haas F1 Team,0.0
+2021,17,1,Mercedes,460.5
+2021,17,2,Red Bull,437.5
+2021,17,3,McLaren,254.0
+2021,17,4,Ferrari,250.5
+2021,17,5,Alpine F1 Team,104.0
+2021,17,6,AlphaTauri,94.0
+2021,17,7,Aston Martin,62.0
+2021,17,8,Williams,23.0
+2021,17,9,Alfa Romeo,7.0
+2021,17,10,Haas F1 Team,0.0
+2021,18,1,Mercedes,478.5
+2021,18,2,Red Bull,477.5
+2021,18,3,Ferrari,268.5
+2021,18,4,McLaren,255.0
+2021,18,5,Alpine F1 Team,106.0
+2021,18,6,AlphaTauri,106.0
+2021,18,7,Aston Martin,68.0
+2021,18,8,Williams,23.0
+2021,18,9,Alfa Romeo,11.0
+2021,18,10,Haas F1 Team,0.0
+2021,19,1,Mercedes,521.5
+2021,19,2,Red Bull,510.5
+2021,19,3,Ferrari,287.5
+2021,19,4,McLaren,256.0
+2021,19,5,Alpine F1 Team,112.0
+2021,19,6,AlphaTauri,112.0
+2021,19,7,Aston Martin,68.0
+2021,19,8,Williams,23.0
+2021,19,9,Alfa Romeo,11.0
+2021,19,10,Haas F1 Team,0.0
+2021,20,1,Mercedes,546.5
+2021,20,2,Red Bull,541.5
+2021,20,3,Ferrari,297.5
+2021,20,4,McLaren,258.0
+2021,20,5,Alpine F1 Team,137.0
+2021,20,6,AlphaTauri,112.0
+2021,20,7,Aston Martin,77.0
+2021,20,8,Williams,23.0
+2021,20,9,Alfa Romeo,11.0
+2021,20,10,Haas F1 Team,0.0
+2021,21,1,Mercedes,587.5
+2021,21,2,Red Bull,559.5
+2021,21,3,Ferrari,307.5
+2021,21,4,McLaren,269.0
+2021,21,5,Alpine F1 Team,149.0
+2021,21,6,AlphaTauri,120.0
+2021,21,7,Aston Martin,77.0
+2021,21,8,Williams,23.0
+2021,21,9,Alfa Romeo,13.0
+2021,21,10,Haas F1 Team,0.0
+2021,22,1,Mercedes,613.5
+2021,22,2,Red Bull,585.5
+2021,22,3,Ferrari,323.5
+2021,22,4,McLaren,275.0
+2021,22,5,Alpine F1 Team,155.0
+2021,22,6,AlphaTauri,142.0
+2021,22,7,Aston Martin,77.0
+2021,22,8,Williams,23.0
+2021,22,9,Alfa Romeo,13.0
+2021,22,10,Haas F1 Team,0.0
+2022,1,1,Ferrari,44.0
+2022,1,2,Mercedes,27.0
+2022,1,3,Haas F1 Team,10.0
+2022,1,4,Alfa Romeo,9.0
+2022,1,5,Alpine F1 Team,8.0
+2022,1,6,AlphaTauri,4.0
+2022,1,7,Aston Martin,0.0
+2022,1,8,Williams,0.0
+2022,1,9,McLaren,0.0
+2022,1,10,Red Bull,0.0
+2022,2,1,Ferrari,78.0
+2022,2,2,Mercedes,38.0
+2022,2,3,Red Bull,37.0
+2022,2,4,Alpine F1 Team,16.0
+2022,2,5,Haas F1 Team,12.0
+2022,2,6,Alfa Romeo,9.0
+2022,2,7,AlphaTauri,8.0
+2022,2,8,McLaren,6.0
+2022,2,9,Aston Martin,0.0
+2022,2,10,Williams,0.0
+2022,3,1,Ferrari,104.0
+2022,3,2,Mercedes,65.0
+2022,3,3,Red Bull,55.0
+2022,3,4,McLaren,24.0
+2022,3,5,Alpine F1 Team,22.0
+2022,3,6,Alfa Romeo,13.0
+2022,3,7,Haas F1 Team,12.0
+2022,3,8,AlphaTauri,10.0
+2022,3,9,Williams,1.0
+2022,3,10,Aston Martin,0.0
+2022,4,1,Ferrari,124.0
+2022,4,2,Red Bull,113.0
+2022,4,3,Mercedes,77.0
+2022,4,4,McLaren,46.0
+2022,4,5,Alfa Romeo,25.0
+2022,4,6,Alpine F1 Team,22.0
+2022,4,7,AlphaTauri,16.0
+2022,4,8,Haas F1 Team,15.0
+2022,4,9,Aston Martin,5.0
+2022,4,10,Williams,1.0
+2022,5,1,Ferrari,157.0
+2022,5,2,Red Bull,151.0
+2022,5,3,Mercedes,95.0
+2022,5,4,McLaren,46.0
+2022,5,5,Alfa Romeo,31.0
+2022,5,6,Alpine F1 Team,26.0
+2022,5,7,AlphaTauri,16.0
+2022,5,8,Haas F1 Team,15.0
+2022,5,9,Aston Martin,6.0
+2022,5,10,Williams,3.0
+2022,6,1,Red Bull,195.0
+2022,6,2,Ferrari,169.0
+2022,6,3,Mercedes,120.0
+2022,6,4,McLaren,50.0
+2022,6,5,Alfa Romeo,39.0
+2022,6,6,Alpine F1 Team,34.0
+2022,6,7,AlphaTauri,17.0
+2022,6,8,Haas F1 Team,15.0
+2022,6,9,Aston Martin,6.0
+2022,6,10,Williams,3.0
+2022,7,1,Red Bull,235.0
+2022,7,2,Ferrari,199.0
+2022,7,3,Mercedes,134.0
+2022,7,4,McLaren,59.0
+2022,7,5,Alfa Romeo,41.0
+2022,7,6,Alpine F1 Team,40.0
+2022,7,7,AlphaTauri,17.0
+2022,7,8,Haas F1 Team,15.0
+2022,7,9,Aston Martin,7.0
+2022,7,10,Williams,3.0
+2022,8,1,Red Bull,279.0
+2022,8,2,Ferrari,199.0
+2022,8,3,Mercedes,161.0
+2022,8,4,McLaren,65.0
+2022,8,5,Alpine F1 Team,47.0
+2022,8,6,Alfa Romeo,41.0
+2022,8,7,AlphaTauri,27.0
+2022,8,8,Haas F1 Team,15.0
+2022,8,9,Aston Martin,15.0
+2022,8,10,Williams,3.0
+2022,9,1,Red Bull,304.0
+2022,9,2,Ferrari,228.0
+2022,9,3,Mercedes,188.0
+2022,9,4,McLaren,65.0
+2022,9,5,Alpine F1 Team,57.0
+2022,9,6,Alfa Romeo,51.0
+2022,9,7,AlphaTauri,27.0
+2022,9,8,Aston Martin,16.0
+2022,9,9,Haas F1 Team,15.0
+2022,9,10,Williams,3.0
+2022,10,1,Red Bull,328.0
+2022,10,2,Ferrari,265.0
+2022,10,3,Mercedes,204.0
+2022,10,4,McLaren,73.0
+2022,10,5,Alpine F1 Team,67.0
+2022,10,6,Alfa Romeo,51.0
+2022,10,7,AlphaTauri,27.0
+2022,10,8,Haas F1 Team,20.0
+2022,10,9,Aston Martin,18.0
+2022,10,10,Williams,3.0
+2022,11,1,Red Bull,359.0
+2022,11,2,Ferrari,303.0
+2022,11,3,Mercedes,237.0
+2022,11,4,McLaren,81.0
+2022,11,5,Alpine F1 Team,81.0
+2022,11,6,Alfa Romeo,51.0
+2022,11,7,Haas F1 Team,34.0
+2022,11,8,AlphaTauri,27.0
+2022,11,9,Aston Martin,18.0
+2022,11,10,Williams,3.0
+2022,12,1,Red Bull,396.0
+2022,12,2,Ferrari,314.0
+2022,12,3,Mercedes,270.0
+2022,12,4,Alpine F1 Team,93.0
+2022,12,5,McLaren,89.0
+2022,12,6,Alfa Romeo,51.0
+2022,12,7,Haas F1 Team,34.0
+2022,12,8,AlphaTauri,27.0
+2022,12,9,Aston Martin,19.0
+2022,12,10,Williams,3.0
+2022,13,1,Red Bull,431.0
+2022,13,2,Ferrari,334.0
+2022,13,3,Mercedes,304.0
+2022,13,4,Alpine F1 Team,99.0
+2022,13,5,McLaren,95.0
+2022,13,6,Alfa Romeo,51.0
+2022,13,7,Haas F1 Team,34.0
+2022,13,8,AlphaTauri,27.0
+2022,13,9,Aston Martin,20.0
+2022,13,10,Williams,3.0
+2022,14,1,Red Bull,475.0
+2022,14,2,Ferrari,357.0
+2022,14,3,Mercedes,316.0
+2022,14,4,Alpine F1 Team,115.0
+2022,14,5,McLaren,95.0
+2022,14,6,Alfa Romeo,51.0
+2022,14,7,Haas F1 Team,34.0
+2022,14,8,AlphaTauri,29.0
+2022,14,9,Aston Martin,24.0
+2022,14,10,Williams,4.0
+2022,15,1,Red Bull,511.0
+2022,15,2,Ferrari,376.0
+2022,15,3,Mercedes,346.0
+2022,15,4,Alpine F1 Team,125.0
+2022,15,5,McLaren,101.0
+2022,15,6,Alfa Romeo,51.0
+2022,15,7,Haas F1 Team,34.0
+2022,15,8,AlphaTauri,29.0
+2022,15,9,Aston Martin,25.0
+2022,15,10,Williams,4.0
+2022,16,1,Red Bull,545.0
+2022,16,2,Ferrari,406.0
+2022,16,3,Mercedes,371.0
+2022,16,4,Alpine F1 Team,125.0
+2022,16,5,McLaren,107.0
+2022,16,6,Alfa Romeo,52.0
+2022,16,7,Haas F1 Team,34.0
+2022,16,8,AlphaTauri,33.0
+2022,16,9,Aston Martin,25.0
+2022,16,10,Williams,6.0
+2022,17,1,Red Bull,576.0
+2022,17,2,Ferrari,439.0
+2022,17,3,Mercedes,373.0
+2022,17,4,McLaren,129.0
+2022,17,5,Alpine F1 Team,125.0
+2022,17,6,Alfa Romeo,52.0
+2022,17,7,Aston Martin,37.0
+2022,17,8,Haas F1 Team,34.0
+2022,17,9,AlphaTauri,34.0
+2022,17,10,Williams,6.0
+2022,18,1,Red Bull,619.0
+2022,18,2,Ferrari,454.0
+2022,18,3,Mercedes,387.0
+2022,18,4,Alpine F1 Team,143.0
+2022,18,5,McLaren,130.0
+2022,18,6,Alfa Romeo,52.0
+2022,18,7,Aston Martin,45.0
+2022,18,8,Haas F1 Team,34.0
+2022,18,9,AlphaTauri,34.0
+2022,18,10,Williams,8.0
+2022,19,1,Red Bull,656.0
+2022,19,2,Ferrari,469.0
+2022,19,3,Mercedes,416.0
+2022,19,4,Alpine F1 Team,149.0
+2022,19,5,McLaren,138.0
+2022,19,6,Alfa Romeo,52.0
+2022,19,7,Aston Martin,49.0
+2022,19,8,Haas F1 Team,36.0
+2022,19,9,AlphaTauri,35.0
+2022,19,10,Williams,8.0
+2022,20,1,Red Bull,696.0
+2022,20,2,Ferrari,487.0
+2022,20,3,Mercedes,447.0
+2022,20,4,Alpine F1 Team,153.0
+2022,20,5,McLaren,146.0
+2022,20,6,Alfa Romeo,53.0
+2022,20,7,Aston Martin,49.0
+2022,20,8,Haas F1 Team,36.0
+2022,20,9,AlphaTauri,35.0
+2022,20,10,Williams,8.0
+2022,21,1,Red Bull,719.0
+2022,21,2,Ferrari,524.0
+2022,21,3,Mercedes,505.0
+2022,21,4,Alpine F1 Team,167.0
+2022,21,5,McLaren,148.0
+2022,21,6,Alfa Romeo,55.0
+2022,21,7,Aston Martin,50.0
+2022,21,8,Haas F1 Team,37.0
+2022,21,9,AlphaTauri,35.0
+2022,21,10,Williams,8.0
+2022,22,1,Red Bull,759.0
+2022,22,2,Ferrari,554.0
+2022,22,3,Mercedes,515.0
+2022,22,4,Alpine F1 Team,173.0
+2022,22,5,McLaren,159.0
+2022,22,6,Alfa Romeo,55.0
+2022,22,7,Aston Martin,55.0
+2022,22,8,Haas F1 Team,37.0
+2022,22,9,AlphaTauri,35.0
+2022,22,10,Williams,8.0
+2023,1,1,Red Bull,43.0
+2023,1,2,Aston Martin,23.0
+2023,1,3,Mercedes,16.0
+2023,1,4,Ferrari,12.0
+2023,1,5,Alfa Romeo,4.0
+2023,1,6,Alpine F1 Team,2.0
+2023,1,7,Williams,1.0
+2023,1,8,AlphaTauri,0.0
+2023,1,9,Haas F1 Team,0.0
+2023,1,10,McLaren,0.0
+2023,2,1,Red Bull,87.0
+2023,2,2,Aston Martin,38.0
+2023,2,3,Mercedes,38.0
+2023,2,4,Ferrari,26.0
+2023,2,5,Alpine F1 Team,8.0
+2023,2,6,Alfa Romeo,4.0
+2023,2,7,Haas F1 Team,1.0
+2023,2,8,Williams,1.0
+2023,2,9,AlphaTauri,0.0
+2023,2,10,McLaren,0.0
+2023,3,1,Red Bull,123.0
+2023,3,2,Aston Martin,65.0
+2023,3,3,Mercedes,56.0
+2023,3,4,Ferrari,26.0
+2023,3,5,McLaren,12.0
+2023,3,6,Alpine F1 Team,8.0
+2023,3,7,Haas F1 Team,7.0
+2023,3,8,Alfa Romeo,6.0
+2023,3,9,AlphaTauri,1.0
+2023,3,10,Williams,1.0
+2023,4,1,Red Bull,180.0
+2023,4,2,Aston Martin,87.0
+2023,4,3,Mercedes,76.0
+2023,4,4,Ferrari,62.0
+2023,4,5,McLaren,14.0
+2023,4,6,Alpine F1 Team,8.0
+2023,4,7,Haas F1 Team,7.0
+2023,4,8,Alfa Romeo,6.0
+2023,4,9,AlphaTauri,2.0
+2023,4,10,Williams,1.0
+2023,5,1,Red Bull,224.0
+2023,5,2,Aston Martin,102.0
+2023,5,3,Mercedes,96.0
+2023,5,4,Ferrari,78.0
+2023,5,5,McLaren,14.0
+2023,5,6,Alpine F1 Team,14.0
+2023,5,7,Haas F1 Team,8.0
+2023,5,8,Alfa Romeo,6.0
+2023,5,9,AlphaTauri,2.0
+2023,5,10,Williams,1.0
+2023,6,1,Red Bull,249.0
+2023,6,2,Aston Martin,120.0
+2023,6,3,Mercedes,119.0
+2023,6,4,Ferrari,90.0
+2023,6,5,Alpine F1 Team,35.0
+2023,6,6,McLaren,17.0
+2023,6,7,Haas F1 Team,8.0
+2023,6,8,Alfa Romeo,6.0
+2023,6,9,AlphaTauri,2.0
+2023,6,10,Williams,1.0
+2023,7,1,Red Bull,287.0
+2023,7,2,Mercedes,152.0
+2023,7,3,Aston Martin,134.0
+2023,7,4,Ferrari,100.0
+2023,7,5,Alpine F1 Team,40.0
+2023,7,6,McLaren,17.0
+2023,7,7,Haas F1 Team,8.0
+2023,7,8,Alfa Romeo,8.0
+2023,7,9,AlphaTauri,2.0
+2023,7,10,Williams,1.0
+2023,8,1,Red Bull,321.0
+2023,8,2,Mercedes,167.0
+2023,8,3,Aston Martin,154.0
+2023,8,4,Ferrari,122.0
+2023,8,5,Alpine F1 Team,44.0
+2023,8,6,McLaren,17.0
+2023,8,7,Alfa Romeo,9.0
+2023,8,8,Haas F1 Team,8.0
+2023,8,9,Williams,7.0
+2023,8,10,AlphaTauri,2.0
+2023,9,1,Red Bull,377.0
+2023,9,2,Mercedes,178.0
+2023,9,3,Aston Martin,175.0
+2023,9,4,Ferrari,154.0
+2023,9,5,Alpine F1 Team,47.0
+2023,9,6,McLaren,29.0
+2023,9,7,Haas F1 Team,11.0
+2023,9,8,Alfa Romeo,9.0
+2023,9,9,Williams,7.0
+2023,9,10,AlphaTauri,2.0
+2023,10,1,Red Bull,411.0
+2023,10,2,Mercedes,203.0
+2023,10,3,Aston Martin,181.0
+2023,10,4,Ferrari,157.0
+2023,10,5,McLaren,59.0
+2023,10,6,Alpine F1 Team,47.0
+2023,10,7,Williams,11.0
+2023,10,8,Haas F1 Team,11.0
+2023,10,9,Alfa Romeo,9.0
+2023,10,10,AlphaTauri,2.0
+2023,11,1,Red Bull,452.0
+2023,11,2,Mercedes,223.0
+2023,11,3,Aston Martin,184.0
+2023,11,4,Ferrari,167.0
+2023,11,5,McLaren,87.0
+2023,11,6,Alpine F1 Team,47.0
+2023,11,7,Williams,11.0
+2023,11,8,Haas F1 Team,11.0
+2023,11,9,Alfa Romeo,9.0
+2023,11,10,AlphaTauri,2.0
+2023,12,1,Red Bull,503.0
+2023,12,2,Mercedes,247.0
+2023,12,3,Aston Martin,196.0
+2023,12,4,Ferrari,191.0
+2023,12,5,McLaren,103.0
+2023,12,6,Alpine F1 Team,57.0
+2023,12,7,Williams,11.0
+2023,12,8,Haas F1 Team,11.0
+2023,12,9,Alfa Romeo,9.0
+2023,12,10,AlphaTauri,3.0
+2023,13,1,Red Bull,540.0
+2023,13,2,Mercedes,255.0
+2023,13,3,Aston Martin,215.0
+2023,13,4,Ferrari,201.0
+2023,13,5,McLaren,111.0
+2023,13,6,Alpine F1 Team,73.0
+2023,13,7,Williams,15.0
+2023,13,8,Haas F1 Team,11.0
+2023,13,9,Alfa Romeo,9.0
+2023,13,10,AlphaTauri,3.0
+2023,14,1,Red Bull,583.0
+2023,14,2,Mercedes,273.0
+2023,14,3,Ferrari,228.0
+2023,14,4,Aston Martin,217.0
+2023,14,5,McLaren,115.0
+2023,14,6,Alpine F1 Team,73.0
+2023,14,7,Williams,21.0
+2023,14,8,Haas F1 Team,11.0
+2023,14,9,Alfa Romeo,10.0
+2023,14,10,AlphaTauri,3.0
+2023,15,1,Red Bull,597.0
+2023,15,2,Mercedes,289.0
+2023,15,3,Ferrari,265.0
+2023,15,4,Aston Martin,217.0
+2023,15,5,McLaren,139.0
+2023,15,6,Alpine F1 Team,81.0
+2023,15,7,Williams,21.0
+2023,15,8,Haas F1 Team,12.0
+2023,15,9,Alfa Romeo,10.0
+2023,15,10,AlphaTauri,5.0
+2023,16,1,Red Bull,623.0
+2023,16,2,Mercedes,305.0
+2023,16,3,Ferrari,285.0
+2023,16,4,Aston Martin,221.0
+2023,16,5,McLaren,172.0
+2023,16,6,Alpine F1 Team,84.0
+2023,16,7,Williams,21.0
+2023,16,8,Haas F1 Team,12.0
+2023,16,9,Alfa Romeo,10.0
+2023,16,10,AlphaTauri,5.0
+2023,17,1,Red Bull,657.0
+2023,17,2,Mercedes,326.0
+2023,17,3,Ferrari,298.0
+2023,17,4,Aston Martin,230.0
+2023,17,5,McLaren,219.0
+2023,17,6,Alpine F1 Team,90.0
+2023,17,7,Williams,23.0
+2023,17,8,Alfa Romeo,16.0
+2023,17,9,Haas F1 Team,12.0
+2023,17,10,AlphaTauri,5.0
+2023,18,1,Red Bull,706.0
+2023,18,2,Mercedes,344.0
+2023,18,3,Ferrari,322.0
+2023,18,4,McLaren,242.0
+2023,18,5,Aston Martin,236.0
+2023,18,6,Alpine F1 Team,100.0
+2023,18,7,Williams,26.0
+2023,18,8,Alfa Romeo,16.0
+2023,18,9,Haas F1 Team,12.0
+2023,18,10,AlphaTauri,10.0
+2023,19,1,Red Bull,731.0
+2023,19,2,Mercedes,371.0
+2023,19,3,Ferrari,349.0
+2023,19,4,McLaren,256.0
+2023,19,5,Aston Martin,236.0
+2023,19,6,Alpine F1 Team,101.0
+2023,19,7,Williams,28.0
+2023,19,8,AlphaTauri,16.0
+2023,19,9,Alfa Romeo,16.0
+2023,19,10,Haas F1 Team,12.0
+2023,20,1,Red Bull,782.0
+2023,20,2,Mercedes,382.0
+2023,20,3,Ferrari,362.0
+2023,20,4,McLaren,282.0
+2023,20,5,Aston Martin,261.0
+2023,20,6,Alpine F1 Team,108.0
+2023,20,7,Williams,28.0
+2023,20,8,AlphaTauri,21.0
+2023,20,9,Alfa Romeo,16.0
+2023,20,10,Haas F1 Team,12.0
+2023,21,1,Red Bull,822.0
+2023,21,2,Mercedes,392.0
+2023,21,3,Ferrari,388.0
+2023,21,4,McLaren,284.0
+2023,21,5,Aston Martin,273.0
+2023,21,6,Alpine F1 Team,120.0
+2023,21,7,Williams,28.0
+2023,21,8,AlphaTauri,21.0
+2023,21,9,Alfa Romeo,16.0
+2023,21,10,Haas F1 Team,12.0
+2023,22,1,Red Bull,860.0
+2023,22,2,Mercedes,409.0
+2023,22,3,Ferrari,406.0
+2023,22,4,McLaren,302.0
+2023,22,5,Aston Martin,280.0
+2023,22,6,Alpine F1 Team,120.0
+2023,22,7,Williams,28.0
+2023,22,8,AlphaTauri,25.0
+2023,22,9,Alfa Romeo,16.0
+2023,22,10,Haas F1 Team,12.0
+2024,1,1,Red Bull,44.0
+2024,1,2,Ferrari,27.0
+2024,1,3,Mercedes,16.0
+2024,1,4,McLaren,12.0
+2024,1,5,Aston Martin,3.0
+2024,1,6,Sauber,0.0
+2024,1,7,Haas F1 Team,0.0
+2024,1,8,RB F1 Team,0.0
+2024,1,9,Williams,0.0
+2024,1,10,Alpine F1 Team,0.0
+2024,2,1,Red Bull,87.0
+2024,2,2,Ferrari,49.0
+2024,2,3,McLaren,28.0
+2024,2,4,Mercedes,26.0
+2024,2,5,Aston Martin,13.0
+2024,2,6,Haas F1 Team,1.0
+2024,2,7,Williams,0.0
+2024,2,8,Sauber,0.0
+2024,2,9,RB F1 Team,0.0
+2024,2,10,Alpine F1 Team,0.0
+2024,3,1,Red Bull,97.0
+2024,3,2,Ferrari,93.0
+2024,3,3,McLaren,55.0
+2024,3,4,Mercedes,26.0
+2024,3,5,Aston Martin,25.0
+2024,3,6,RB F1 Team,6.0
+2024,3,7,Haas F1 Team,4.0
+2024,3,8,Williams,0.0
+2024,3,9,Sauber,0.0
+2024,3,10,Alpine F1 Team,0.0
+2024,4,1,Red Bull,141.0
+2024,4,2,Ferrari,120.0
+2024,4,3,McLaren,69.0
+2024,4,4,Mercedes,34.0
+2024,4,5,Aston Martin,33.0
+2024,4,6,RB F1 Team,7.0
+2024,4,7,Haas F1 Team,4.0
+2024,4,8,Williams,0.0
+2024,4,9,Sauber,0.0
+2024,4,10,Alpine F1 Team,0.0
+2024,5,1,Red Bull,195.0
+2024,5,2,Ferrari,151.0
+2024,5,3,McLaren,96.0
+2024,5,4,Mercedes,52.0
+2024,5,5,Aston Martin,40.0
+2024,5,6,RB F1 Team,7.0
+2024,5,7,Haas F1 Team,5.0
+2024,5,8,Williams,0.0
+2024,5,9,Alpine F1 Team,0.0
+2024,5,10,Sauber,0.0
+2024,6,1,Red Bull,239.0
+2024,6,2,Ferrari,187.0
+2024,6,3,McLaren,124.0
+2024,6,4,Mercedes,64.0
+2024,6,5,Aston Martin,42.0
+2024,6,6,RB F1 Team,19.0
+2024,6,7,Haas F1 Team,7.0
+2024,6,8,Alpine F1 Team,1.0
+2024,6,9,Williams,0.0
+2024,6,10,Sauber,0.0
+2024,7,1,Red Bull,268.0
+2024,7,2,Ferrari,212.0
+2024,7,3,McLaren,154.0
+2024,7,4,Mercedes,79.0
+2024,7,5,Aston Martin,44.0
+2024,7,6,RB F1 Team,20.0
+2024,7,7,Haas F1 Team,7.0
+2024,7,8,Alpine F1 Team,1.0
+2024,7,9,Williams,0.0
+2024,7,10,Sauber,0.0
+2024,8,1,Red Bull,276.0
+2024,8,2,Ferrari,252.0
+2024,8,3,McLaren,184.0
+2024,8,4,Mercedes,96.0
+2024,8,5,Aston Martin,44.0
+2024,8,6,RB F1 Team,24.0
+2024,8,7,Haas F1 Team,7.0
+2024,8,8,Williams,2.0
+2024,8,9,Alpine F1 Team,2.0
+2024,8,10,Sauber,0.0
+2024,9,1,Red Bull,301.0
+2024,9,2,Ferrari,252.0
+2024,9,3,McLaren,212.0
+2024,9,4,Mercedes,124.0
+2024,9,5,Aston Martin,58.0
+2024,9,6,RB F1 Team,28.0
+2024,9,7,Haas F1 Team,7.0
+2024,9,8,Alpine F1 Team,5.0
+2024,9,9,Williams,2.0
+2024,9,10,Sauber,0.0
+2024,10,1,Red Bull,330.0
+2024,10,2,Ferrari,270.0
+2024,10,3,McLaren,237.0
+2024,10,4,Mercedes,151.0
+2024,10,5,Aston Martin,58.0
+2024,10,6,RB F1 Team,28.0
+2024,10,7,Alpine F1 Team,8.0
+2024,10,8,Haas F1 Team,7.0
+2024,10,9,Williams,2.0
+2024,10,10,Sauber,0.0
+2024,11,1,Red Bull,355.0
+2024,11,2,Ferrari,291.0
+2024,11,3,McLaren,268.0
+2024,11,4,Mercedes,196.0
+2024,11,5,Aston Martin,58.0
+2024,11,6,RB F1 Team,30.0
+2024,11,7,Haas F1 Team,19.0
+2024,11,8,Alpine F1 Team,9.0
+2024,11,9,Williams,2.0
+2024,11,10,Sauber,0.0
+2024,12,1,Red Bull,373.0
+2024,12,2,Ferrari,302.0
+2024,12,3,McLaren,295.0
+2024,12,4,Mercedes,221.0
+2024,12,5,Aston Martin,68.0
+2024,12,6,RB F1 Team,31.0
+2024,12,7,Haas F1 Team,27.0
+2024,12,8,Alpine F1 Team,9.0
+2024,12,9,Williams,4.0
+2024,12,10,Sauber,0.0
+2024,13,1,Red Bull,389.0
+2024,13,2,McLaren,338.0
+2024,13,3,Ferrari,322.0
+2024,13,4,Mercedes,241.0
+2024,13,5,Aston Martin,69.0
+2024,13,6,RB F1 Team,33.0
+2024,13,7,Haas F1 Team,27.0
+2024,13,8,Alpine F1 Team,9.0
+2024,13,9,Williams,4.0
+2024,13,10,Sauber,0.0
+2024,14,1,Red Bull,408.0
+2024,14,2,McLaren,366.0
+2024,14,3,Ferrari,345.0
+2024,14,4,Mercedes,266.0
+2024,14,5,Aston Martin,73.0
+2024,14,6,RB F1 Team,34.0
+2024,14,7,Haas F1 Team,27.0
+2024,14,8,Alpine F1 Team,11.0
+2024,14,9,Williams,4.0
+2024,14,10,Sauber,0.0
+2024,15,1,Red Bull,434.0
+2024,15,2,McLaren,404.0
+2024,15,3,Ferrari,370.0
+2024,15,4,Mercedes,276.0
+2024,15,5,Aston Martin,74.0
+2024,15,6,RB F1 Team,34.0
+2024,15,7,Haas F1 Team,27.0
+2024,15,8,Alpine F1 Team,13.0
+2024,15,9,Williams,4.0
+2024,15,10,Sauber,0.0
+2024,16,1,Red Bull,446.0
+2024,16,2,McLaren,438.0
+2024,16,3,Ferrari,407.0
+2024,16,4,Mercedes,292.0
+2024,16,5,Aston Martin,74.0
+2024,16,6,RB F1 Team,34.0
+2024,16,7,Haas F1 Team,28.0
+2024,16,8,Alpine F1 Team,13.0
+2024,16,9,Williams,6.0
+2024,16,10,Sauber,0.0
+2024,17,1,McLaren,476.0
+2024,17,2,Red Bull,456.0
+2024,17,3,Ferrari,425.0
+2024,17,4,Mercedes,309.0
+2024,17,5,Aston Martin,82.0
+2024,17,6,RB F1 Team,34.0
+2024,17,7,Haas F1 Team,29.0
+2024,17,8,Williams,16.0
+2024,17,9,Alpine F1 Team,13.0
+2024,17,10,Sauber,0.0
+2024,18,1,McLaren,516.0
+2024,18,2,Red Bull,475.0
+2024,18,3,Ferrari,441.0
+2024,18,4,Mercedes,329.0
+2024,18,5,Aston Martin,86.0
+2024,18,6,RB F1 Team,34.0
+2024,18,7,Haas F1 Team,31.0
+2024,18,8,Williams,16.0
+2024,18,9,Alpine F1 Team,13.0
+2024,18,10,Sauber,0.0
+2024,19,1,McLaren,544.0
+2024,19,2,Red Bull,504.0
+2024,19,3,Ferrari,496.0
+2024,19,4,Mercedes,344.0
+2024,19,5,Aston Martin,86.0
+2024,19,6,Haas F1 Team,38.0
+2024,19,7,RB F1 Team,36.0
+2024,19,8,Williams,17.0
+2024,19,9,Alpine F1 Team,13.0
+2024,19,10,Sauber,0.0
+2024,20,1,McLaren,566.0
+2024,20,2,Ferrari,537.0
+2024,20,3,Red Bull,512.0
+2024,20,4,Mercedes,366.0
+2024,20,5,Aston Martin,86.0
+2024,20,6,Haas F1 Team,46.0
+2024,20,7,RB F1 Team,36.0
+2024,20,8,Williams,17.0
+2024,20,9,Alpine F1 Team,14.0
+2024,20,10,Sauber,0.0
+2024,21,1,McLaren,593.0
+2024,21,2,Ferrari,557.0
+2024,21,3,Red Bull,544.0
+2024,21,4,Mercedes,382.0
+2024,21,5,Aston Martin,86.0
+2024,21,6,Alpine F1 Team,49.0
+2024,21,7,Haas F1 Team,46.0
+2024,21,8,RB F1 Team,44.0
+2024,21,9,Williams,17.0
+2024,21,10,Sauber,0.0
+2024,22,1,McLaren,608.0
+2024,22,2,Ferrari,584.0
+2024,22,3,Red Bull,555.0
+2024,22,4,Mercedes,425.0
+2024,22,5,Aston Martin,86.0
+2024,22,6,Haas F1 Team,50.0
+2024,22,7,Alpine F1 Team,49.0
+2024,22,8,RB F1 Team,46.0
+2024,22,9,Williams,17.0
+2024,22,10,Sauber,0.0
+2024,23,1,McLaren,640.0
+2024,23,2,Ferrari,619.0
+2024,23,3,Red Bull,581.0
+2024,23,4,Mercedes,446.0
+2024,23,5,Aston Martin,92.0
+2024,23,6,Alpine F1 Team,59.0
+2024,23,7,Haas F1 Team,54.0
+2024,23,8,RB F1 Team,46.0
+2024,23,9,Williams,17.0
+2024,23,10,Sauber,4.0
+2024,24,1,McLaren,666.0
+2024,24,2,Ferrari,652.0
+2024,24,3,Red Bull,589.0
+2024,24,4,Mercedes,468.0
+2024,24,5,Aston Martin,94.0
+2024,24,6,Alpine F1 Team,65.0
+2024,24,7,Haas F1 Team,58.0
+2024,24,8,RB F1 Team,46.0
+2024,24,9,Williams,17.0
+2024,24,10,Sauber,4.0
+2025,1,1,McLaren,27.0
+2025,1,2,Mercedes,27.0
+2025,1,3,Red Bull,18.0
+2025,1,4,Williams,10.0
+2025,1,5,Aston Martin,8.0
+2025,1,6,Sauber,6.0
+2025,1,7,Ferrari,5.0
+2025,1,8,Alpine F1 Team,0.0
+2025,1,9,RB F1 Team,0.0
+2025,1,10,Haas F1 Team,0.0
+2025,2,1,McLaren,78.0
+2025,2,2,Mercedes,57.0
+2025,2,3,Red Bull,36.0
+2025,2,4,Williams,17.0
+2025,2,5,Ferrari,17.0
+2025,2,6,Haas F1 Team,14.0
+2025,2,7,Aston Martin,10.0
+2025,2,8,Sauber,6.0
+2025,2,9,RB F1 Team,3.0
+2025,2,10,Alpine F1 Team,0.0
+2025,3,1,McLaren,111.0
+2025,3,2,Mercedes,75.0
+2025,3,3,Red Bull,61.0
+2025,3,4,Ferrari,35.0
+2025,3,5,Williams,19.0
+2025,3,6,Haas F1 Team,15.0
+2025,3,7,Aston Martin,10.0
+2025,3,8,RB F1 Team,7.0
+2025,3,9,Sauber,6.0
+2025,3,10,Alpine F1 Team,0.0
+2025,4,1,McLaren,151.0
+2025,4,2,Mercedes,93.0
+2025,4,3,Red Bull,71.0
+2025,4,4,Ferrari,57.0
+2025,4,5,Haas F1 Team,20.0
+2025,4,6,Williams,19.0
+2025,4,7,Aston Martin,10.0
+2025,4,8,RB F1 Team,7.0
+2025,4,9,Alpine F1 Team,6.0
+2025,4,10,Sauber,6.0
+2025,5,1,McLaren,188.0
+2025,5,2,Mercedes,111.0
+2025,5,3,Red Bull,89.0
+2025,5,4,Ferrari,78.0
+2025,5,5,Williams,25.0
+2025,5,6,Haas F1 Team,20.0
+2025,5,7,Aston Martin,10.0
+2025,5,8,RB F1 Team,8.0
+2025,5,9,Alpine F1 Team,6.0
+2025,5,10,Sauber,6.0
+2025,6,1,McLaren,246.0
+2025,6,2,Mercedes,141.0
+2025,6,3,Red Bull,105.0
+2025,6,4,Ferrari,94.0
+2025,6,5,Williams,37.0
+2025,6,6,Haas F1 Team,20.0
+2025,6,7,Aston Martin,14.0
+2025,6,8,RB F1 Team,8.0
+2025,6,9,Alpine F1 Team,7.0
+2025,6,10,Sauber,6.0
+2025,7,1,McLaren,279.0
+2025,7,2,Mercedes,147.0
+2025,7,3,Red Bull,131.0
+2025,7,4,Ferrari,114.0
+2025,7,5,Williams,51.0
+2025,7,6,Haas F1 Team,20.0
+2025,7,7,Aston Martin,14.0
+2025,7,8,RB F1 Team,10.0
+2025,7,9,Alpine F1 Team,7.0
+2025,7,10,Sauber,6.0
+2025,8,1,McLaren,319.0
+2025,8,2,Mercedes,147.0
+2025,8,3,Red Bull,143.0
+2025,8,4,Ferrari,142.0
+2025,8,5,Williams,54.0
+2025,8,6,Haas F1 Team,26.0
+2025,8,7,RB F1 Team,22.0
+2025,8,8,Aston Martin,14.0
+2025,8,9,Alpine F1 Team,7.0
+2025,8,10,Sauber,6.0
+2025,9,1,McLaren,362.0
+2025,9,2,Ferrari,165.0
+2025,9,3,Mercedes,159.0
+2025,9,4,Red Bull,144.0
+2025,9,5,Williams,54.0
+2025,9,6,RB F1 Team,28.0
+2025,9,7,Haas F1 Team,26.0
+2025,9,8,Sauber,16.0
+2025,9,9,Aston Martin,16.0
+2025,9,10,Alpine F1 Team,11.0
+2025,10,1,McLaren,374.0
+2025,10,2,Mercedes,199.0
+2025,10,3,Ferrari,183.0
+2025,10,4,Red Bull,162.0
+2025,10,5,Williams,55.0
+2025,10,6,Haas F1 Team,28.0
+2025,10,7,RB F1 Team,28.0
+2025,10,8,Aston Martin,22.0
+2025,10,9,Sauber,20.0
+2025,10,10,Alpine F1 Team,11.0
+2025,11,1,McLaren,417.0
+2025,11,2,Ferrari,210.0
+2025,11,3,Mercedes,209.0
+2025,11,4,Red Bull,162.0
+2025,11,5,Williams,55.0
+2025,11,6,RB F1 Team,36.0
+2025,11,7,Haas F1 Team,29.0
+2025,11,8,Aston Martin,28.0
+2025,11,9,Sauber,26.0
+2025,11,10,Alpine F1 Team,11.0
+2025,12,1,McLaren,460.0
+2025,12,2,Ferrari,222.0
+2025,12,3,Mercedes,210.0
+2025,12,4,Red Bull,172.0
+2025,12,5,Williams,59.0
+2025,12,6,Sauber,41.0
+2025,12,7,RB F1 Team,36.0
+2025,12,8,Aston Martin,36.0
+2025,12,9,Haas F1 Team,29.0
+2025,12,10,Alpine F1 Team,19.0
+2025,13,1,McLaren,516.0
+2025,13,2,Ferrari,248.0
+2025,13,3,Mercedes,220.0
+2025,13,4,Red Bull,192.0
+2025,13,5,Williams,70.0
+2025,13,6,Sauber,43.0
+2025,13,7,RB F1 Team,41.0
+2025,13,8,Aston Martin,36.0
+2025,13,9,Haas F1 Team,35.0
+2025,13,10,Alpine F1 Team,20.0
+2025,14,1,McLaren,559.0
+2025,14,2,Ferrari,260.0
+2025,14,3,Mercedes,236.0
+2025,14,4,Red Bull,194.0
+2025,14,5,Williams,70.0
+2025,14,6,Aston Martin,52.0
+2025,14,7,Sauber,51.0
+2025,14,8,RB F1 Team,45.0
+2025,14,9,Haas F1 Team,35.0
+2025,14,10,Alpine F1 Team,20.0
+2025,15,1,McLaren,584.0
+2025,15,2,Ferrari,260.0
+2025,15,3,Mercedes,248.0
+2025,15,4,Red Bull,214.0
+2025,15,5,Williams,80.0
+2025,15,6,Aston Martin,62.0
+2025,15,7,RB F1 Team,60.0
+2025,15,8,Sauber,51.0
+2025,15,9,Haas F1 Team,44.0
+2025,15,10,Alpine F1 Team,20.0
+2025,16,1,McLaren,617.0
+2025,16,2,Ferrari,280.0
+2025,16,3,Mercedes,260.0
+2025,16,4,Red Bull,239.0
+2025,16,5,Williams,86.0
+2025,16,6,Aston Martin,62.0
+2025,16,7,RB F1 Team,61.0
+2025,16,8,Sauber,55.0
+2025,16,9,Haas F1 Team,44.0
+2025,16,10,Alpine F1 Team,20.0
+2025,17,1,McLaren,623.0
+2025,17,2,Mercedes,290.0
+2025,17,3,Ferrari,286.0
+2025,17,4,Red Bull,272.0
+2025,17,5,Williams,101.0
+2025,17,6,RB F1 Team,72.0
+2025,17,7,Aston Martin,62.0
+2025,17,8,Sauber,55.0
+2025,17,9,Haas F1 Team,44.0
+2025,17,10,Alpine F1 Team,20.0
+2025,18,1,McLaren,650.0
+2025,18,2,Mercedes,325.0
+2025,18,3,Ferrari,298.0
+2025,18,4,Red Bull,290.0
+2025,18,5,Williams,102.0
+2025,18,6,RB F1 Team,72.0
+2025,18,7,Aston Martin,68.0
+2025,18,8,Sauber,55.0
+2025,18,9,Haas F1 Team,46.0
+2025,18,10,Alpine F1 Team,20.0
+2025,19,1,McLaren,678.0
+2025,19,2,Mercedes,341.0
+2025,19,3,Ferrari,334.0
+2025,19,4,Red Bull,331.0
+2025,19,5,Williams,111.0
+2025,19,6,RB F1 Team,72.0
+2025,19,7,Aston Martin,69.0
+2025,19,8,Sauber,59.0
+2025,19,9,Haas F1 Team,48.0
+2025,19,10,Alpine F1 Team,20.0
+2025,20,1,McLaren,713.0
+2025,20,2,Ferrari,356.0
+2025,20,3,Mercedes,355.0
+2025,20,4,Red Bull,346.0
+2025,20,5,Williams,111.0
+2025,20,6,RB F1 Team,72.0
+2025,20,7,Aston Martin,69.0
+2025,20,8,Haas F1 Team,62.0
+2025,20,9,Sauber,60.0
+2025,20,10,Alpine F1 Team,20.0
+2025,21,1,McLaren,756.0
+2025,21,2,Mercedes,398.0
+2025,21,3,Red Bull,366.0
+2025,21,4,Ferrari,362.0
+2025,21,5,Williams,111.0
+2025,21,6,RB F1 Team,82.0
+2025,21,7,Aston Martin,72.0
+2025,21,8,Haas F1 Team,70.0
+2025,21,9,Sauber,62.0
+2025,21,10,Alpine F1 Team,22.0
+2025,22,1,McLaren,756.0
+2025,22,2,Mercedes,431.0
+2025,22,3,Red Bull,391.0
+2025,22,4,Ferrari,378.0
+2025,22,5,Williams,121.0
+2025,22,6,RB F1 Team,90.0
+2025,22,7,Haas F1 Team,73.0
+2025,22,8,Aston Martin,72.0
+2025,22,9,Sauber,68.0
+2025,22,10,Alpine F1 Team,22.0
+2025,23,1,McLaren,800.0
+2025,23,2,Mercedes,459.0
+2025,23,3,Red Bull,426.0
+2025,23,4,Ferrari,382.0
+2025,23,5,Williams,137.0
+2025,23,6,RB F1 Team,92.0
+2025,23,7,Aston Martin,80.0
+2025,23,8,Haas F1 Team,73.0
+2025,23,9,Sauber,68.0
+2025,23,10,Alpine F1 Team,22.0
+2025,24,1,McLaren,833.0
+2025,24,2,Mercedes,469.0
+2025,24,3,Red Bull,451.0
+2025,24,4,Ferrari,398.0
+2025,24,5,Williams,137.0
+2025,24,6,RB F1 Team,92.0
+2025,24,7,Aston Martin,89.0
+2025,24,8,Haas F1 Team,79.0
+2025,24,9,Sauber,70.0
+2025,24,10,Alpine F1 Team,22.0

@@ -1,0 +1,469 @@
+Season,RaceNumber,Driver,Team,FP1,FP2,FP3,Qualifying,SprintShootout,Sprint,Race
+2022,1,Pierre Gasly,AlphaTauri,1.0,13.0,13.0,10.0,,,20.0
+2022,1,Charles Leclerc,Ferrari,2.0,2.0,2.0,1.0,,,1.0
+2022,1,Carlos Sainz,Ferrari,3.0,3.0,5.0,3.0,,,2.0
+2022,1,George Russell,Mercedes,4.0,4.0,4.0,9.0,,,4.0
+2022,1,Max Verstappen,Red Bull Racing,5.0,1.0,1.0,2.0,,,19.0
+2022,1,Lance Stroll,Aston Martin,6.0,16.0,10.0,19.0,,,12.0
+2022,1,Lewis Hamilton,Mercedes,7.0,9.0,6.0,5.0,,,3.0
+2022,1,Fernando Alonso,Alpine,8.0,5.0,16.0,8.0,,,9.0
+2022,1,Yuki Tsunoda,AlphaTauri,9.0,14.0,,16.0,,,8.0
+2022,1,Sergio Perez,Red Bull Racing,10.0,7.0,3.0,4.0,,,18.0
+2022,1,Guanyu Zhou,Alfa Romeo,11.0,15.0,9.0,15.0,,,10.0
+2022,1,Esteban Ocon,Alpine,12.0,12.0,18.0,11.0,,,7.0
+2022,1,Nicholas Latifi,Williams,13.0,19.0,19.0,20.0,,,16.0
+2022,1,Nico Hulkenberg,Aston Martin,14.0,17.0,12.0,17.0,,,17.0
+2022,1,Alexander Albon,Williams,15.0,20.0,17.0,14.0,,,13.0
+2022,1,Lando Norris,McLaren,16.0,11.0,11.0,13.0,,,15.0
+2022,1,Daniel Ricciardo,McLaren,17.0,18.0,15.0,18.0,,,14.0
+2022,1,Mick Schumacher,Haas F1 Team,18.0,8.0,14.0,12.0,,,11.0
+2022,1,Kevin Magnussen,Haas F1 Team,19.0,10.0,7.0,7.0,,,5.0
+2022,1,Valtteri Bottas,Alfa Romeo,,6.0,8.0,6.0,,,6.0
+2022,2,Charles Leclerc,Ferrari,1.0,1.0,1.0,2.0,,,2.0
+2022,2,Max Verstappen,Red Bull Racing,2.0,2.0,2.0,4.0,,,1.0
+2022,2,Valtteri Bottas,Alfa Romeo,3.0,9.0,5.0,8.0,,,15.0
+2022,2,Carlos Sainz,Ferrari,4.0,3.0,4.0,3.0,,,3.0
+2022,2,Pierre Gasly,AlphaTauri,5.0,12.0,7.0,9.0,,,8.0
+2022,2,Yuki Tsunoda,AlphaTauri,6.0,10.0,10.0,20.0,,,19.0
+2022,2,Sergio Perez,Red Bull Racing,7.0,4.0,3.0,1.0,,,4.0
+2022,2,Esteban Ocon,Alpine,8.0,8.0,6.0,5.0,,,6.0
+2022,2,Lewis Hamilton,Mercedes,9.0,5.0,11.0,16.0,,,10.0
+2022,2,Fernando Alonso,Alpine,10.0,11.0,9.0,7.0,,,16.0
+2022,2,Daniel Ricciardo,McLaren,11.0,15.0,16.0,12.0,,,17.0
+2022,2,Lance Stroll,Aston Martin,12.0,14.0,15.0,15.0,,,13.0
+2022,2,Lando Norris,McLaren,13.0,7.0,19.0,11.0,,,7.0
+2022,2,Guanyu Zhou,Alfa Romeo,14.0,16.0,13.0,13.0,,,11.0
+2022,2,George Russell,Mercedes,15.0,6.0,14.0,6.0,,,5.0
+2022,2,Nico Hulkenberg,Aston Martin,16.0,17.0,18.0,18.0,,,12.0
+2022,2,Alexander Albon,Williams,17.0,19.0,17.0,17.0,,,14.0
+2022,2,Nicholas Latifi,Williams,18.0,18.0,20.0,19.0,,,18.0
+2022,2,Mick Schumacher,Haas F1 Team,19.0,13.0,12.0,14.0,,,
+2022,2,Kevin Magnussen,Haas F1 Team,20.0,20.0,8.0,10.0,,,9.0
+2022,3,Carlos Sainz,Ferrari,1.0,3.0,5.0,9.0,,,20.0
+2022,3,Charles Leclerc,Ferrari,2.0,1.0,2.0,1.0,,,1.0
+2022,3,Sergio Perez,Red Bull Racing,3.0,5.0,3.0,3.0,,,2.0
+2022,3,Max Verstappen,Red Bull Racing,4.0,2.0,7.0,2.0,,,18.0
+2022,3,Lando Norris,McLaren,5.0,8.0,1.0,4.0,,,5.0
+2022,3,Esteban Ocon,Alpine,6.0,6.0,13.0,8.0,,,7.0
+2022,3,Lewis Hamilton,Mercedes,7.0,13.0,8.0,5.0,,,4.0
+2022,3,Daniel Ricciardo,McLaren,8.0,10.0,6.0,7.0,,,6.0
+2022,3,Fernando Alonso,Alpine,9.0,4.0,4.0,10.0,,,17.0
+2022,3,Valtteri Bottas,Alfa Romeo,10.0,7.0,9.0,12.0,,,8.0
+2022,3,Yuki Tsunoda,AlphaTauri,11.0,12.0,10.0,13.0,,,15.0
+2022,3,George Russell,Mercedes,12.0,11.0,11.0,6.0,,,3.0
+2022,3,Sebastian Vettel,Aston Martin,13.0,,20.0,18.0,,,19.0
+2022,3,Pierre Gasly,AlphaTauri,14.0,9.0,12.0,11.0,,,9.0
+2022,3,Guanyu Zhou,Alfa Romeo,15.0,15.0,15.0,14.0,,,11.0
+2022,3,Lance Stroll,Aston Martin,16.0,14.0,19.0,20.0,,,12.0
+2022,3,Alexander Albon,Williams,17.0,17.0,16.0,16.0,,,10.0
+2022,3,Kevin Magnussen,Haas F1 Team,18.0,16.0,17.0,17.0,,,14.0
+2022,3,Nicholas Latifi,Williams,19.0,19.0,18.0,19.0,,,16.0
+2022,3,Mick Schumacher,Haas F1 Team,20.0,18.0,14.0,15.0,,,13.0
+2022,4,Charles Leclerc,Ferrari,1.0,3.0,,2.0,2.0,2.0,6.0
+2022,4,Carlos Sainz,Ferrari,2.0,6.0,,10.0,4.0,4.0,20.0
+2022,4,Max Verstappen,Red Bull Racing,3.0,7.0,,1.0,1.0,1.0,1.0
+2022,4,Kevin Magnussen,Haas F1 Team,4.0,12.0,,4.0,8.0,8.0,9.0
+2022,4,Mick Schumacher,Haas F1 Team,5.0,13.0,,12.0,10.0,10.0,17.0
+2022,4,Sergio Perez,Red Bull Racing,6.0,2.0,,7.0,3.0,3.0,2.0
+2022,4,Fernando Alonso,Alpine,7.0,5.0,,5.0,9.0,9.0,19.0
+2022,4,Sebastian Vettel,Aston Martin,8.0,15.0,,9.0,13.0,13.0,8.0
+2022,4,Yuki Tsunoda,AlphaTauri,9.0,8.0,,16.0,12.0,12.0,7.0
+2022,4,George Russell,Mercedes,10.0,1.0,,11.0,11.0,11.0,4.0
+2022,4,Valtteri Bottas,Alfa Romeo,11.0,,,8.0,7.0,7.0,5.0
+2022,4,Pierre Gasly,AlphaTauri,12.0,9.0,,17.0,17.0,17.0,12.0
+2022,4,Esteban Ocon,Alpine,13.0,16.0,,19.0,16.0,16.0,14.0
+2022,4,Lando Norris,McLaren,14.0,18.0,,3.0,5.0,5.0,3.0
+2022,4,Daniel Ricciardo,McLaren,15.0,,,6.0,6.0,6.0,18.0
+2022,4,Lance Stroll,Aston Martin,16.0,14.0,,15.0,15.0,15.0,10.0
+2022,4,Alexander Albon,Williams,17.0,11.0,,20.0,18.0,18.0,11.0
+2022,4,Lewis Hamilton,Mercedes,18.0,4.0,,13.0,14.0,14.0,13.0
+2022,4,Guanyu Zhou,Alfa Romeo,19.0,10.0,,14.0,20.0,20.0,15.0
+2022,4,Nicholas Latifi,Williams,20.0,17.0,,18.0,19.0,19.0,16.0
+2022,5,Charles Leclerc,Ferrari,1.0,2.0,2.0,1.0,,,2.0
+2022,5,George Russell,Mercedes,2.0,1.0,17.0,12.0,,,5.0
+2022,5,Max Verstappen,Red Bull Racing,3.0,,3.0,3.0,,,1.0
+2022,5,Sergio Perez,Red Bull Racing,4.0,3.0,1.0,4.0,,,4.0
+2022,5,Pierre Gasly,AlphaTauri,5.0,7.0,16.0,7.0,,,18.0
+2022,5,Carlos Sainz,Ferrari,6.0,11.0,7.0,2.0,,,3.0
+2022,5,Alexander Albon,Williams,7.0,17.0,9.0,18.0,,,9.0
+2022,5,Lewis Hamilton,Mercedes,8.0,4.0,15.0,6.0,,,6.0
+2022,5,Kevin Magnussen,Haas F1 Team,9.0,10.0,8.0,16.0,,,16.0
+2022,5,Daniel Ricciardo,McLaren,10.0,12.0,13.0,14.0,,,13.0
+2022,5,Lando Norris,McLaren,11.0,6.0,10.0,8.0,,,19.0
+2022,5,Fernando Alonso,Alpine,12.0,5.0,4.0,11.0,,,11.0
+2022,5,Guanyu Zhou,Alfa Romeo,13.0,8.0,18.0,17.0,,,20.0
+2022,5,Sebastian Vettel,Aston Martin,14.0,14.0,5.0,13.0,,,17.0
+2022,5,Esteban Ocon,Alpine,15.0,9.0,,20.0,,,8.0
+2022,5,Lance Stroll,Aston Martin,16.0,16.0,12.0,10.0,,,10.0
+2022,5,Valtteri Bottas,Alfa Romeo,17.0,,14.0,5.0,,,7.0
+2022,5,Yuki Tsunoda,AlphaTauri,18.0,13.0,11.0,9.0,,,12.0
+2022,5,Mick Schumacher,Haas F1 Team,19.0,15.0,6.0,15.0,,,15.0
+2022,5,Nicholas Latifi,Williams,20.0,18.0,19.0,19.0,,,14.0
+2022,6,Charles Leclerc,Ferrari,1.0,1.0,1.0,1.0,,,20.0
+2022,6,Carlos Sainz,Ferrari,2.0,4.0,5.0,3.0,,,4.0
+2022,6,Max Verstappen,Red Bull Racing,3.0,5.0,2.0,2.0,,,1.0
+2022,6,George Russell,Mercedes,4.0,2.0,3.0,4.0,,,3.0
+2022,6,Fernando Alonso,Alpine,5.0,6.0,13.0,17.0,,,9.0
+2022,6,Lewis Hamilton,Mercedes,6.0,3.0,4.0,6.0,,,5.0
+2022,6,Lando Norris,McLaren,7.0,20.0,7.0,11.0,,,8.0
+2022,6,Pierre Gasly,AlphaTauri,8.0,11.0,,14.0,,,13.0
+2022,6,Daniel Ricciardo,McLaren,9.0,15.0,11.0,9.0,,,12.0
+2022,6,Yuki Tsunoda,AlphaTauri,10.0,14.0,15.0,13.0,,,10.0
+2022,6,Esteban Ocon,Alpine,11.0,9.0,10.0,12.0,,,7.0
+2022,6,Lance Stroll,Aston Martin,12.0,13.0,16.0,18.0,,,15.0
+2022,6,Robert Kubica,Alfa Romeo,13.0,,,,,,
+2022,6,Kevin Magnussen,Haas F1 Team,14.0,12.0,8.0,8.0,,,17.0
+2022,6,Mick Schumacher,Haas F1 Team,15.0,10.0,19.0,10.0,,,14.0
+2022,6,Sebastian Vettel,Aston Martin,16.0,8.0,12.0,16.0,,,11.0
+2022,6,Valtteri Bottas,Alfa Romeo,17.0,16.0,9.0,7.0,,,6.0
+2022,6,Nyck De Vries,Williams,18.0,,,,,,
+2022,6,Nicholas Latifi,Williams,19.0,19.0,18.0,20.0,,,16.0
+2022,6,Juri Vips,Red Bull Racing,20.0,,,,,,
+2022,6,Sergio Perez,Red Bull Racing,,7.0,6.0,5.0,,,2.0
+2022,6,Guanyu Zhou,Alfa Romeo,,17.0,14.0,15.0,,,19.0
+2022,6,Alexander Albon,Williams,,18.0,17.0,19.0,,,18.0
+2022,7,Charles Leclerc,Ferrari,1.0,1.0,2.0,1.0,,,4.0
+2022,7,Sergio Perez,Red Bull Racing,2.0,3.0,1.0,3.0,,,1.0
+2022,7,Carlos Sainz,Ferrari,3.0,2.0,3.0,2.0,,,2.0
+2022,7,Max Verstappen,Red Bull Racing,4.0,4.0,4.0,4.0,,,3.0
+2022,7,Lando Norris,McLaren,5.0,5.0,6.0,5.0,,,6.0
+2022,7,Pierre Gasly,AlphaTauri,6.0,7.0,5.0,17.0,,,11.0
+2022,7,Daniel Ricciardo,McLaren,7.0,20.0,16.0,14.0,,,13.0
+2022,7,George Russell,Mercedes,8.0,6.0,9.0,6.0,,,5.0
+2022,7,Sebastian Vettel,Aston Martin,9.0,9.0,13.0,9.0,,,10.0
+2022,7,Lewis Hamilton,Mercedes,10.0,12.0,7.0,8.0,,,8.0
+2022,7,Yuki Tsunoda,AlphaTauri,11.0,10.0,11.0,11.0,,,17.0
+2022,7,Lance Stroll,Aston Martin,12.0,16.0,18.0,18.0,,,14.0
+2022,7,Fernando Alonso,Alpine,13.0,8.0,10.0,7.0,,,7.0
+2022,7,Kevin Magnussen,Haas F1 Team,14.0,11.0,8.0,13.0,,,20.0
+2022,7,Alexander Albon,Williams,15.0,14.0,15.0,16.0,,,18.0
+2022,7,Esteban Ocon,Alpine,16.0,18.0,17.0,10.0,,,12.0
+2022,7,Guanyu Zhou,Alfa Romeo,17.0,15.0,19.0,20.0,,,16.0
+2022,7,Nicholas Latifi,Williams,18.0,19.0,20.0,19.0,,,15.0
+2022,7,Mick Schumacher,Haas F1 Team,19.0,17.0,12.0,15.0,,,19.0
+2022,7,Valtteri Bottas,Alfa Romeo,20.0,13.0,14.0,12.0,,,9.0
+2022,8,Sergio Perez,Red Bull Racing,1.0,2.0,1.0,2.0,,,2.0
+2022,8,Charles Leclerc,Ferrari,2.0,1.0,2.0,1.0,,,19.0
+2022,8,Max Verstappen,Red Bull Racing,3.0,3.0,3.0,3.0,,,1.0
+2022,8,Carlos Sainz,Ferrari,4.0,5.0,4.0,4.0,,,20.0
+2022,8,Fernando Alonso,Alpine,5.0,4.0,11.0,10.0,,,7.0
+2022,8,Lewis Hamilton,Mercedes,6.0,12.0,12.0,7.0,,,4.0
+2022,8,Yuki Tsunoda,AlphaTauri,7.0,8.0,16.0,8.0,,,13.0
+2022,8,George Russell,Mercedes,8.0,7.0,8.0,5.0,,,3.0
+2022,8,Pierre Gasly,AlphaTauri,9.0,6.0,7.0,6.0,,,5.0
+2022,8,Esteban Ocon,Alpine,10.0,9.0,9.0,13.0,,,10.0
+2022,8,Lando Norris,McLaren,11.0,10.0,5.0,11.0,,,9.0
+2022,8,Lance Stroll,Aston Martin,12.0,13.0,13.0,19.0,,,16.0
+2022,8,Kevin Magnussen,Haas F1 Team,13.0,17.0,15.0,16.0,,,17.0
+2022,8,Sebastian Vettel,Aston Martin,14.0,11.0,10.0,9.0,,,6.0
+2022,8,Valtteri Bottas,Alfa Romeo,15.0,15.0,19.0,15.0,,,11.0
+2022,8,Guanyu Zhou,Alfa Romeo,16.0,16.0,14.0,14.0,,,18.0
+2022,8,Alexander Albon,Williams,17.0,18.0,17.0,17.0,,,12.0
+2022,8,Daniel Ricciardo,McLaren,18.0,14.0,6.0,12.0,,,8.0
+2022,8,Nicholas Latifi,Williams,19.0,20.0,20.0,18.0,,,15.0
+2022,8,Mick Schumacher,Haas F1 Team,20.0,19.0,18.0,20.0,,,14.0
+2022,9,Max Verstappen,Red Bull Racing,1.0,1.0,9.0,1.0,,,1.0
+2022,9,Carlos Sainz,Ferrari,2.0,3.0,10.0,3.0,,,2.0
+2022,9,Fernando Alonso,Alpine,3.0,5.0,1.0,2.0,,,9.0
+2022,9,Sergio Perez,Red Bull Racing,4.0,11.0,8.0,13.0,,,20.0
+2022,9,Charles Leclerc,Ferrari,5.0,2.0,20.0,15.0,,,5.0
+2022,9,George Russell,Mercedes,6.0,7.0,7.0,8.0,,,4.0
+2022,9,Lewis Hamilton,Mercedes,7.0,13.0,15.0,4.0,,,3.0
+2022,9,Lance Stroll,Aston Martin,8.0,12.0,13.0,18.0,,,10.0
+2022,9,Sebastian Vettel,Aston Martin,9.0,4.0,3.0,17.0,,,12.0
+2022,9,Daniel Ricciardo,McLaren,10.0,9.0,5.0,9.0,,,11.0
+2022,9,Pierre Gasly,AlphaTauri,11.0,6.0,2.0,16.0,,,14.0
+2022,9,Lando Norris,McLaren,12.0,8.0,6.0,14.0,,,15.0
+2022,9,Alexander Albon,Williams,13.0,18.0,16.0,12.0,,,13.0
+2022,9,Yuki Tsunoda,AlphaTauri,14.0,17.0,17.0,20.0,,,18.0
+2022,9,Esteban Ocon,Alpine,15.0,10.0,4.0,7.0,,,6.0
+2022,9,Valtteri Bottas,Alfa Romeo,16.0,,11.0,11.0,,,7.0
+2022,9,Guanyu Zhou,Alfa Romeo,17.0,16.0,12.0,10.0,,,8.0
+2022,9,Mick Schumacher,Haas F1 Team,18.0,15.0,18.0,6.0,,,19.0
+2022,9,Nicholas Latifi,Williams,19.0,19.0,19.0,19.0,,,16.0
+2022,9,Kevin Magnussen,Haas F1 Team,20.0,14.0,14.0,5.0,,,17.0
+2022,10,Valtteri Bottas,Alfa Romeo,1.0,11.0,8.0,12.0,,,17.0
+2022,10,Lewis Hamilton,Mercedes,2.0,2.0,5.0,5.0,,,3.0
+2022,10,Carlos Sainz,Ferrari,3.0,1.0,6.0,1.0,,,1.0
+2022,10,Charles Leclerc,Ferrari,4.0,5.0,3.0,3.0,,,4.0
+2022,10,Mick Schumacher,Haas F1 Team,5.0,19.0,9.0,19.0,,,8.0
+2022,10,Lando Norris,McLaren,6.0,3.0,7.0,6.0,,,6.0
+2022,10,Guanyu Zhou,Alfa Romeo,7.0,15.0,13.0,9.0,,,19.0
+2022,10,Kevin Magnussen,Haas F1 Team,8.0,17.0,20.0,17.0,,,10.0
+2022,10,Yuki Tsunoda,AlphaTauri,9.0,16.0,17.0,13.0,,,14.0
+2022,10,Lance Stroll,Aston Martin,10.0,10.0,16.0,20.0,,,11.0
+2022,10,Daniel Ricciardo,McLaren,11.0,9.0,18.0,14.0,,,13.0
+2022,10,Sebastian Vettel,Aston Martin,12.0,12.0,12.0,18.0,,,9.0
+2022,10,Max Verstappen,Red Bull Racing,,4.0,1.0,2.0,,,7.0
+2022,10,Fernando Alonso,Alpine,,6.0,10.0,7.0,,,5.0
+2022,10,Sergio Perez,Red Bull Racing,,7.0,2.0,4.0,,,2.0
+2022,10,George Russell,Mercedes,,8.0,4.0,8.0,,,18.0
+2022,10,Esteban Ocon,Alpine,,13.0,11.0,15.0,,,15.0
+2022,10,Alexander Albon,Williams,,14.0,14.0,16.0,,,20.0
+2022,10,Pierre Gasly,AlphaTauri,,18.0,15.0,11.0,,,16.0
+2022,10,Nicholas Latifi,Williams,,20.0,19.0,10.0,,,12.0
+2022,11,Max Verstappen,Red Bull Racing,1.0,3.0,,1.0,1.0,1.0,2.0
+2022,11,Charles Leclerc,Ferrari,2.0,2.0,,2.0,2.0,2.0,1.0
+2022,11,George Russell,Mercedes,3.0,7.0,,4.0,4.0,4.0,4.0
+2022,11,Sergio Perez,Red Bull Racing,4.0,6.0,,13.0,5.0,5.0,20.0
+2022,11,Lewis Hamilton,Mercedes,5.0,9.0,,9.0,8.0,8.0,3.0
+2022,11,Kevin Magnussen,Haas F1 Team,6.0,18.0,,6.0,7.0,7.0,8.0
+2022,11,Carlos Sainz,Ferrari,7.0,1.0,,3.0,3.0,3.0,18.0
+2022,11,Fernando Alonso,Alpine,8.0,4.0,,8.0,20.0,20.0,10.0
+2022,11,Mick Schumacher,Haas F1 Team,9.0,15.0,,7.0,9.0,9.0,6.0
+2022,11,Yuki Tsunoda,AlphaTauri,10.0,19.0,,14.0,17.0,17.0,16.0
+2022,11,Lance Stroll,Aston Martin,11.0,11.0,,17.0,13.0,13.0,13.0
+2022,11,Esteban Ocon,Alpine,12.0,5.0,,5.0,6.0,6.0,5.0
+2022,11,Sebastian Vettel,Aston Martin,13.0,13.0,,20.0,19.0,19.0,17.0
+2022,11,Valtteri Bottas,Alfa Romeo,14.0,8.0,,12.0,10.0,10.0,11.0
+2022,11,Alexander Albon,Williams,15.0,16.0,,11.0,16.0,16.0,12.0
+2022,11,Pierre Gasly,AlphaTauri,16.0,12.0,,10.0,15.0,15.0,15.0
+2022,11,Daniel Ricciardo,McLaren,17.0,17.0,,16.0,12.0,12.0,9.0
+2022,11,Guanyu Zhou,Alfa Romeo,18.0,14.0,,18.0,14.0,14.0,14.0
+2022,11,Nicholas Latifi,Williams,19.0,20.0,,19.0,18.0,18.0,19.0
+2022,11,Lando Norris,McLaren,20.0,10.0,,15.0,11.0,11.0,7.0
+2022,12,Charles Leclerc,Ferrari,1.0,2.0,3.0,1.0,,,19.0
+2022,12,Max Verstappen,Red Bull Racing,2.0,3.0,1.0,2.0,,,1.0
+2022,12,Carlos Sainz,Ferrari,3.0,1.0,2.0,9.0,,,5.0
+2022,12,George Russell,Mercedes,4.0,4.0,6.0,6.0,,,3.0
+2022,12,Pierre Gasly,AlphaTauri,5.0,7.0,13.0,16.0,,,12.0
+2022,12,Sergio Perez,Red Bull Racing,6.0,10.0,5.0,3.0,,,4.0
+2022,12,Lando Norris,McLaren,7.0,6.0,9.0,5.0,,,7.0
+2022,12,Alexander Albon,Williams,8.0,16.0,8.0,15.0,,,13.0
+2022,12,Nyck De Vries,Mercedes,9.0,,,,,,
+2022,12,Daniel Ricciardo,McLaren,10.0,9.0,11.0,11.0,,,9.0
+2022,12,Guanyu Zhou,Alfa Romeo,11.0,17.0,15.0,18.0,,,16.0
+2022,12,Lance Stroll,Aston Martin,12.0,15.0,18.0,17.0,,,10.0
+2022,12,Esteban Ocon,Alpine,13.0,18.0,17.0,12.0,,,8.0
+2022,12,Sebastian Vettel,Aston Martin,14.0,13.0,20.0,14.0,,,11.0
+2022,12,Fernando Alonso,Alpine,15.0,11.0,7.0,7.0,,,6.0
+2022,12,Mick Schumacher,Haas F1 Team,16.0,19.0,19.0,19.0,,,15.0
+2022,12,Kevin Magnussen,Haas F1 Team,17.0,8.0,16.0,10.0,,,18.0
+2022,12,Yuki Tsunoda,AlphaTauri,18.0,14.0,10.0,8.0,,,20.0
+2022,12,Robert Kubica,Alfa Romeo,19.0,,,,,,
+2022,12,Nicholas Latifi,Williams,20.0,20.0,12.0,20.0,,,17.0
+2022,12,Lewis Hamilton,Mercedes,,5.0,4.0,4.0,,,2.0
+2022,12,Valtteri Bottas,Alfa Romeo,,12.0,14.0,13.0,,,14.0
+2022,13,Carlos Sainz,Ferrari,1.0,3.0,7.0,2.0,,,4.0
+2022,13,Max Verstappen,Red Bull Racing,2.0,4.0,4.0,10.0,,,1.0
+2022,13,Charles Leclerc,Ferrari,3.0,1.0,2.0,3.0,,,6.0
+2022,13,Lando Norris,McLaren,4.0,2.0,8.0,4.0,,,7.0
+2022,13,George Russell,Mercedes,5.0,8.0,5.0,1.0,,,3.0
+2022,13,Sergio Perez,Red Bull Racing,6.0,9.0,20.0,11.0,,,5.0
+2022,13,Lewis Hamilton,Mercedes,7.0,11.0,11.0,7.0,,,2.0
+2022,13,Daniel Ricciardo,McLaren,8.0,5.0,14.0,9.0,,,15.0
+2022,13,Esteban Ocon,Alpine,9.0,13.0,13.0,5.0,,,9.0
+2022,13,Fernando Alonso,Alpine,10.0,6.0,6.0,6.0,,,8.0
+2022,13,Sebastian Vettel,Aston Martin,11.0,7.0,9.0,18.0,,,10.0
+2022,13,Lance Stroll,Aston Martin,12.0,14.0,15.0,14.0,,,11.0
+2022,13,Pierre Gasly,AlphaTauri,13.0,15.0,19.0,19.0,,,12.0
+2022,13,Yuki Tsunoda,AlphaTauri,14.0,19.0,17.0,16.0,,,19.0
+2022,13,Guanyu Zhou,Alfa Romeo,15.0,12.0,16.0,12.0,,,13.0
+2022,13,Alexander Albon,Williams,16.0,20.0,3.0,17.0,,,17.0
+2022,13,Kevin Magnussen,Haas F1 Team,17.0,16.0,10.0,13.0,,,16.0
+2022,13,Mick Schumacher,Haas F1 Team,18.0,17.0,12.0,15.0,,,14.0
+2022,13,Robert Kubica,Alfa Romeo,19.0,,,,,,
+2022,13,Nicholas Latifi,Williams,20.0,18.0,1.0,20.0,,,18.0
+2022,13,Valtteri Bottas,Alfa Romeo,,10.0,18.0,8.0,,,20.0
+2022,14,Carlos Sainz,Ferrari,1.0,5.0,3.0,2.0,,,3.0
+2022,14,Charles Leclerc,Ferrari,2.0,2.0,7.0,4.0,,,6.0
+2022,14,Max Verstappen,Red Bull Racing,3.0,1.0,2.0,1.0,,,1.0
+2022,14,George Russell,Mercedes,4.0,8.0,6.0,8.0,,,4.0
+2022,14,Lance Stroll,Aston Martin,5.0,4.0,16.0,14.0,,,11.0
+2022,14,Alexander Albon,Williams,6.0,11.0,14.0,9.0,,,10.0
+2022,14,Daniel Ricciardo,McLaren,7.0,9.0,11.0,11.0,,,15.0
+2022,14,Yuki Tsunoda,AlphaTauri,8.0,13.0,18.0,19.0,,,13.0
+2022,14,Lewis Hamilton,Mercedes,9.0,6.0,12.0,7.0,,,20.0
+2022,14,Sergio Perez,Red Bull Racing,10.0,10.0,1.0,3.0,,,2.0
+2022,14,Nicholas Latifi,Williams,11.0,19.0,13.0,17.0,,,18.0
+2022,14,Guanyu Zhou,Alfa Romeo,12.0,12.0,19.0,13.0,,,14.0
+2022,14,Lando Norris,McLaren,13.0,3.0,4.0,10.0,,,12.0
+2022,14,Fernando Alonso,Alpine,14.0,7.0,5.0,6.0,,,5.0
+2022,14,Sebastian Vettel,Aston Martin,15.0,15.0,8.0,16.0,,,8.0
+2022,14,Esteban Ocon,Alpine,16.0,16.0,9.0,5.0,,,7.0
+2022,14,Kevin Magnussen,Haas F1 Team,17.0,17.0,17.0,18.0,,,16.0
+2022,14,Mick Schumacher,Haas F1 Team,18.0,20.0,20.0,15.0,,,17.0
+2022,14,Liam Lawson,AlphaTauri,19.0,,,,,,
+2022,14,Valtteri Bottas,Alfa Romeo,20.0,18.0,15.0,20.0,,,19.0
+2022,14,Pierre Gasly,AlphaTauri,,14.0,10.0,12.0,,,9.0
+2022,15,George Russell,Mercedes,1.0,5.0,2.0,6.0,,,2.0
+2022,15,Lewis Hamilton,Mercedes,2.0,3.0,5.0,4.0,,,4.0
+2022,15,Carlos Sainz,Ferrari,3.0,2.0,4.0,3.0,,,8.0
+2022,15,Lando Norris,McLaren,4.0,4.0,10.0,7.0,,,7.0
+2022,15,Daniel Ricciardo,McLaren,5.0,10.0,17.0,17.0,,,17.0
+2022,15,Charles Leclerc,Ferrari,6.0,1.0,1.0,2.0,,,3.0
+2022,15,Sergio Perez,Red Bull Racing,7.0,12.0,6.0,5.0,,,5.0
+2022,15,Fernando Alonso,Alpine,8.0,7.0,7.0,13.0,,,6.0
+2022,15,Esteban Ocon,Alpine,9.0,9.0,14.0,12.0,,,9.0
+2022,15,Alexander Albon,Williams,10.0,17.0,13.0,15.0,,,12.0
+2022,15,Mick Schumacher,Haas F1 Team,11.0,13.0,9.0,8.0,,,13.0
+2022,15,Lance Stroll,Aston Martin,12.0,6.0,12.0,10.0,,,10.0
+2022,15,Kevin Magnussen,Haas F1 Team,13.0,19.0,11.0,18.0,,,15.0
+2022,15,Pierre Gasly,AlphaTauri,14.0,16.0,15.0,11.0,,,11.0
+2022,15,Sebastian Vettel,Aston Martin,15.0,14.0,8.0,19.0,,,14.0
+2022,15,Guanyu Zhou,Alfa Romeo,16.0,15.0,19.0,14.0,,,16.0
+2022,15,Yuki Tsunoda,AlphaTauri,17.0,11.0,16.0,9.0,,,20.0
+2022,15,Valtteri Bottas,Alfa Romeo,18.0,18.0,18.0,16.0,,,19.0
+2022,15,Max Verstappen,Red Bull Racing,19.0,8.0,3.0,1.0,,,1.0
+2022,15,Nicholas Latifi,Williams,20.0,20.0,20.0,20.0,,,18.0
+2022,16,Charles Leclerc,Ferrari,1.0,3.0,2.0,1.0,,,2.0
+2022,16,Carlos Sainz,Ferrari,2.0,1.0,4.0,3.0,,,4.0
+2022,16,George Russell,Mercedes,3.0,5.0,7.0,6.0,,,3.0
+2022,16,Lewis Hamilton,Mercedes,4.0,7.0,10.0,5.0,,,5.0
+2022,16,Max Verstappen,Red Bull Racing,5.0,2.0,1.0,2.0,,,1.0
+2022,16,Esteban Ocon,Alpine,6.0,8.0,9.0,11.0,,,11.0
+2022,16,Fernando Alonso,Alpine,7.0,9.0,5.0,10.0,,,19.0
+2022,16,Yuki Tsunoda,AlphaTauri,8.0,15.0,8.0,15.0,,,14.0
+2022,16,Valtteri Bottas,Alfa Romeo,9.0,13.0,16.0,12.0,,,13.0
+2022,16,Daniel Ricciardo,McLaren,10.0,11.0,15.0,8.0,,,17.0
+2022,16,Alexander Albon,Williams,11.0,10.0,,,,,
+2022,16,Guanyu Zhou,Alfa Romeo,12.0,12.0,11.0,14.0,,,10.0
+2022,16,Pierre Gasly,AlphaTauri,13.0,14.0,12.0,9.0,,,8.0
+2022,16,Sergio Perez,Red Bull Racing,14.0,6.0,3.0,4.0,,,6.0
+2022,16,Lance Stroll,Aston Martin,15.0,18.0,20.0,18.0,,,18.0
+2022,16,Lando Norris,McLaren,16.0,4.0,6.0,7.0,,,7.0
+2022,16,Kevin Magnussen,Haas F1 Team,17.0,16.0,18.0,19.0,,,16.0
+2022,16,Antonio Giovinazzi,Haas F1 Team,18.0,,,,,,
+2022,16,Nyck De Vries,Aston Martin,19.0,,14.0,13.0,,,9.0
+2022,16,Nicholas Latifi,Williams,20.0,19.0,13.0,16.0,,,15.0
+2022,16,Sebastian Vettel,Aston Martin,,17.0,17.0,17.0,,,20.0
+2022,16,Mick Schumacher,Haas F1 Team,,20.0,19.0,20.0,,,12.0
+2022,17,Lewis Hamilton,Mercedes,1.0,5.0,12.0,3.0,,,9.0
+2022,17,Max Verstappen,Red Bull Racing,2.0,4.0,2.0,8.0,,,7.0
+2022,17,Charles Leclerc,Ferrari,3.0,2.0,1.0,1.0,,,2.0
+2022,17,Sergio Perez,Red Bull Racing,4.0,9.0,5.0,2.0,,,1.0
+2022,17,George Russell,Mercedes,5.0,3.0,9.0,11.0,,,14.0
+2022,17,Carlos Sainz,Ferrari,6.0,1.0,3.0,4.0,,,3.0
+2022,17,Esteban Ocon,Alpine,7.0,6.0,7.0,18.0,,,16.0
+2022,17,Lance Stroll,Aston Martin,8.0,10.0,6.0,12.0,,,6.0
+2022,17,Pierre Gasly,AlphaTauri,9.0,14.0,13.0,7.0,,,10.0
+2022,17,Fernando Alonso,Alpine,10.0,8.0,4.0,5.0,,,18.0
+2022,17,Sebastian Vettel,Aston Martin,11.0,12.0,8.0,14.0,,,8.0
+2022,17,Daniel Ricciardo,McLaren,12.0,18.0,10.0,17.0,,,5.0
+2022,17,Valtteri Bottas,Alfa Romeo,13.0,7.0,18.0,16.0,,,11.0
+2022,17,Kevin Magnussen,Haas F1 Team,14.0,13.0,11.0,9.0,,,12.0
+2022,17,Yuki Tsunoda,AlphaTauri,15.0,17.0,15.0,10.0,,,15.0
+2022,17,Alexander Albon,Williams,16.0,16.0,17.0,19.0,,,17.0
+2022,17,Guanyu Zhou,Alfa Romeo,17.0,15.0,19.0,15.0,,,20.0
+2022,17,Mick Schumacher,Haas F1 Team,18.0,19.0,14.0,13.0,,,13.0
+2022,17,Lando Norris,McLaren,19.0,11.0,16.0,6.0,,,4.0
+2022,17,Nicholas Latifi,Williams,20.0,20.0,20.0,20.0,,,19.0
+2022,18,Fernando Alonso,Alpine,1.0,7.0,4.0,7.0,,,7.0
+2022,18,Carlos Sainz,Ferrari,2.0,6.0,2.0,3.0,,,19.0
+2022,18,Charles Leclerc,Ferrari,3.0,11.0,3.0,2.0,,,3.0
+2022,18,Esteban Ocon,Alpine,4.0,9.0,9.0,5.0,,,4.0
+2022,18,Kevin Magnussen,Haas F1 Team,5.0,5.0,15.0,18.0,,,14.0
+2022,18,Max Verstappen,Red Bull Racing,6.0,3.0,1.0,1.0,,,1.0
+2022,18,Mick Schumacher,Haas F1 Team,7.0,,16.0,15.0,,,17.0
+2022,18,Lando Norris,McLaren,8.0,16.0,8.0,10.0,,,10.0
+2022,18,Valtteri Bottas,Alfa Romeo,9.0,8.0,13.0,12.0,,,15.0
+2022,18,Sergio Perez,Red Bull Racing,10.0,4.0,5.0,4.0,,,2.0
+2022,18,Guanyu Zhou,Alfa Romeo,11.0,10.0,18.0,14.0,,,16.0
+2022,18,Daniel Ricciardo,McLaren,12.0,17.0,11.0,11.0,,,11.0
+2022,18,Lewis Hamilton,Mercedes,13.0,2.0,7.0,6.0,,,5.0
+2022,18,Lance Stroll,Aston Martin,14.0,18.0,10.0,19.0,,,12.0
+2022,18,Alexander Albon,Williams,15.0,13.0,12.0,16.0,,,20.0
+2022,18,Pierre Gasly,AlphaTauri,16.0,19.0,20.0,17.0,,,18.0
+2022,18,Nicholas Latifi,Williams,17.0,12.0,19.0,20.0,,,9.0
+2022,18,George Russell,Mercedes,18.0,1.0,6.0,8.0,,,8.0
+2022,18,Yuki Tsunoda,AlphaTauri,19.0,14.0,17.0,13.0,,,13.0
+2022,18,Sebastian Vettel,Aston Martin,20.0,15.0,14.0,9.0,,,6.0
+2022,19,Carlos Sainz,Ferrari,1.0,4.0,3.0,1.0,,,20.0
+2022,19,Max Verstappen,Red Bull Racing,2.0,7.0,1.0,3.0,,,1.0
+2022,19,Lewis Hamilton,Mercedes,3.0,8.0,5.0,5.0,,,2.0
+2022,19,Lance Stroll,Aston Martin,4.0,15.0,9.0,7.0,,,18.0
+2022,19,Sergio Perez,Red Bull Racing,5.0,10.0,4.0,4.0,,,4.0
+2022,19,Fernando Alonso,Alpine,6.0,17.0,6.0,9.0,,,7.0
+2022,19,George Russell,Mercedes,7.0,13.0,7.0,6.0,,,5.0
+2022,19,Pierre Gasly,AlphaTauri,8.0,9.0,10.0,13.0,,,14.0
+2022,19,Lando Norris,McLaren,9.0,6.0,12.0,8.0,,,6.0
+2022,19,Sebastian Vettel,Aston Martin,10.0,19.0,8.0,12.0,,,8.0
+2022,19,Esteban Ocon,Alpine,11.0,16.0,13.0,18.0,,,11.0
+2022,19,Guanyu Zhou,Alfa Romeo,12.0,14.0,20.0,14.0,,,12.0
+2022,19,Alexander Albon,Williams,13.0,18.0,17.0,11.0,,,13.0
+2022,19,Yuki Tsunoda,AlphaTauri,14.0,12.0,16.0,15.0,,,10.0
+2022,19,Mick Schumacher,Haas F1 Team,15.0,5.0,19.0,19.0,,,15.0
+2022,19,Robert Shwartzman,Ferrari,16.0,,,,,,
+2022,19,Alex Palou,McLaren,17.0,,,,,,
+2022,19,Theo Pourchaire,Alfa Romeo,18.0,,,,,,
+2022,19,Logan Sargeant,Williams,19.0,,,,,,
+2022,19,Antonio Giovinazzi,Haas F1 Team,20.0,,,,,,
+2022,19,Charles Leclerc,Ferrari,,1.0,2.0,2.0,,,3.0
+2022,19,Valtteri Bottas,Alfa Romeo,,2.0,11.0,10.0,,,19.0
+2022,19,Daniel Ricciardo,McLaren,,3.0,15.0,17.0,,,16.0
+2022,19,Kevin Magnussen,Haas F1 Team,,11.0,14.0,16.0,,,9.0
+2022,19,Nicholas Latifi,Williams,,20.0,18.0,20.0,,,17.0
+2022,20,Carlos Sainz,Ferrari,1.0,8.0,6.0,5.0,,,5.0
+2022,20,Charles Leclerc,Ferrari,2.0,7.0,4.0,7.0,,,6.0
+2022,20,Max Verstappen,Red Bull Racing,3.0,6.0,3.0,1.0,,,1.0
+2022,20,Sergio Perez,Red Bull Racing,4.0,5.0,5.0,4.0,,,3.0
+2022,20,Lewis Hamilton,Mercedes,5.0,4.0,2.0,3.0,,,2.0
+2022,20,Fernando Alonso,Alpine,6.0,11.0,13.0,9.0,,,19.0
+2022,20,Valtteri Bottas,Alfa Romeo,7.0,9.0,8.0,6.0,,,10.0
+2022,20,Lando Norris,McLaren,8.0,14.0,7.0,8.0,,,9.0
+2022,20,Pierre Gasly,AlphaTauri,9.0,10.0,15.0,14.0,,,11.0
+2022,20,Sebastian Vettel,Aston Martin,10.0,12.0,19.0,17.0,,,14.0
+2022,20,Daniel Ricciardo,McLaren,11.0,15.0,14.0,11.0,,,7.0
+2022,20,Guanyu Zhou,Alfa Romeo,12.0,20.0,12.0,12.0,,,13.0
+2022,20,Lance Stroll,Aston Martin,13.0,16.0,16.0,18.0,,,15.0
+2022,20,Mick Schumacher,Haas F1 Team,14.0,17.0,17.0,16.0,,,16.0
+2022,20,Nicholas Latifi,Williams,15.0,19.0,18.0,20.0,,,18.0
+2022,20,Liam Lawson,AlphaTauri,16.0,,,,,,
+2022,20,Logan Sargeant,Williams,17.0,,,,,,
+2022,20,Nyck De Vries,Mercedes,18.0,,,,,,
+2022,20,Jack Doohan,Alpine,19.0,,,,,,
+2022,20,Pietro Fittipaldi,Haas F1 Team,20.0,,,,,,
+2022,20,George Russell,Mercedes,,1.0,1.0,2.0,,,4.0
+2022,20,Yuki Tsunoda,AlphaTauri,,2.0,9.0,13.0,,,20.0
+2022,20,Esteban Ocon,Alpine,,3.0,11.0,10.0,,,8.0
+2022,20,Alexander Albon,Williams,,13.0,10.0,19.0,,,12.0
+2022,20,Kevin Magnussen,Haas F1 Team,,18.0,20.0,15.0,,,17.0
+2022,21,Sergio Perez,Red Bull Racing,1.0,2.0,,9.0,5.0,5.0,7.0
+2022,21,Charles Leclerc,Ferrari,2.0,13.0,,10.0,6.0,6.0,4.0
+2022,21,Max Verstappen,Red Bull Racing,3.0,5.0,,2.0,4.0,4.0,6.0
+2022,21,Carlos Sainz,Ferrari,4.0,11.0,,5.0,2.0,2.0,3.0
+2022,21,Lewis Hamilton,Mercedes,5.0,6.0,,8.0,3.0,3.0,2.0
+2022,21,George Russell,Mercedes,6.0,3.0,,3.0,1.0,1.0,1.0
+2022,21,Sebastian Vettel,Aston Martin,7.0,18.0,,13.0,9.0,9.0,11.0
+2022,21,Mick Schumacher,Haas F1 Team,8.0,8.0,,20.0,12.0,12.0,13.0
+2022,21,Valtteri Bottas,Alfa Romeo,9.0,15.0,,18.0,14.0,14.0,9.0
+2022,21,Pierre Gasly,AlphaTauri,10.0,7.0,,12.0,10.0,10.0,14.0
+2022,21,Fernando Alonso,Alpine,11.0,4.0,,7.0,18.0,18.0,5.0
+2022,21,Alexander Albon,Williams,12.0,,,11.0,20.0,20.0,15.0
+2022,21,Esteban Ocon,Alpine,13.0,1.0,,6.0,17.0,17.0,8.0
+2022,21,Lance Stroll,Aston Martin,14.0,17.0,,15.0,16.0,16.0,10.0
+2022,21,Lando Norris,McLaren,15.0,10.0,,4.0,7.0,7.0,18.0
+2022,21,Kevin Magnussen,Haas F1 Team,16.0,9.0,,1.0,8.0,8.0,19.0
+2022,21,Nicholas Latifi,Williams,17.0,16.0,,16.0,19.0,19.0,16.0
+2022,21,Guanyu Zhou,Alfa Romeo,18.0,19.0,,17.0,13.0,13.0,12.0
+2022,21,Yuki Tsunoda,AlphaTauri,19.0,12.0,,19.0,15.0,15.0,17.0
+2022,21,Daniel Ricciardo,McLaren,20.0,14.0,,14.0,11.0,11.0,20.0
+2022,21,Logan Sargeant,Williams,,20.0,,,,,
+2022,22,Lewis Hamilton,Mercedes,1.0,4.0,3.0,5.0,,,18.0
+2022,22,George Russell,Mercedes,2.0,2.0,4.0,6.0,,,5.0
+2022,22,Charles Leclerc,Ferrari,3.0,3.0,6.0,3.0,,,2.0
+2022,22,Sergio Perez,Red Bull Racing,4.0,5.0,1.0,2.0,,,3.0
+2022,22,Liam Lawson,Red Bull Racing,5.0,,,,,,
+2022,22,Sebastian Vettel,Aston Martin,6.0,12.0,9.0,9.0,,,10.0
+2022,22,Robert Shwartzman,Ferrari,7.0,,,,,,
+2022,22,Daniel Ricciardo,McLaren,8.0,9.0,8.0,10.0,,,9.0
+2022,22,Valtteri Bottas,Alfa Romeo,9.0,10.0,14.0,18.0,,,15.0
+2022,22,Alexander Albon,Williams,10.0,16.0,10.0,19.0,,,13.0
+2022,22,Pierre Gasly,AlphaTauri,11.0,19.0,15.0,17.0,,,14.0
+2022,22,Esteban Ocon,Alpine,12.0,7.0,11.0,8.0,,,7.0
+2022,22,Yuki Tsunoda,AlphaTauri,13.0,15.0,13.0,12.0,,,11.0
+2022,22,Robert Kubica,Alfa Romeo,14.0,,,,,,
+2022,22,Logan Sargeant,Williams,15.0,,,,,,
+2022,22,Kevin Magnussen,Haas F1 Team,16.0,18.0,17.0,16.0,,,17.0
+2022,22,Pietro Fittipaldi,Haas F1 Team,17.0,,,,,,
+2022,22,Patricio O'Ward,McLaren,18.0,,,,,,
+2022,22,Jack Doohan,Alpine,19.0,,,,,,
+2022,22,Felipe Drugovich,Aston Martin,20.0,,,,,,
+2022,22,Max Verstappen,Red Bull Racing,,1.0,2.0,1.0,,,1.0
+2022,22,Carlos Sainz,Ferrari,,6.0,7.0,4.0,,,4.0
+2022,22,Fernando Alonso,Alpine,,8.0,12.0,11.0,,,20.0
+2022,22,Lando Norris,McLaren,,11.0,5.0,7.0,,,6.0
+2022,22,Guanyu Zhou,Alfa Romeo,,13.0,19.0,15.0,,,12.0
+2022,22,Lance Stroll,Aston Martin,,14.0,16.0,14.0,,,8.0
+2022,22,Mick Schumacher,Haas F1 Team,,17.0,18.0,13.0,,,16.0
+2022,22,Nicholas Latifi,Williams,,20.0,20.0,20.0,,,19.0

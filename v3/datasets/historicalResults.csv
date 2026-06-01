@@ -1,0 +1,3454 @@
+Season,RaceNumber,Location,Driver,Race
+2010,1,Sakhir,Fernando Alonso,1.0
+2010,1,Sakhir,Felipe Massa,2.0
+2010,1,Sakhir,Lewis Hamilton,3.0
+2010,1,Sakhir,Sebastian Vettel,4.0
+2010,1,Sakhir,Nico Rosberg,5.0
+2010,1,Sakhir,Michael Schumacher,6.0
+2010,1,Sakhir,Jenson Button,7.0
+2010,1,Sakhir,Mark Webber,8.0
+2010,1,Sakhir,Vitantonio Liuzzi,9.0
+2010,1,Sakhir,Rubens Barrichello,10.0
+2010,1,Sakhir,Robert Kubica,11.0
+2010,1,Sakhir,Adrian Sutil,12.0
+2010,1,Sakhir,Jaime Alguersuari,13.0
+2010,1,Sakhir,Nico Hulkenberg,14.0
+2010,1,Sakhir,Heikki Kovalainen,15.0
+2010,1,Sakhir,Sébastien Buemi,16.0
+2010,1,Sakhir,Jarno Trulli,17.0
+2010,1,Sakhir,Pedro de la Rosa,18.0
+2010,1,Sakhir,Bruno Senna,19.0
+2010,1,Sakhir,Timo Glock,20.0
+2010,1,Sakhir,Vitaly Petrov,21.0
+2010,1,Sakhir,Kamui Kobayashi,22.0
+2010,1,Sakhir,Lucas di Grassi,23.0
+2010,1,Sakhir,Karun Chandhok,24.0
+2010,2,Melbourne,Jenson Button,1.0
+2010,2,Melbourne,Robert Kubica,2.0
+2010,2,Melbourne,Felipe Massa,3.0
+2010,2,Melbourne,Fernando Alonso,4.0
+2010,2,Melbourne,Nico Rosberg,5.0
+2010,2,Melbourne,Lewis Hamilton,6.0
+2010,2,Melbourne,Vitantonio Liuzzi,7.0
+2010,2,Melbourne,Rubens Barrichello,8.0
+2010,2,Melbourne,Mark Webber,9.0
+2010,2,Melbourne,Michael Schumacher,10.0
+2010,2,Melbourne,Jaime Alguersuari,11.0
+2010,2,Melbourne,Pedro de la Rosa,12.0
+2010,2,Melbourne,Heikki Kovalainen,13.0
+2010,2,Melbourne,Karun Chandhok,14.0
+2010,2,Melbourne,Timo Glock,15.0
+2010,2,Melbourne,Lucas di Grassi,16.0
+2010,2,Melbourne,Sebastian Vettel,17.0
+2010,2,Melbourne,Adrian Sutil,18.0
+2010,2,Melbourne,Vitaly Petrov,19.0
+2010,2,Melbourne,Bruno Senna,20.0
+2010,2,Melbourne,Sébastien Buemi,21.0
+2010,2,Melbourne,Nico Hulkenberg,22.0
+2010,2,Melbourne,Kamui Kobayashi,23.0
+2010,2,Melbourne,Jarno Trulli,24.0
+2010,3,Kuala Lumpur,Sebastian Vettel,1.0
+2010,3,Kuala Lumpur,Mark Webber,2.0
+2010,3,Kuala Lumpur,Nico Rosberg,3.0
+2010,3,Kuala Lumpur,Robert Kubica,4.0
+2010,3,Kuala Lumpur,Adrian Sutil,5.0
+2010,3,Kuala Lumpur,Lewis Hamilton,6.0
+2010,3,Kuala Lumpur,Felipe Massa,7.0
+2010,3,Kuala Lumpur,Jenson Button,8.0
+2010,3,Kuala Lumpur,Jaime Alguersuari,9.0
+2010,3,Kuala Lumpur,Nico Hulkenberg,10.0
+2010,3,Kuala Lumpur,Sébastien Buemi,11.0
+2010,3,Kuala Lumpur,Rubens Barrichello,12.0
+2010,3,Kuala Lumpur,Fernando Alonso,13.0
+2010,3,Kuala Lumpur,Lucas di Grassi,14.0
+2010,3,Kuala Lumpur,Karun Chandhok,15.0
+2010,3,Kuala Lumpur,Bruno Senna,16.0
+2010,3,Kuala Lumpur,Jarno Trulli,17.0
+2010,3,Kuala Lumpur,Heikki Kovalainen,18.0
+2010,3,Kuala Lumpur,Vitaly Petrov,19.0
+2010,3,Kuala Lumpur,Vitantonio Liuzzi,20.0
+2010,3,Kuala Lumpur,Michael Schumacher,21.0
+2010,3,Kuala Lumpur,Kamui Kobayashi,22.0
+2010,3,Kuala Lumpur,Timo Glock,23.0
+2010,3,Kuala Lumpur,Pedro de la Rosa,24.0
+2010,4,Shanghai,Jenson Button,1.0
+2010,4,Shanghai,Lewis Hamilton,2.0
+2010,4,Shanghai,Nico Rosberg,3.0
+2010,4,Shanghai,Fernando Alonso,4.0
+2010,4,Shanghai,Robert Kubica,5.0
+2010,4,Shanghai,Sebastian Vettel,6.0
+2010,4,Shanghai,Vitaly Petrov,7.0
+2010,4,Shanghai,Mark Webber,8.0
+2010,4,Shanghai,Felipe Massa,9.0
+2010,4,Shanghai,Michael Schumacher,10.0
+2010,4,Shanghai,Adrian Sutil,11.0
+2010,4,Shanghai,Rubens Barrichello,12.0
+2010,4,Shanghai,Jaime Alguersuari,13.0
+2010,4,Shanghai,Heikki Kovalainen,14.0
+2010,4,Shanghai,Nico Hulkenberg,15.0
+2010,4,Shanghai,Bruno Senna,16.0
+2010,4,Shanghai,Karun Chandhok,17.0
+2010,4,Shanghai,Jarno Trulli,18.0
+2010,4,Shanghai,Lucas di Grassi,19.0
+2010,4,Shanghai,Pedro de la Rosa,20.0
+2010,4,Shanghai,Sébastien Buemi,21.0
+2010,4,Shanghai,Kamui Kobayashi,22.0
+2010,4,Shanghai,Vitantonio Liuzzi,23.0
+2010,4,Shanghai,Timo Glock,24.0
+2010,5,Barcelona,Mark Webber,1.0
+2010,5,Barcelona,Fernando Alonso,2.0
+2010,5,Barcelona,Sebastian Vettel,3.0
+2010,5,Barcelona,Michael Schumacher,4.0
+2010,5,Barcelona,Jenson Button,5.0
+2010,5,Barcelona,Felipe Massa,6.0
+2010,5,Barcelona,Adrian Sutil,7.0
+2010,5,Barcelona,Robert Kubica,8.0
+2010,5,Barcelona,Rubens Barrichello,9.0
+2010,5,Barcelona,Jaime Alguersuari,10.0
+2010,5,Barcelona,Vitaly Petrov,11.0
+2010,5,Barcelona,Kamui Kobayashi,12.0
+2010,5,Barcelona,Nico Rosberg,13.0
+2010,5,Barcelona,Lewis Hamilton,14.0
+2010,5,Barcelona,Vitantonio Liuzzi,15.0
+2010,5,Barcelona,Nico Hulkenberg,16.0
+2010,5,Barcelona,Jarno Trulli,17.0
+2010,5,Barcelona,Timo Glock,18.0
+2010,5,Barcelona,Lucas di Grassi,19.0
+2010,5,Barcelona,Sébastien Buemi,20.0
+2010,5,Barcelona,Karun Chandhok,21.0
+2010,5,Barcelona,Pedro de la Rosa,22.0
+2010,5,Barcelona,Bruno Senna,23.0
+2010,5,Barcelona,Heikki Kovalainen,24.0
+2010,6,Monte Carlo,Mark Webber,1.0
+2010,6,Monte Carlo,Sebastian Vettel,2.0
+2010,6,Monte Carlo,Robert Kubica,3.0
+2010,6,Monte Carlo,Felipe Massa,4.0
+2010,6,Monte Carlo,Lewis Hamilton,5.0
+2010,6,Monte Carlo,Fernando Alonso,6.0
+2010,6,Monte Carlo,Nico Rosberg,7.0
+2010,6,Monte Carlo,Adrian Sutil,8.0
+2010,6,Monte Carlo,Vitantonio Liuzzi,9.0
+2010,6,Monte Carlo,Sébastien Buemi,10.0
+2010,6,Monte Carlo,Jaime Alguersuari,11.0
+2010,6,Monte Carlo,Michael Schumacher,12.0
+2010,6,Monte Carlo,Vitaly Petrov,13.0
+2010,6,Monte Carlo,Karun Chandhok,14.0
+2010,6,Monte Carlo,Jarno Trulli,15.0
+2010,6,Monte Carlo,Heikki Kovalainen,16.0
+2010,6,Monte Carlo,Bruno Senna,17.0
+2010,6,Monte Carlo,Rubens Barrichello,18.0
+2010,6,Monte Carlo,Kamui Kobayashi,19.0
+2010,6,Monte Carlo,Lucas di Grassi,20.0
+2010,6,Monte Carlo,Timo Glock,21.0
+2010,6,Monte Carlo,Pedro de la Rosa,22.0
+2010,6,Monte Carlo,Jenson Button,23.0
+2010,6,Monte Carlo,Nico Hulkenberg,24.0
+2010,7,Istanbul,Lewis Hamilton,1.0
+2010,7,Istanbul,Jenson Button,2.0
+2010,7,Istanbul,Mark Webber,3.0
+2010,7,Istanbul,Michael Schumacher,4.0
+2010,7,Istanbul,Nico Rosberg,5.0
+2010,7,Istanbul,Robert Kubica,6.0
+2010,7,Istanbul,Felipe Massa,7.0
+2010,7,Istanbul,Fernando Alonso,8.0
+2010,7,Istanbul,Adrian Sutil,9.0
+2010,7,Istanbul,Kamui Kobayashi,10.0
+2010,7,Istanbul,Pedro de la Rosa,11.0
+2010,7,Istanbul,Jaime Alguersuari,12.0
+2010,7,Istanbul,Vitantonio Liuzzi,13.0
+2010,7,Istanbul,Rubens Barrichello,14.0
+2010,7,Istanbul,Vitaly Petrov,15.0
+2010,7,Istanbul,Sébastien Buemi,16.0
+2010,7,Istanbul,Nico Hulkenberg,17.0
+2010,7,Istanbul,Timo Glock,18.0
+2010,7,Istanbul,Lucas di Grassi,19.0
+2010,7,Istanbul,Karun Chandhok,20.0
+2010,7,Istanbul,Bruno Senna,21.0
+2010,7,Istanbul,Sebastian Vettel,22.0
+2010,7,Istanbul,Heikki Kovalainen,23.0
+2010,7,Istanbul,Jarno Trulli,24.0
+2010,8,Montreal,Lewis Hamilton,1.0
+2010,8,Montreal,Jenson Button,2.0
+2010,8,Montreal,Fernando Alonso,3.0
+2010,8,Montreal,Sebastian Vettel,4.0
+2010,8,Montreal,Mark Webber,5.0
+2010,8,Montreal,Nico Rosberg,6.0
+2010,8,Montreal,Robert Kubica,7.0
+2010,8,Montreal,Sébastien Buemi,8.0
+2010,8,Montreal,Vitantonio Liuzzi,9.0
+2010,8,Montreal,Adrian Sutil,10.0
+2010,8,Montreal,Michael Schumacher,11.0
+2010,8,Montreal,Jaime Alguersuari,12.0
+2010,8,Montreal,Nico Hulkenberg,13.0
+2010,8,Montreal,Rubens Barrichello,14.0
+2010,8,Montreal,Felipe Massa,15.0
+2010,8,Montreal,Heikki Kovalainen,16.0
+2010,8,Montreal,Vitaly Petrov,17.0
+2010,8,Montreal,Karun Chandhok,18.0
+2010,8,Montreal,Lucas di Grassi,19.0
+2010,8,Montreal,Timo Glock,20.0
+2010,8,Montreal,Jarno Trulli,21.0
+2010,8,Montreal,Pedro de la Rosa,22.0
+2010,8,Montreal,Bruno Senna,23.0
+2010,8,Montreal,Kamui Kobayashi,24.0
+2010,9,Valencia,Sebastian Vettel,1.0
+2010,9,Valencia,Lewis Hamilton,2.0
+2010,9,Valencia,Jenson Button,3.0
+2010,9,Valencia,Rubens Barrichello,4.0
+2010,9,Valencia,Robert Kubica,5.0
+2010,9,Valencia,Adrian Sutil,6.0
+2010,9,Valencia,Kamui Kobayashi,7.0
+2010,9,Valencia,Fernando Alonso,8.0
+2010,9,Valencia,Sébastien Buemi,9.0
+2010,9,Valencia,Nico Rosberg,10.0
+2010,9,Valencia,Felipe Massa,11.0
+2010,9,Valencia,Pedro de la Rosa,12.0
+2010,9,Valencia,Jaime Alguersuari,13.0
+2010,9,Valencia,Vitaly Petrov,14.0
+2010,9,Valencia,Michael Schumacher,15.0
+2010,9,Valencia,Vitantonio Liuzzi,16.0
+2010,9,Valencia,Lucas di Grassi,17.0
+2010,9,Valencia,Karun Chandhok,18.0
+2010,9,Valencia,Timo Glock,19.0
+2010,9,Valencia,Bruno Senna,20.0
+2010,9,Valencia,Jarno Trulli,21.0
+2010,9,Valencia,Nico Hulkenberg,22.0
+2010,9,Valencia,Heikki Kovalainen,23.0
+2010,9,Valencia,Mark Webber,24.0
+2010,10,Silverstone,Mark Webber,1.0
+2010,10,Silverstone,Lewis Hamilton,2.0
+2010,10,Silverstone,Nico Rosberg,3.0
+2010,10,Silverstone,Jenson Button,4.0
+2010,10,Silverstone,Rubens Barrichello,5.0
+2010,10,Silverstone,Kamui Kobayashi,6.0
+2010,10,Silverstone,Sebastian Vettel,7.0
+2010,10,Silverstone,Adrian Sutil,8.0
+2010,10,Silverstone,Michael Schumacher,9.0
+2010,10,Silverstone,Nico Hulkenberg,10.0
+2010,10,Silverstone,Vitantonio Liuzzi,11.0
+2010,10,Silverstone,Sébastien Buemi,12.0
+2010,10,Silverstone,Vitaly Petrov,13.0
+2010,10,Silverstone,Fernando Alonso,14.0
+2010,10,Silverstone,Felipe Massa,15.0
+2010,10,Silverstone,Jarno Trulli,16.0
+2010,10,Silverstone,Heikki Kovalainen,17.0
+2010,10,Silverstone,Timo Glock,18.0
+2010,10,Silverstone,Karun Chandhok,19.0
+2010,10,Silverstone,Sakon Yamamoto,20.0
+2010,10,Silverstone,Jaime Alguersuari,21.0
+2010,10,Silverstone,Pedro de la Rosa,22.0
+2010,10,Silverstone,Robert Kubica,23.0
+2010,10,Silverstone,Lucas di Grassi,24.0
+2010,11,Hockenheim,Fernando Alonso,1.0
+2010,11,Hockenheim,Felipe Massa,2.0
+2010,11,Hockenheim,Sebastian Vettel,3.0
+2010,11,Hockenheim,Lewis Hamilton,4.0
+2010,11,Hockenheim,Jenson Button,5.0
+2010,11,Hockenheim,Mark Webber,6.0
+2010,11,Hockenheim,Robert Kubica,7.0
+2010,11,Hockenheim,Nico Rosberg,8.0
+2010,11,Hockenheim,Michael Schumacher,9.0
+2010,11,Hockenheim,Vitaly Petrov,10.0
+2010,11,Hockenheim,Kamui Kobayashi,11.0
+2010,11,Hockenheim,Rubens Barrichello,12.0
+2010,11,Hockenheim,Nico Hulkenberg,13.0
+2010,11,Hockenheim,Pedro de la Rosa,14.0
+2010,11,Hockenheim,Jaime Alguersuari,15.0
+2010,11,Hockenheim,Vitantonio Liuzzi,16.0
+2010,11,Hockenheim,Adrian Sutil,17.0
+2010,11,Hockenheim,Timo Glock,18.0
+2010,11,Hockenheim,Bruno Senna,19.0
+2010,11,Hockenheim,Heikki Kovalainen,20.0
+2010,11,Hockenheim,Lucas di Grassi,21.0
+2010,11,Hockenheim,Sakon Yamamoto,22.0
+2010,11,Hockenheim,Jarno Trulli,23.0
+2010,11,Hockenheim,Sébastien Buemi,24.0
+2010,12,Budapest,Mark Webber,1.0
+2010,12,Budapest,Fernando Alonso,2.0
+2010,12,Budapest,Sebastian Vettel,3.0
+2010,12,Budapest,Felipe Massa,4.0
+2010,12,Budapest,Vitaly Petrov,5.0
+2010,12,Budapest,Nico Hulkenberg,6.0
+2010,12,Budapest,Pedro de la Rosa,7.0
+2010,12,Budapest,Jenson Button,8.0
+2010,12,Budapest,Kamui Kobayashi,9.0
+2010,12,Budapest,Rubens Barrichello,10.0
+2010,12,Budapest,Michael Schumacher,11.0
+2010,12,Budapest,Sébastien Buemi,12.0
+2010,12,Budapest,Vitantonio Liuzzi,13.0
+2010,12,Budapest,Heikki Kovalainen,14.0
+2010,12,Budapest,Jarno Trulli,15.0
+2010,12,Budapest,Timo Glock,16.0
+2010,12,Budapest,Bruno Senna,17.0
+2010,12,Budapest,Lucas di Grassi,18.0
+2010,12,Budapest,Sakon Yamamoto,19.0
+2010,12,Budapest,Lewis Hamilton,20.0
+2010,12,Budapest,Robert Kubica,21.0
+2010,12,Budapest,Nico Rosberg,22.0
+2010,12,Budapest,Adrian Sutil,23.0
+2010,12,Budapest,Jaime Alguersuari,24.0
+2010,13,Spa,Lewis Hamilton,1.0
+2010,13,Spa,Mark Webber,2.0
+2010,13,Spa,Robert Kubica,3.0
+2010,13,Spa,Felipe Massa,4.0
+2010,13,Spa,Adrian Sutil,5.0
+2010,13,Spa,Nico Rosberg,6.0
+2010,13,Spa,Michael Schumacher,7.0
+2010,13,Spa,Kamui Kobayashi,8.0
+2010,13,Spa,Vitaly Petrov,9.0
+2010,13,Spa,Vitantonio Liuzzi,10.0
+2010,13,Spa,Pedro de la Rosa,11.0
+2010,13,Spa,Sébastien Buemi,12.0
+2010,13,Spa,Jaime Alguersuari,13.0
+2010,13,Spa,Nico Hulkenberg,14.0
+2010,13,Spa,Sebastian Vettel,15.0
+2010,13,Spa,Heikki Kovalainen,16.0
+2010,13,Spa,Lucas di Grassi,17.0
+2010,13,Spa,Timo Glock,18.0
+2010,13,Spa,Jarno Trulli,19.0
+2010,13,Spa,Sakon Yamamoto,20.0
+2010,13,Spa,Fernando Alonso,21.0
+2010,13,Spa,Jenson Button,22.0
+2010,13,Spa,Bruno Senna,23.0
+2010,13,Spa,Rubens Barrichello,24.0
+2010,14,Monza,Fernando Alonso,1.0
+2010,14,Monza,Jenson Button,2.0
+2010,14,Monza,Felipe Massa,3.0
+2010,14,Monza,Sebastian Vettel,4.0
+2010,14,Monza,Nico Rosberg,5.0
+2010,14,Monza,Mark Webber,6.0
+2010,14,Monza,Nico Hulkenberg,7.0
+2010,14,Monza,Robert Kubica,8.0
+2010,14,Monza,Michael Schumacher,9.0
+2010,14,Monza,Rubens Barrichello,10.0
+2010,14,Monza,Sébastien Buemi,11.0
+2010,14,Monza,Vitantonio Liuzzi,12.0
+2010,14,Monza,Vitaly Petrov,13.0
+2010,14,Monza,Pedro de la Rosa,14.0
+2010,14,Monza,Jaime Alguersuari,15.0
+2010,14,Monza,Adrian Sutil,16.0
+2010,14,Monza,Timo Glock,17.0
+2010,14,Monza,Heikki Kovalainen,18.0
+2010,14,Monza,Sakon Yamamoto,19.0
+2010,14,Monza,Lucas di Grassi,20.0
+2010,14,Monza,Jarno Trulli,21.0
+2010,14,Monza,Bruno Senna,22.0
+2010,14,Monza,Lewis Hamilton,23.0
+2010,14,Monza,Kamui Kobayashi,24.0
+2010,15,Marina Bay,Fernando Alonso,1.0
+2010,15,Marina Bay,Sebastian Vettel,2.0
+2010,15,Marina Bay,Mark Webber,3.0
+2010,15,Marina Bay,Jenson Button,4.0
+2010,15,Marina Bay,Nico Rosberg,5.0
+2010,15,Marina Bay,Rubens Barrichello,6.0
+2010,15,Marina Bay,Robert Kubica,7.0
+2010,15,Marina Bay,Felipe Massa,8.0
+2010,15,Marina Bay,Adrian Sutil,9.0
+2010,15,Marina Bay,Nico Hulkenberg,10.0
+2010,15,Marina Bay,Vitaly Petrov,11.0
+2010,15,Marina Bay,Jaime Alguersuari,12.0
+2010,15,Marina Bay,Michael Schumacher,13.0
+2010,15,Marina Bay,Sébastien Buemi,14.0
+2010,15,Marina Bay,Lucas di Grassi,15.0
+2010,15,Marina Bay,Heikki Kovalainen,16.0
+2010,15,Marina Bay,Timo Glock,17.0
+2010,15,Marina Bay,Nick Heidfeld,18.0
+2010,15,Marina Bay,Lewis Hamilton,19.0
+2010,15,Marina Bay,Christian Klien,20.0
+2010,15,Marina Bay,Kamui Kobayashi,21.0
+2010,15,Marina Bay,Bruno Senna,22.0
+2010,15,Marina Bay,Jarno Trulli,23.0
+2010,15,Marina Bay,Vitantonio Liuzzi,24.0
+2010,16,Suzuka,Sebastian Vettel,1.0
+2010,16,Suzuka,Mark Webber,2.0
+2010,16,Suzuka,Fernando Alonso,3.0
+2010,16,Suzuka,Jenson Button,4.0
+2010,16,Suzuka,Lewis Hamilton,5.0
+2010,16,Suzuka,Michael Schumacher,6.0
+2010,16,Suzuka,Kamui Kobayashi,7.0
+2010,16,Suzuka,Nick Heidfeld,8.0
+2010,16,Suzuka,Rubens Barrichello,9.0
+2010,16,Suzuka,Sébastien Buemi,10.0
+2010,16,Suzuka,Jaime Alguersuari,11.0
+2010,16,Suzuka,Heikki Kovalainen,12.0
+2010,16,Suzuka,Jarno Trulli,13.0
+2010,16,Suzuka,Timo Glock,14.0
+2010,16,Suzuka,Bruno Senna,15.0
+2010,16,Suzuka,Sakon Yamamoto,16.0
+2010,16,Suzuka,Nico Rosberg,17.0
+2010,16,Suzuka,Adrian Sutil,18.0
+2010,16,Suzuka,Robert Kubica,19.0
+2010,16,Suzuka,Nico Hulkenberg,20.0
+2010,16,Suzuka,Felipe Massa,21.0
+2010,16,Suzuka,Vitaly Petrov,22.0
+2010,16,Suzuka,Vitantonio Liuzzi,23.0
+2010,16,Suzuka,Lucas di Grassi,24.0
+2010,17,Yeongam County,Fernando Alonso,1.0
+2010,17,Yeongam County,Lewis Hamilton,2.0
+2010,17,Yeongam County,Felipe Massa,3.0
+2010,17,Yeongam County,Michael Schumacher,4.0
+2010,17,Yeongam County,Robert Kubica,5.0
+2010,17,Yeongam County,Vitantonio Liuzzi,6.0
+2010,17,Yeongam County,Rubens Barrichello,7.0
+2010,17,Yeongam County,Kamui Kobayashi,8.0
+2010,17,Yeongam County,Nick Heidfeld,9.0
+2010,17,Yeongam County,Nico Hulkenberg,10.0
+2010,17,Yeongam County,Jaime Alguersuari,11.0
+2010,17,Yeongam County,Jenson Button,12.0
+2010,17,Yeongam County,Heikki Kovalainen,13.0
+2010,17,Yeongam County,Bruno Senna,14.0
+2010,17,Yeongam County,Sakon Yamamoto,15.0
+2010,17,Yeongam County,Adrian Sutil,16.0
+2010,17,Yeongam County,Sebastian Vettel,17.0
+2010,17,Yeongam County,Vitaly Petrov,18.0
+2010,17,Yeongam County,Timo Glock,19.0
+2010,17,Yeongam County,Sébastien Buemi,20.0
+2010,17,Yeongam County,Lucas di Grassi,21.0
+2010,17,Yeongam County,Jarno Trulli,22.0
+2010,17,Yeongam County,Mark Webber,23.0
+2010,17,Yeongam County,Nico Rosberg,24.0
+2010,18,São Paulo,Sebastian Vettel,1.0
+2010,18,São Paulo,Mark Webber,2.0
+2010,18,São Paulo,Fernando Alonso,3.0
+2010,18,São Paulo,Lewis Hamilton,4.0
+2010,18,São Paulo,Jenson Button,5.0
+2010,18,São Paulo,Nico Rosberg,6.0
+2010,18,São Paulo,Michael Schumacher,7.0
+2010,18,São Paulo,Nico Hulkenberg,8.0
+2010,18,São Paulo,Robert Kubica,9.0
+2010,18,São Paulo,Kamui Kobayashi,10.0
+2010,18,São Paulo,Jaime Alguersuari,11.0
+2010,18,São Paulo,Adrian Sutil,12.0
+2010,18,São Paulo,Sébastien Buemi,13.0
+2010,18,São Paulo,Rubens Barrichello,14.0
+2010,18,São Paulo,Felipe Massa,15.0
+2010,18,São Paulo,Vitaly Petrov,16.0
+2010,18,São Paulo,Nick Heidfeld,17.0
+2010,18,São Paulo,Heikki Kovalainen,18.0
+2010,18,São Paulo,Jarno Trulli,19.0
+2010,18,São Paulo,Timo Glock,20.0
+2010,18,São Paulo,Bruno Senna,21.0
+2010,18,São Paulo,Christian Klien,22.0
+2010,18,São Paulo,Lucas di Grassi,23.0
+2010,18,São Paulo,Vitantonio Liuzzi,24.0
+2010,19,Abu Dhabi,Sebastian Vettel,1.0
+2010,19,Abu Dhabi,Lewis Hamilton,2.0
+2010,19,Abu Dhabi,Jenson Button,3.0
+2010,19,Abu Dhabi,Nico Rosberg,4.0
+2010,19,Abu Dhabi,Robert Kubica,5.0
+2010,19,Abu Dhabi,Vitaly Petrov,6.0
+2010,19,Abu Dhabi,Fernando Alonso,7.0
+2010,19,Abu Dhabi,Mark Webber,8.0
+2010,19,Abu Dhabi,Jaime Alguersuari,9.0
+2010,19,Abu Dhabi,Felipe Massa,10.0
+2010,19,Abu Dhabi,Nick Heidfeld,11.0
+2010,19,Abu Dhabi,Rubens Barrichello,12.0
+2010,19,Abu Dhabi,Adrian Sutil,13.0
+2010,19,Abu Dhabi,Kamui Kobayashi,14.0
+2010,19,Abu Dhabi,Sébastien Buemi,15.0
+2010,19,Abu Dhabi,Nico Hulkenberg,16.0
+2010,19,Abu Dhabi,Heikki Kovalainen,17.0
+2010,19,Abu Dhabi,Lucas di Grassi,18.0
+2010,19,Abu Dhabi,Bruno Senna,19.0
+2010,19,Abu Dhabi,Christian Klien,20.0
+2010,19,Abu Dhabi,Jarno Trulli,21.0
+2010,19,Abu Dhabi,Timo Glock,22.0
+2010,19,Abu Dhabi,Michael Schumacher,23.0
+2010,19,Abu Dhabi,Vitantonio Liuzzi,24.0
+2011,1,Melbourne,Sebastian Vettel,1.0
+2011,1,Melbourne,Lewis Hamilton,2.0
+2011,1,Melbourne,Vitaly Petrov,3.0
+2011,1,Melbourne,Fernando Alonso,4.0
+2011,1,Melbourne,Mark Webber,5.0
+2011,1,Melbourne,Jenson Button,6.0
+2011,1,Melbourne,Felipe Massa,7.0
+2011,1,Melbourne,Sébastien Buemi,8.0
+2011,1,Melbourne,Adrian Sutil,9.0
+2011,1,Melbourne,Paul di Resta,10.0
+2011,1,Melbourne,Jaime Alguersuari,11.0
+2011,1,Melbourne,Nick Heidfeld,12.0
+2011,1,Melbourne,Jarno Trulli,13.0
+2011,1,Melbourne,Jérôme d'Ambrosio,14.0
+2011,1,Melbourne,Timo Glock,15.0
+2011,1,Melbourne,Rubens Barrichello,16.0
+2011,1,Melbourne,Nico Rosberg,17.0
+2011,1,Melbourne,Heikki Kovalainen,18.0
+2011,1,Melbourne,Michael Schumacher,19.0
+2011,1,Melbourne,Pastor Maldonado,20.0
+2011,1,Melbourne,Kamui Kobayashi,21.0
+2011,1,Melbourne,Sergio Perez,22.0
+2011,2,Kuala Lumpur,Sebastian Vettel,1.0
+2011,2,Kuala Lumpur,Jenson Button,2.0
+2011,2,Kuala Lumpur,Nick Heidfeld,3.0
+2011,2,Kuala Lumpur,Mark Webber,4.0
+2011,2,Kuala Lumpur,Felipe Massa,5.0
+2011,2,Kuala Lumpur,Fernando Alonso,6.0
+2011,2,Kuala Lumpur,Kamui Kobayashi,7.0
+2011,2,Kuala Lumpur,Lewis Hamilton,8.0
+2011,2,Kuala Lumpur,Michael Schumacher,9.0
+2011,2,Kuala Lumpur,Paul di Resta,10.0
+2011,2,Kuala Lumpur,Adrian Sutil,11.0
+2011,2,Kuala Lumpur,Nico Rosberg,12.0
+2011,2,Kuala Lumpur,Sébastien Buemi,13.0
+2011,2,Kuala Lumpur,Jaime Alguersuari,14.0
+2011,2,Kuala Lumpur,Heikki Kovalainen,15.0
+2011,2,Kuala Lumpur,Timo Glock,16.0
+2011,2,Kuala Lumpur,Vitaly Petrov,17.0
+2011,2,Kuala Lumpur,Vitantonio Liuzzi,18.0
+2011,2,Kuala Lumpur,Jérôme d'Ambrosio,19.0
+2011,2,Kuala Lumpur,Jarno Trulli,20.0
+2011,2,Kuala Lumpur,Sergio Perez,21.0
+2011,2,Kuala Lumpur,Rubens Barrichello,22.0
+2011,2,Kuala Lumpur,Narain Karthikeyan,23.0
+2011,2,Kuala Lumpur,Pastor Maldonado,24.0
+2011,3,Shanghai,Lewis Hamilton,1.0
+2011,3,Shanghai,Sebastian Vettel,2.0
+2011,3,Shanghai,Mark Webber,3.0
+2011,3,Shanghai,Jenson Button,4.0
+2011,3,Shanghai,Nico Rosberg,5.0
+2011,3,Shanghai,Felipe Massa,6.0
+2011,3,Shanghai,Fernando Alonso,7.0
+2011,3,Shanghai,Michael Schumacher,8.0
+2011,3,Shanghai,Vitaly Petrov,9.0
+2011,3,Shanghai,Kamui Kobayashi,10.0
+2011,3,Shanghai,Paul di Resta,11.0
+2011,3,Shanghai,Nick Heidfeld,12.0
+2011,3,Shanghai,Rubens Barrichello,13.0
+2011,3,Shanghai,Sébastien Buemi,14.0
+2011,3,Shanghai,Adrian Sutil,15.0
+2011,3,Shanghai,Heikki Kovalainen,16.0
+2011,3,Shanghai,Sergio Perez,17.0
+2011,3,Shanghai,Pastor Maldonado,18.0
+2011,3,Shanghai,Jarno Trulli,19.0
+2011,3,Shanghai,Jérôme d'Ambrosio,20.0
+2011,3,Shanghai,Timo Glock,21.0
+2011,3,Shanghai,Vitantonio Liuzzi,22.0
+2011,3,Shanghai,Narain Karthikeyan,23.0
+2011,3,Shanghai,Jaime Alguersuari,24.0
+2011,4,Istanbul,Sebastian Vettel,1.0
+2011,4,Istanbul,Mark Webber,2.0
+2011,4,Istanbul,Fernando Alonso,3.0
+2011,4,Istanbul,Lewis Hamilton,4.0
+2011,4,Istanbul,Nico Rosberg,5.0
+2011,4,Istanbul,Jenson Button,6.0
+2011,4,Istanbul,Nick Heidfeld,7.0
+2011,4,Istanbul,Vitaly Petrov,8.0
+2011,4,Istanbul,Sébastien Buemi,9.0
+2011,4,Istanbul,Kamui Kobayashi,10.0
+2011,4,Istanbul,Felipe Massa,11.0
+2011,4,Istanbul,Michael Schumacher,12.0
+2011,4,Istanbul,Adrian Sutil,13.0
+2011,4,Istanbul,Sergio Perez,14.0
+2011,4,Istanbul,Rubens Barrichello,15.0
+2011,4,Istanbul,Jaime Alguersuari,16.0
+2011,4,Istanbul,Pastor Maldonado,17.0
+2011,4,Istanbul,Jarno Trulli,18.0
+2011,4,Istanbul,Heikki Kovalainen,19.0
+2011,4,Istanbul,Jérôme d'Ambrosio,20.0
+2011,4,Istanbul,Narain Karthikeyan,21.0
+2011,4,Istanbul,Vitantonio Liuzzi,22.0
+2011,4,Istanbul,Paul di Resta,23.0
+2011,4,Istanbul,Timo Glock,24.0
+2011,5,Barcelona,Sebastian Vettel,1.0
+2011,5,Barcelona,Lewis Hamilton,2.0
+2011,5,Barcelona,Jenson Button,3.0
+2011,5,Barcelona,Mark Webber,4.0
+2011,5,Barcelona,Fernando Alonso,5.0
+2011,5,Barcelona,Michael Schumacher,6.0
+2011,5,Barcelona,Nico Rosberg,7.0
+2011,5,Barcelona,Nick Heidfeld,8.0
+2011,5,Barcelona,Sergio Perez,9.0
+2011,5,Barcelona,Kamui Kobayashi,10.0
+2011,5,Barcelona,Vitaly Petrov,11.0
+2011,5,Barcelona,Paul di Resta,12.0
+2011,5,Barcelona,Adrian Sutil,13.0
+2011,5,Barcelona,Sébastien Buemi,14.0
+2011,5,Barcelona,Pastor Maldonado,15.0
+2011,5,Barcelona,Jaime Alguersuari,16.0
+2011,5,Barcelona,Rubens Barrichello,17.0
+2011,5,Barcelona,Jarno Trulli,18.0
+2011,5,Barcelona,Timo Glock,19.0
+2011,5,Barcelona,Jérôme d'Ambrosio,20.0
+2011,5,Barcelona,Narain Karthikeyan,21.0
+2011,5,Barcelona,Felipe Massa,22.0
+2011,5,Barcelona,Heikki Kovalainen,23.0
+2011,5,Barcelona,Vitantonio Liuzzi,24.0
+2011,6,Monte Carlo,Sebastian Vettel,1.0
+2011,6,Monte Carlo,Fernando Alonso,2.0
+2011,6,Monte Carlo,Jenson Button,3.0
+2011,6,Monte Carlo,Mark Webber,4.0
+2011,6,Monte Carlo,Kamui Kobayashi,5.0
+2011,6,Monte Carlo,Lewis Hamilton,6.0
+2011,6,Monte Carlo,Adrian Sutil,7.0
+2011,6,Monte Carlo,Nick Heidfeld,8.0
+2011,6,Monte Carlo,Rubens Barrichello,9.0
+2011,6,Monte Carlo,Sébastien Buemi,10.0
+2011,6,Monte Carlo,Nico Rosberg,11.0
+2011,6,Monte Carlo,Paul di Resta,12.0
+2011,6,Monte Carlo,Jarno Trulli,13.0
+2011,6,Monte Carlo,Heikki Kovalainen,14.0
+2011,6,Monte Carlo,Jérôme d'Ambrosio,15.0
+2011,6,Monte Carlo,Vitantonio Liuzzi,16.0
+2011,6,Monte Carlo,Narain Karthikeyan,17.0
+2011,6,Monte Carlo,Pastor Maldonado,18.0
+2011,6,Monte Carlo,Vitaly Petrov,19.0
+2011,6,Monte Carlo,Jaime Alguersuari,20.0
+2011,6,Monte Carlo,Felipe Massa,21.0
+2011,6,Monte Carlo,Michael Schumacher,22.0
+2011,6,Monte Carlo,Timo Glock,23.0
+2011,6,Monte Carlo,Sergio Perez,24.0
+2011,7,Montreal,Jenson Button,1.0
+2011,7,Montreal,Sebastian Vettel,2.0
+2011,7,Montreal,Mark Webber,3.0
+2011,7,Montreal,Michael Schumacher,4.0
+2011,7,Montreal,Vitaly Petrov,5.0
+2011,7,Montreal,Felipe Massa,6.0
+2011,7,Montreal,Kamui Kobayashi,7.0
+2011,7,Montreal,Jaime Alguersuari,8.0
+2011,7,Montreal,Rubens Barrichello,9.0
+2011,7,Montreal,Sébastien Buemi,10.0
+2011,7,Montreal,Nico Rosberg,11.0
+2011,7,Montreal,Pedro de la Rosa,12.0
+2011,7,Montreal,Vitantonio Liuzzi,13.0
+2011,7,Montreal,Jérôme d'Ambrosio,14.0
+2011,7,Montreal,Timo Glock,15.0
+2011,7,Montreal,Jarno Trulli,16.0
+2011,7,Montreal,Narain Karthikeyan,17.0
+2011,7,Montreal,Paul di Resta,18.0
+2011,7,Montreal,Pastor Maldonado,19.0
+2011,7,Montreal,Nick Heidfeld,20.0
+2011,7,Montreal,Adrian Sutil,21.0
+2011,7,Montreal,Fernando Alonso,22.0
+2011,7,Montreal,Heikki Kovalainen,23.0
+2011,7,Montreal,Lewis Hamilton,24.0
+2011,8,Valencia,Sebastian Vettel,1.0
+2011,8,Valencia,Fernando Alonso,2.0
+2011,8,Valencia,Mark Webber,3.0
+2011,8,Valencia,Lewis Hamilton,4.0
+2011,8,Valencia,Felipe Massa,5.0
+2011,8,Valencia,Jenson Button,6.0
+2011,8,Valencia,Nico Rosberg,7.0
+2011,8,Valencia,Jaime Alguersuari,8.0
+2011,8,Valencia,Adrian Sutil,9.0
+2011,8,Valencia,Nick Heidfeld,10.0
+2011,8,Valencia,Sergio Perez,11.0
+2011,8,Valencia,Rubens Barrichello,12.0
+2011,8,Valencia,Sébastien Buemi,13.0
+2011,8,Valencia,Paul di Resta,14.0
+2011,8,Valencia,Vitaly Petrov,15.0
+2011,8,Valencia,Kamui Kobayashi,16.0
+2011,8,Valencia,Michael Schumacher,17.0
+2011,8,Valencia,Pastor Maldonado,18.0
+2011,8,Valencia,Heikki Kovalainen,19.0
+2011,8,Valencia,Jarno Trulli,20.0
+2011,8,Valencia,Timo Glock,21.0
+2011,8,Valencia,Jérôme d'Ambrosio,22.0
+2011,8,Valencia,Vitantonio Liuzzi,23.0
+2011,8,Valencia,Narain Karthikeyan,24.0
+2011,9,Silverstone,Fernando Alonso,1.0
+2011,9,Silverstone,Sebastian Vettel,2.0
+2011,9,Silverstone,Mark Webber,3.0
+2011,9,Silverstone,Lewis Hamilton,4.0
+2011,9,Silverstone,Felipe Massa,5.0
+2011,9,Silverstone,Nico Rosberg,6.0
+2011,9,Silverstone,Sergio Perez,7.0
+2011,9,Silverstone,Nick Heidfeld,8.0
+2011,9,Silverstone,Michael Schumacher,9.0
+2011,9,Silverstone,Jaime Alguersuari,10.0
+2011,9,Silverstone,Adrian Sutil,11.0
+2011,9,Silverstone,Vitaly Petrov,12.0
+2011,9,Silverstone,Rubens Barrichello,13.0
+2011,9,Silverstone,Pastor Maldonado,14.0
+2011,9,Silverstone,Paul di Resta,15.0
+2011,9,Silverstone,Timo Glock,16.0
+2011,9,Silverstone,Jérôme d'Ambrosio,17.0
+2011,9,Silverstone,Vitantonio Liuzzi,18.0
+2011,9,Silverstone,Daniel Ricciardo,19.0
+2011,9,Silverstone,Jenson Button,20.0
+2011,9,Silverstone,Sébastien Buemi,21.0
+2011,9,Silverstone,Kamui Kobayashi,22.0
+2011,9,Silverstone,Jarno Trulli,23.0
+2011,9,Silverstone,Heikki Kovalainen,24.0
+2011,10,Nürburg,Lewis Hamilton,1.0
+2011,10,Nürburg,Fernando Alonso,2.0
+2011,10,Nürburg,Mark Webber,3.0
+2011,10,Nürburg,Sebastian Vettel,4.0
+2011,10,Nürburg,Felipe Massa,5.0
+2011,10,Nürburg,Adrian Sutil,6.0
+2011,10,Nürburg,Nico Rosberg,7.0
+2011,10,Nürburg,Michael Schumacher,8.0
+2011,10,Nürburg,Kamui Kobayashi,9.0
+2011,10,Nürburg,Vitaly Petrov,10.0
+2011,10,Nürburg,Sergio Perez,11.0
+2011,10,Nürburg,Jaime Alguersuari,12.0
+2011,10,Nürburg,Paul di Resta,13.0
+2011,10,Nürburg,Pastor Maldonado,14.0
+2011,10,Nürburg,Sébastien Buemi,15.0
+2011,10,Nürburg,Heikki Kovalainen,16.0
+2011,10,Nürburg,Timo Glock,17.0
+2011,10,Nürburg,Jérôme d'Ambrosio,18.0
+2011,10,Nürburg,Daniel Ricciardo,19.0
+2011,10,Nürburg,Karun Chandhok,20.0
+2011,10,Nürburg,Vitantonio Liuzzi,21.0
+2011,10,Nürburg,Jenson Button,22.0
+2011,10,Nürburg,Rubens Barrichello,23.0
+2011,10,Nürburg,Nick Heidfeld,24.0
+2011,11,Budapest,Jenson Button,1.0
+2011,11,Budapest,Sebastian Vettel,2.0
+2011,11,Budapest,Fernando Alonso,3.0
+2011,11,Budapest,Lewis Hamilton,4.0
+2011,11,Budapest,Mark Webber,5.0
+2011,11,Budapest,Felipe Massa,6.0
+2011,11,Budapest,Paul di Resta,7.0
+2011,11,Budapest,Sébastien Buemi,8.0
+2011,11,Budapest,Nico Rosberg,9.0
+2011,11,Budapest,Jaime Alguersuari,10.0
+2011,11,Budapest,Kamui Kobayashi,11.0
+2011,11,Budapest,Vitaly Petrov,12.0
+2011,11,Budapest,Rubens Barrichello,13.0
+2011,11,Budapest,Adrian Sutil,14.0
+2011,11,Budapest,Sergio Perez,15.0
+2011,11,Budapest,Pastor Maldonado,16.0
+2011,11,Budapest,Timo Glock,17.0
+2011,11,Budapest,Daniel Ricciardo,18.0
+2011,11,Budapest,Jérôme d'Ambrosio,19.0
+2011,11,Budapest,Vitantonio Liuzzi,20.0
+2011,11,Budapest,Heikki Kovalainen,21.0
+2011,11,Budapest,Michael Schumacher,22.0
+2011,11,Budapest,Nick Heidfeld,23.0
+2011,11,Budapest,Jarno Trulli,24.0
+2011,12,Spa,Sebastian Vettel,1.0
+2011,12,Spa,Mark Webber,2.0
+2011,12,Spa,Jenson Button,3.0
+2011,12,Spa,Fernando Alonso,4.0
+2011,12,Spa,Michael Schumacher,5.0
+2011,12,Spa,Nico Rosberg,6.0
+2011,12,Spa,Adrian Sutil,7.0
+2011,12,Spa,Felipe Massa,8.0
+2011,12,Spa,Vitaly Petrov,9.0
+2011,12,Spa,Pastor Maldonado,10.0
+2011,12,Spa,Paul di Resta,11.0
+2011,12,Spa,Kamui Kobayashi,12.0
+2011,12,Spa,Bruno Senna,13.0
+2011,12,Spa,Jarno Trulli,14.0
+2011,12,Spa,Heikki Kovalainen,15.0
+2011,12,Spa,Rubens Barrichello,16.0
+2011,12,Spa,Jérôme d'Ambrosio,17.0
+2011,12,Spa,Timo Glock,18.0
+2011,12,Spa,Vitantonio Liuzzi,19.0
+2011,12,Spa,Sergio Perez,20.0
+2011,12,Spa,Daniel Ricciardo,21.0
+2011,12,Spa,Lewis Hamilton,22.0
+2011,12,Spa,Sébastien Buemi,23.0
+2011,12,Spa,Jaime Alguersuari,24.0
+2011,13,Monza,Sebastian Vettel,1.0
+2011,13,Monza,Jenson Button,2.0
+2011,13,Monza,Fernando Alonso,3.0
+2011,13,Monza,Lewis Hamilton,4.0
+2011,13,Monza,Michael Schumacher,5.0
+2011,13,Monza,Felipe Massa,6.0
+2011,13,Monza,Jaime Alguersuari,7.0
+2011,13,Monza,Paul di Resta,8.0
+2011,13,Monza,Bruno Senna,9.0
+2011,13,Monza,Sébastien Buemi,10.0
+2011,13,Monza,Pastor Maldonado,11.0
+2011,13,Monza,Rubens Barrichello,12.0
+2011,13,Monza,Heikki Kovalainen,13.0
+2011,13,Monza,Jarno Trulli,14.0
+2011,13,Monza,Timo Glock,15.0
+2011,13,Monza,Daniel Ricciardo,16.0
+2011,13,Monza,Sergio Perez,17.0
+2011,13,Monza,Kamui Kobayashi,18.0
+2011,13,Monza,Adrian Sutil,19.0
+2011,13,Monza,Mark Webber,20.0
+2011,13,Monza,Jérôme d'Ambrosio,21.0
+2011,13,Monza,Vitaly Petrov,22.0
+2011,13,Monza,Nico Rosberg,23.0
+2011,13,Monza,Vitantonio Liuzzi,24.0
+2011,14,Marina Bay,Sebastian Vettel,1.0
+2011,14,Marina Bay,Jenson Button,2.0
+2011,14,Marina Bay,Mark Webber,3.0
+2011,14,Marina Bay,Fernando Alonso,4.0
+2011,14,Marina Bay,Lewis Hamilton,5.0
+2011,14,Marina Bay,Paul di Resta,6.0
+2011,14,Marina Bay,Nico Rosberg,7.0
+2011,14,Marina Bay,Adrian Sutil,8.0
+2011,14,Marina Bay,Felipe Massa,9.0
+2011,14,Marina Bay,Sergio Perez,10.0
+2011,14,Marina Bay,Pastor Maldonado,11.0
+2011,14,Marina Bay,Sébastien Buemi,12.0
+2011,14,Marina Bay,Rubens Barrichello,13.0
+2011,14,Marina Bay,Kamui Kobayashi,14.0
+2011,14,Marina Bay,Bruno Senna,15.0
+2011,14,Marina Bay,Heikki Kovalainen,16.0
+2011,14,Marina Bay,Vitaly Petrov,17.0
+2011,14,Marina Bay,Jérôme d'Ambrosio,18.0
+2011,14,Marina Bay,Daniel Ricciardo,19.0
+2011,14,Marina Bay,Vitantonio Liuzzi,20.0
+2011,14,Marina Bay,Jaime Alguersuari,21.0
+2011,14,Marina Bay,Jarno Trulli,22.0
+2011,14,Marina Bay,Michael Schumacher,23.0
+2011,14,Marina Bay,Timo Glock,24.0
+2011,15,Suzuka,Jenson Button,1.0
+2011,15,Suzuka,Fernando Alonso,2.0
+2011,15,Suzuka,Sebastian Vettel,3.0
+2011,15,Suzuka,Mark Webber,4.0
+2011,15,Suzuka,Lewis Hamilton,5.0
+2011,15,Suzuka,Michael Schumacher,6.0
+2011,15,Suzuka,Felipe Massa,7.0
+2011,15,Suzuka,Sergio Perez,8.0
+2011,15,Suzuka,Vitaly Petrov,9.0
+2011,15,Suzuka,Nico Rosberg,10.0
+2011,15,Suzuka,Adrian Sutil,11.0
+2011,15,Suzuka,Paul di Resta,12.0
+2011,15,Suzuka,Kamui Kobayashi,13.0
+2011,15,Suzuka,Pastor Maldonado,14.0
+2011,15,Suzuka,Jaime Alguersuari,15.0
+2011,15,Suzuka,Bruno Senna,16.0
+2011,15,Suzuka,Rubens Barrichello,17.0
+2011,15,Suzuka,Heikki Kovalainen,18.0
+2011,15,Suzuka,Jarno Trulli,19.0
+2011,15,Suzuka,Timo Glock,20.0
+2011,15,Suzuka,Jérôme d'Ambrosio,21.0
+2011,15,Suzuka,Daniel Ricciardo,22.0
+2011,15,Suzuka,Vitantonio Liuzzi,23.0
+2011,15,Suzuka,Sébastien Buemi,24.0
+2011,16,Yeongam County,Sebastian Vettel,1.0
+2011,16,Yeongam County,Lewis Hamilton,2.0
+2011,16,Yeongam County,Mark Webber,3.0
+2011,16,Yeongam County,Jenson Button,4.0
+2011,16,Yeongam County,Fernando Alonso,5.0
+2011,16,Yeongam County,Felipe Massa,6.0
+2011,16,Yeongam County,Jaime Alguersuari,7.0
+2011,16,Yeongam County,Nico Rosberg,8.0
+2011,16,Yeongam County,Sébastien Buemi,9.0
+2011,16,Yeongam County,Paul di Resta,10.0
+2011,16,Yeongam County,Adrian Sutil,11.0
+2011,16,Yeongam County,Rubens Barrichello,12.0
+2011,16,Yeongam County,Bruno Senna,13.0
+2011,16,Yeongam County,Heikki Kovalainen,14.0
+2011,16,Yeongam County,Kamui Kobayashi,15.0
+2011,16,Yeongam County,Sergio Perez,16.0
+2011,16,Yeongam County,Jarno Trulli,17.0
+2011,16,Yeongam County,Timo Glock,18.0
+2011,16,Yeongam County,Daniel Ricciardo,19.0
+2011,16,Yeongam County,Jérôme d'Ambrosio,20.0
+2011,16,Yeongam County,Vitantonio Liuzzi,21.0
+2011,16,Yeongam County,Pastor Maldonado,22.0
+2011,16,Yeongam County,Vitaly Petrov,23.0
+2011,16,Yeongam County,Michael Schumacher,24.0
+2011,17,Uttar Pradesh,Sebastian Vettel,1.0
+2011,17,Uttar Pradesh,Jenson Button,2.0
+2011,17,Uttar Pradesh,Fernando Alonso,3.0
+2011,17,Uttar Pradesh,Mark Webber,4.0
+2011,17,Uttar Pradesh,Michael Schumacher,5.0
+2011,17,Uttar Pradesh,Nico Rosberg,6.0
+2011,17,Uttar Pradesh,Lewis Hamilton,7.0
+2011,17,Uttar Pradesh,Jaime Alguersuari,8.0
+2011,17,Uttar Pradesh,Adrian Sutil,9.0
+2011,17,Uttar Pradesh,Sergio Perez,10.0
+2011,17,Uttar Pradesh,Vitaly Petrov,11.0
+2011,17,Uttar Pradesh,Bruno Senna,12.0
+2011,17,Uttar Pradesh,Paul di Resta,13.0
+2011,17,Uttar Pradesh,Heikki Kovalainen,14.0
+2011,17,Uttar Pradesh,Rubens Barrichello,15.0
+2011,17,Uttar Pradesh,Jérôme d'Ambrosio,16.0
+2011,17,Uttar Pradesh,Narain Karthikeyan,17.0
+2011,17,Uttar Pradesh,Daniel Ricciardo,18.0
+2011,17,Uttar Pradesh,Jarno Trulli,19.0
+2011,17,Uttar Pradesh,Felipe Massa,20.0
+2011,17,Uttar Pradesh,Sébastien Buemi,21.0
+2011,17,Uttar Pradesh,Pastor Maldonado,22.0
+2011,17,Uttar Pradesh,Timo Glock,23.0
+2011,17,Uttar Pradesh,Kamui Kobayashi,24.0
+2011,18,Abu Dhabi,Lewis Hamilton,1.0
+2011,18,Abu Dhabi,Fernando Alonso,2.0
+2011,18,Abu Dhabi,Jenson Button,3.0
+2011,18,Abu Dhabi,Mark Webber,4.0
+2011,18,Abu Dhabi,Felipe Massa,5.0
+2011,18,Abu Dhabi,Nico Rosberg,6.0
+2011,18,Abu Dhabi,Michael Schumacher,7.0
+2011,18,Abu Dhabi,Adrian Sutil,8.0
+2011,18,Abu Dhabi,Paul di Resta,9.0
+2011,18,Abu Dhabi,Kamui Kobayashi,10.0
+2011,18,Abu Dhabi,Sergio Perez,11.0
+2011,18,Abu Dhabi,Rubens Barrichello,12.0
+2011,18,Abu Dhabi,Vitaly Petrov,13.0
+2011,18,Abu Dhabi,Pastor Maldonado,14.0
+2011,18,Abu Dhabi,Jaime Alguersuari,15.0
+2011,18,Abu Dhabi,Bruno Senna,16.0
+2011,18,Abu Dhabi,Heikki Kovalainen,17.0
+2011,18,Abu Dhabi,Jarno Trulli,18.0
+2011,18,Abu Dhabi,Timo Glock,19.0
+2011,18,Abu Dhabi,Vitantonio Liuzzi,20.0
+2011,18,Abu Dhabi,Daniel Ricciardo,21.0
+2011,18,Abu Dhabi,Sébastien Buemi,22.0
+2011,18,Abu Dhabi,Jérôme d'Ambrosio,23.0
+2011,18,Abu Dhabi,Sebastian Vettel,24.0
+2011,19,São Paulo,Mark Webber,1.0
+2011,19,São Paulo,Sebastian Vettel,2.0
+2011,19,São Paulo,Jenson Button,3.0
+2011,19,São Paulo,Fernando Alonso,4.0
+2011,19,São Paulo,Felipe Massa,5.0
+2011,19,São Paulo,Adrian Sutil,6.0
+2011,19,São Paulo,Nico Rosberg,7.0
+2011,19,São Paulo,Paul di Resta,8.0
+2011,19,São Paulo,Kamui Kobayashi,9.0
+2011,19,São Paulo,Vitaly Petrov,10.0
+2011,19,São Paulo,Jaime Alguersuari,11.0
+2011,19,São Paulo,Sébastien Buemi,12.0
+2011,19,São Paulo,Sergio Perez,13.0
+2011,19,São Paulo,Rubens Barrichello,14.0
+2011,19,São Paulo,Michael Schumacher,15.0
+2011,19,São Paulo,Heikki Kovalainen,16.0
+2011,19,São Paulo,Bruno Senna,17.0
+2011,19,São Paulo,Jarno Trulli,18.0
+2011,19,São Paulo,Jérôme d'Ambrosio,19.0
+2011,19,São Paulo,Daniel Ricciardo,20.0
+2011,19,São Paulo,Vitantonio Liuzzi,21.0
+2011,19,São Paulo,Lewis Hamilton,22.0
+2011,19,São Paulo,Pastor Maldonado,23.0
+2011,19,São Paulo,Timo Glock,24.0
+2012,1,Melbourne,Jenson Button,1.0
+2012,1,Melbourne,Sebastian Vettel,2.0
+2012,1,Melbourne,Lewis Hamilton,3.0
+2012,1,Melbourne,Mark Webber,4.0
+2012,1,Melbourne,Fernando Alonso,5.0
+2012,1,Melbourne,Kamui Kobayashi,6.0
+2012,1,Melbourne,Kimi Räikkönen,7.0
+2012,1,Melbourne,Sergio Perez,8.0
+2012,1,Melbourne,Daniel Ricciardo,9.0
+2012,1,Melbourne,Paul di Resta,10.0
+2012,1,Melbourne,Jean-Éric Vergne,11.0
+2012,1,Melbourne,Nico Rosberg,12.0
+2012,1,Melbourne,Pastor Maldonado,13.0
+2012,1,Melbourne,Timo Glock,14.0
+2012,1,Melbourne,Charles Pic,15.0
+2012,1,Melbourne,Bruno Senna,16.0
+2012,1,Melbourne,Felipe Massa,17.0
+2012,1,Melbourne,Heikki Kovalainen,18.0
+2012,1,Melbourne,Vitaly Petrov,19.0
+2012,1,Melbourne,Michael Schumacher,20.0
+2012,1,Melbourne,Romain Grosjean,21.0
+2012,1,Melbourne,Nico Hulkenberg,22.0
+2012,2,Kuala Lumpur,Fernando Alonso,1.0
+2012,2,Kuala Lumpur,Sergio Perez,2.0
+2012,2,Kuala Lumpur,Lewis Hamilton,3.0
+2012,2,Kuala Lumpur,Mark Webber,4.0
+2012,2,Kuala Lumpur,Kimi Räikkönen,5.0
+2012,2,Kuala Lumpur,Bruno Senna,6.0
+2012,2,Kuala Lumpur,Paul di Resta,7.0
+2012,2,Kuala Lumpur,Jean-Éric Vergne,8.0
+2012,2,Kuala Lumpur,Nico Hulkenberg,9.0
+2012,2,Kuala Lumpur,Michael Schumacher,10.0
+2012,2,Kuala Lumpur,Sebastian Vettel,11.0
+2012,2,Kuala Lumpur,Daniel Ricciardo,12.0
+2012,2,Kuala Lumpur,Nico Rosberg,13.0
+2012,2,Kuala Lumpur,Jenson Button,14.0
+2012,2,Kuala Lumpur,Felipe Massa,15.0
+2012,2,Kuala Lumpur,Vitaly Petrov,16.0
+2012,2,Kuala Lumpur,Timo Glock,17.0
+2012,2,Kuala Lumpur,Heikki Kovalainen,18.0
+2012,2,Kuala Lumpur,Pastor Maldonado,19.0
+2012,2,Kuala Lumpur,Charles Pic,20.0
+2012,2,Kuala Lumpur,Narain Karthikeyan,21.0
+2012,2,Kuala Lumpur,Pedro de la Rosa,22.0
+2012,2,Kuala Lumpur,Kamui Kobayashi,23.0
+2012,2,Kuala Lumpur,Romain Grosjean,24.0
+2012,3,Shanghai,Nico Rosberg,1.0
+2012,3,Shanghai,Jenson Button,2.0
+2012,3,Shanghai,Lewis Hamilton,3.0
+2012,3,Shanghai,Mark Webber,4.0
+2012,3,Shanghai,Sebastian Vettel,5.0
+2012,3,Shanghai,Romain Grosjean,6.0
+2012,3,Shanghai,Bruno Senna,7.0
+2012,3,Shanghai,Pastor Maldonado,8.0
+2012,3,Shanghai,Fernando Alonso,9.0
+2012,3,Shanghai,Kamui Kobayashi,10.0
+2012,3,Shanghai,Sergio Perez,11.0
+2012,3,Shanghai,Paul di Resta,12.0
+2012,3,Shanghai,Felipe Massa,13.0
+2012,3,Shanghai,Kimi Räikkönen,14.0
+2012,3,Shanghai,Nico Hulkenberg,15.0
+2012,3,Shanghai,Jean-Éric Vergne,16.0
+2012,3,Shanghai,Daniel Ricciardo,17.0
+2012,3,Shanghai,Vitaly Petrov,18.0
+2012,3,Shanghai,Timo Glock,19.0
+2012,3,Shanghai,Charles Pic,20.0
+2012,3,Shanghai,Pedro de la Rosa,21.0
+2012,3,Shanghai,Narain Karthikeyan,22.0
+2012,3,Shanghai,Heikki Kovalainen,23.0
+2012,3,Shanghai,Michael Schumacher,24.0
+2012,4,Sakhir,Sebastian Vettel,1.0
+2012,4,Sakhir,Kimi Räikkönen,2.0
+2012,4,Sakhir,Romain Grosjean,3.0
+2012,4,Sakhir,Mark Webber,4.0
+2012,4,Sakhir,Nico Rosberg,5.0
+2012,4,Sakhir,Paul di Resta,6.0
+2012,4,Sakhir,Fernando Alonso,7.0
+2012,4,Sakhir,Lewis Hamilton,8.0
+2012,4,Sakhir,Felipe Massa,9.0
+2012,4,Sakhir,Michael Schumacher,10.0
+2012,4,Sakhir,Sergio Perez,11.0
+2012,4,Sakhir,Nico Hulkenberg,12.0
+2012,4,Sakhir,Kamui Kobayashi,13.0
+2012,4,Sakhir,Jean-Éric Vergne,14.0
+2012,4,Sakhir,Daniel Ricciardo,15.0
+2012,4,Sakhir,Vitaly Petrov,16.0
+2012,4,Sakhir,Heikki Kovalainen,17.0
+2012,4,Sakhir,Jenson Button,18.0
+2012,4,Sakhir,Timo Glock,19.0
+2012,4,Sakhir,Pedro de la Rosa,20.0
+2012,4,Sakhir,Narain Karthikeyan,21.0
+2012,4,Sakhir,Bruno Senna,22.0
+2012,4,Sakhir,Pastor Maldonado,23.0
+2012,4,Sakhir,Charles Pic,24.0
+2012,5,Barcelona,Pastor Maldonado,1.0
+2012,5,Barcelona,Fernando Alonso,2.0
+2012,5,Barcelona,Kimi Räikkönen,3.0
+2012,5,Barcelona,Romain Grosjean,4.0
+2012,5,Barcelona,Kamui Kobayashi,5.0
+2012,5,Barcelona,Sebastian Vettel,6.0
+2012,5,Barcelona,Nico Rosberg,7.0
+2012,5,Barcelona,Lewis Hamilton,8.0
+2012,5,Barcelona,Jenson Button,9.0
+2012,5,Barcelona,Nico Hulkenberg,10.0
+2012,5,Barcelona,Mark Webber,11.0
+2012,5,Barcelona,Jean-Éric Vergne,12.0
+2012,5,Barcelona,Daniel Ricciardo,13.0
+2012,5,Barcelona,Paul di Resta,14.0
+2012,5,Barcelona,Felipe Massa,15.0
+2012,5,Barcelona,Heikki Kovalainen,16.0
+2012,5,Barcelona,Vitaly Petrov,17.0
+2012,5,Barcelona,Timo Glock,18.0
+2012,5,Barcelona,Pedro de la Rosa,19.0
+2012,5,Barcelona,Sergio Perez,20.0
+2012,5,Barcelona,Charles Pic,21.0
+2012,5,Barcelona,Narain Karthikeyan,22.0
+2012,5,Barcelona,Bruno Senna,23.0
+2012,5,Barcelona,Michael Schumacher,24.0
+2012,6,Monte Carlo,Mark Webber,1.0
+2012,6,Monte Carlo,Nico Rosberg,2.0
+2012,6,Monte Carlo,Fernando Alonso,3.0
+2012,6,Monte Carlo,Sebastian Vettel,4.0
+2012,6,Monte Carlo,Lewis Hamilton,5.0
+2012,6,Monte Carlo,Felipe Massa,6.0
+2012,6,Monte Carlo,Paul di Resta,7.0
+2012,6,Monte Carlo,Nico Hulkenberg,8.0
+2012,6,Monte Carlo,Kimi Räikkönen,9.0
+2012,6,Monte Carlo,Bruno Senna,10.0
+2012,6,Monte Carlo,Sergio Perez,11.0
+2012,6,Monte Carlo,Jean-Éric Vergne,12.0
+2012,6,Monte Carlo,Heikki Kovalainen,13.0
+2012,6,Monte Carlo,Timo Glock,14.0
+2012,6,Monte Carlo,Narain Karthikeyan,15.0
+2012,6,Monte Carlo,Jenson Button,16.0
+2012,6,Monte Carlo,Daniel Ricciardo,17.0
+2012,6,Monte Carlo,Charles Pic,18.0
+2012,6,Monte Carlo,Michael Schumacher,19.0
+2012,6,Monte Carlo,Vitaly Petrov,20.0
+2012,6,Monte Carlo,Kamui Kobayashi,21.0
+2012,6,Monte Carlo,Pedro de la Rosa,22.0
+2012,6,Monte Carlo,Pastor Maldonado,23.0
+2012,6,Monte Carlo,Romain Grosjean,24.0
+2012,7,Montreal,Lewis Hamilton,1.0
+2012,7,Montreal,Romain Grosjean,2.0
+2012,7,Montreal,Sergio Perez,3.0
+2012,7,Montreal,Sebastian Vettel,4.0
+2012,7,Montreal,Fernando Alonso,5.0
+2012,7,Montreal,Nico Rosberg,6.0
+2012,7,Montreal,Mark Webber,7.0
+2012,7,Montreal,Kimi Räikkönen,8.0
+2012,7,Montreal,Kamui Kobayashi,9.0
+2012,7,Montreal,Felipe Massa,10.0
+2012,7,Montreal,Paul di Resta,11.0
+2012,7,Montreal,Nico Hulkenberg,12.0
+2012,7,Montreal,Pastor Maldonado,13.0
+2012,7,Montreal,Daniel Ricciardo,14.0
+2012,7,Montreal,Jean-Éric Vergne,15.0
+2012,7,Montreal,Jenson Button,16.0
+2012,7,Montreal,Bruno Senna,17.0
+2012,7,Montreal,Heikki Kovalainen,18.0
+2012,7,Montreal,Vitaly Petrov,19.0
+2012,7,Montreal,Charles Pic,20.0
+2012,7,Montreal,Timo Glock,21.0
+2012,7,Montreal,Michael Schumacher,22.0
+2012,7,Montreal,Pedro de la Rosa,23.0
+2012,7,Montreal,Narain Karthikeyan,24.0
+2012,8,Valencia,Fernando Alonso,1.0
+2012,8,Valencia,Kimi Räikkönen,2.0
+2012,8,Valencia,Michael Schumacher,3.0
+2012,8,Valencia,Mark Webber,4.0
+2012,8,Valencia,Nico Hulkenberg,5.0
+2012,8,Valencia,Nico Rosberg,6.0
+2012,8,Valencia,Paul di Resta,7.0
+2012,8,Valencia,Jenson Button,8.0
+2012,8,Valencia,Sergio Perez,9.0
+2012,8,Valencia,Bruno Senna,10.0
+2012,8,Valencia,Daniel Ricciardo,11.0
+2012,8,Valencia,Pastor Maldonado,12.0
+2012,8,Valencia,Vitaly Petrov,13.0
+2012,8,Valencia,Heikki Kovalainen,14.0
+2012,8,Valencia,Charles Pic,15.0
+2012,8,Valencia,Felipe Massa,16.0
+2012,8,Valencia,Pedro de la Rosa,17.0
+2012,8,Valencia,Narain Karthikeyan,18.0
+2012,8,Valencia,Lewis Hamilton,19.0
+2012,8,Valencia,Romain Grosjean,20.0
+2012,8,Valencia,Sebastian Vettel,21.0
+2012,8,Valencia,Kamui Kobayashi,22.0
+2012,8,Valencia,Jean-Éric Vergne,23.0
+2012,8,Valencia,Timo Glock,24.0
+2012,9,Silverstone,Mark Webber,1.0
+2012,9,Silverstone,Fernando Alonso,2.0
+2012,9,Silverstone,Sebastian Vettel,3.0
+2012,9,Silverstone,Felipe Massa,4.0
+2012,9,Silverstone,Kimi Räikkönen,5.0
+2012,9,Silverstone,Romain Grosjean,6.0
+2012,9,Silverstone,Michael Schumacher,7.0
+2012,9,Silverstone,Lewis Hamilton,8.0
+2012,9,Silverstone,Bruno Senna,9.0
+2012,9,Silverstone,Jenson Button,10.0
+2012,9,Silverstone,Kamui Kobayashi,11.0
+2012,9,Silverstone,Nico Hulkenberg,12.0
+2012,9,Silverstone,Daniel Ricciardo,13.0
+2012,9,Silverstone,Jean-Éric Vergne,14.0
+2012,9,Silverstone,Nico Rosberg,15.0
+2012,9,Silverstone,Pastor Maldonado,16.0
+2012,9,Silverstone,Heikki Kovalainen,17.0
+2012,9,Silverstone,Timo Glock,18.0
+2012,9,Silverstone,Charles Pic,19.0
+2012,9,Silverstone,Pedro de la Rosa,20.0
+2012,9,Silverstone,Narain Karthikeyan,21.0
+2012,9,Silverstone,Sergio Perez,22.0
+2012,9,Silverstone,Paul di Resta,23.0
+2012,9,Silverstone,Vitaly Petrov,24.0
+2012,10,Hockenheim,Fernando Alonso,1.0
+2012,10,Hockenheim,Jenson Button,2.0
+2012,10,Hockenheim,Kimi Räikkönen,3.0
+2012,10,Hockenheim,Kamui Kobayashi,4.0
+2012,10,Hockenheim,Sebastian Vettel,5.0
+2012,10,Hockenheim,Sergio Perez,6.0
+2012,10,Hockenheim,Michael Schumacher,7.0
+2012,10,Hockenheim,Mark Webber,8.0
+2012,10,Hockenheim,Nico Hulkenberg,9.0
+2012,10,Hockenheim,Nico Rosberg,10.0
+2012,10,Hockenheim,Paul di Resta,11.0
+2012,10,Hockenheim,Felipe Massa,12.0
+2012,10,Hockenheim,Daniel Ricciardo,13.0
+2012,10,Hockenheim,Jean-Éric Vergne,14.0
+2012,10,Hockenheim,Pastor Maldonado,15.0
+2012,10,Hockenheim,Vitaly Petrov,16.0
+2012,10,Hockenheim,Bruno Senna,17.0
+2012,10,Hockenheim,Romain Grosjean,18.0
+2012,10,Hockenheim,Heikki Kovalainen,19.0
+2012,10,Hockenheim,Charles Pic,20.0
+2012,10,Hockenheim,Pedro de la Rosa,21.0
+2012,10,Hockenheim,Timo Glock,22.0
+2012,10,Hockenheim,Narain Karthikeyan,23.0
+2012,10,Hockenheim,Lewis Hamilton,24.0
+2012,11,Budapest,Lewis Hamilton,1.0
+2012,11,Budapest,Kimi Räikkönen,2.0
+2012,11,Budapest,Romain Grosjean,3.0
+2012,11,Budapest,Sebastian Vettel,4.0
+2012,11,Budapest,Fernando Alonso,5.0
+2012,11,Budapest,Jenson Button,6.0
+2012,11,Budapest,Bruno Senna,7.0
+2012,11,Budapest,Mark Webber,8.0
+2012,11,Budapest,Felipe Massa,9.0
+2012,11,Budapest,Nico Rosberg,10.0
+2012,11,Budapest,Nico Hulkenberg,11.0
+2012,11,Budapest,Paul di Resta,12.0
+2012,11,Budapest,Pastor Maldonado,13.0
+2012,11,Budapest,Sergio Perez,14.0
+2012,11,Budapest,Daniel Ricciardo,15.0
+2012,11,Budapest,Jean-Éric Vergne,16.0
+2012,11,Budapest,Heikki Kovalainen,17.0
+2012,11,Budapest,Kamui Kobayashi,18.0
+2012,11,Budapest,Vitaly Petrov,19.0
+2012,11,Budapest,Charles Pic,20.0
+2012,11,Budapest,Timo Glock,21.0
+2012,11,Budapest,Pedro de la Rosa,22.0
+2012,11,Budapest,Narain Karthikeyan,23.0
+2012,11,Budapest,Michael Schumacher,24.0
+2012,12,Spa,Jenson Button,1.0
+2012,12,Spa,Sebastian Vettel,2.0
+2012,12,Spa,Kimi Räikkönen,3.0
+2012,12,Spa,Nico Hulkenberg,4.0
+2012,12,Spa,Felipe Massa,5.0
+2012,12,Spa,Mark Webber,6.0
+2012,12,Spa,Michael Schumacher,7.0
+2012,12,Spa,Jean-Éric Vergne,8.0
+2012,12,Spa,Daniel Ricciardo,9.0
+2012,12,Spa,Paul di Resta,10.0
+2012,12,Spa,Nico Rosberg,11.0
+2012,12,Spa,Bruno Senna,12.0
+2012,12,Spa,Kamui Kobayashi,13.0
+2012,12,Spa,Vitaly Petrov,14.0
+2012,12,Spa,Timo Glock,15.0
+2012,12,Spa,Charles Pic,16.0
+2012,12,Spa,Heikki Kovalainen,17.0
+2012,12,Spa,Pedro de la Rosa,18.0
+2012,12,Spa,Narain Karthikeyan,19.0
+2012,12,Spa,Pastor Maldonado,20.0
+2012,12,Spa,Sergio Perez,21.0
+2012,12,Spa,Fernando Alonso,22.0
+2012,12,Spa,Lewis Hamilton,23.0
+2012,12,Spa,Romain Grosjean,24.0
+2012,13,Monza,Lewis Hamilton,1.0
+2012,13,Monza,Sergio Perez,2.0
+2012,13,Monza,Fernando Alonso,3.0
+2012,13,Monza,Felipe Massa,4.0
+2012,13,Monza,Kimi Räikkönen,5.0
+2012,13,Monza,Michael Schumacher,6.0
+2012,13,Monza,Nico Rosberg,7.0
+2012,13,Monza,Paul di Resta,8.0
+2012,13,Monza,Kamui Kobayashi,9.0
+2012,13,Monza,Bruno Senna,10.0
+2012,13,Monza,Pastor Maldonado,11.0
+2012,13,Monza,Daniel Ricciardo,12.0
+2012,13,Monza,Jérôme d'Ambrosio,13.0
+2012,13,Monza,Heikki Kovalainen,14.0
+2012,13,Monza,Vitaly Petrov,15.0
+2012,13,Monza,Charles Pic,16.0
+2012,13,Monza,Timo Glock,17.0
+2012,13,Monza,Pedro de la Rosa,18.0
+2012,13,Monza,Narain Karthikeyan,19.0
+2012,13,Monza,Mark Webber,20.0
+2012,13,Monza,Nico Hulkenberg,21.0
+2012,13,Monza,Sebastian Vettel,22.0
+2012,13,Monza,Jenson Button,23.0
+2012,13,Monza,Jean-Éric Vergne,24.0
+2012,14,Marina Bay,Sebastian Vettel,1.0
+2012,14,Marina Bay,Jenson Button,2.0
+2012,14,Marina Bay,Fernando Alonso,3.0
+2012,14,Marina Bay,Paul di Resta,4.0
+2012,14,Marina Bay,Nico Rosberg,5.0
+2012,14,Marina Bay,Kimi Räikkönen,6.0
+2012,14,Marina Bay,Romain Grosjean,7.0
+2012,14,Marina Bay,Felipe Massa,8.0
+2012,14,Marina Bay,Daniel Ricciardo,9.0
+2012,14,Marina Bay,Sergio Perez,10.0
+2012,14,Marina Bay,Mark Webber,11.0
+2012,14,Marina Bay,Timo Glock,12.0
+2012,14,Marina Bay,Kamui Kobayashi,13.0
+2012,14,Marina Bay,Nico Hulkenberg,14.0
+2012,14,Marina Bay,Heikki Kovalainen,15.0
+2012,14,Marina Bay,Charles Pic,16.0
+2012,14,Marina Bay,Pedro de la Rosa,17.0
+2012,14,Marina Bay,Bruno Senna,18.0
+2012,14,Marina Bay,Vitaly Petrov,19.0
+2012,14,Marina Bay,Jean-Éric Vergne,20.0
+2012,14,Marina Bay,Michael Schumacher,21.0
+2012,14,Marina Bay,Pastor Maldonado,22.0
+2012,14,Marina Bay,Narain Karthikeyan,23.0
+2012,14,Marina Bay,Lewis Hamilton,24.0
+2012,15,Suzuka,Sebastian Vettel,1.0
+2012,15,Suzuka,Felipe Massa,2.0
+2012,15,Suzuka,Kamui Kobayashi,3.0
+2012,15,Suzuka,Jenson Button,4.0
+2012,15,Suzuka,Lewis Hamilton,5.0
+2012,15,Suzuka,Kimi Räikkönen,6.0
+2012,15,Suzuka,Nico Hulkenberg,7.0
+2012,15,Suzuka,Pastor Maldonado,8.0
+2012,15,Suzuka,Mark Webber,9.0
+2012,15,Suzuka,Daniel Ricciardo,10.0
+2012,15,Suzuka,Michael Schumacher,11.0
+2012,15,Suzuka,Paul di Resta,12.0
+2012,15,Suzuka,Jean-Éric Vergne,13.0
+2012,15,Suzuka,Bruno Senna,14.0
+2012,15,Suzuka,Heikki Kovalainen,15.0
+2012,15,Suzuka,Timo Glock,16.0
+2012,15,Suzuka,Vitaly Petrov,17.0
+2012,15,Suzuka,Pedro de la Rosa,18.0
+2012,15,Suzuka,Romain Grosjean,19.0
+2012,15,Suzuka,Charles Pic,20.0
+2012,15,Suzuka,Narain Karthikeyan,21.0
+2012,15,Suzuka,Sergio Perez,22.0
+2012,15,Suzuka,Fernando Alonso,23.0
+2012,15,Suzuka,Nico Rosberg,24.0
+2012,16,Yeongam County,Sebastian Vettel,1.0
+2012,16,Yeongam County,Mark Webber,2.0
+2012,16,Yeongam County,Fernando Alonso,3.0
+2012,16,Yeongam County,Felipe Massa,4.0
+2012,16,Yeongam County,Kimi Räikkönen,5.0
+2012,16,Yeongam County,Nico Hulkenberg,6.0
+2012,16,Yeongam County,Romain Grosjean,7.0
+2012,16,Yeongam County,Jean-Éric Vergne,8.0
+2012,16,Yeongam County,Daniel Ricciardo,9.0
+2012,16,Yeongam County,Lewis Hamilton,10.0
+2012,16,Yeongam County,Sergio Perez,11.0
+2012,16,Yeongam County,Paul di Resta,12.0
+2012,16,Yeongam County,Michael Schumacher,13.0
+2012,16,Yeongam County,Pastor Maldonado,14.0
+2012,16,Yeongam County,Bruno Senna,15.0
+2012,16,Yeongam County,Vitaly Petrov,16.0
+2012,16,Yeongam County,Heikki Kovalainen,17.0
+2012,16,Yeongam County,Timo Glock,18.0
+2012,16,Yeongam County,Charles Pic,19.0
+2012,16,Yeongam County,Narain Karthikeyan,20.0
+2012,16,Yeongam County,Pedro de la Rosa,21.0
+2012,16,Yeongam County,Kamui Kobayashi,22.0
+2012,16,Yeongam County,Nico Rosberg,23.0
+2012,16,Yeongam County,Jenson Button,24.0
+2012,17,Uttar Pradesh,Sebastian Vettel,1.0
+2012,17,Uttar Pradesh,Fernando Alonso,2.0
+2012,17,Uttar Pradesh,Mark Webber,3.0
+2012,17,Uttar Pradesh,Lewis Hamilton,4.0
+2012,17,Uttar Pradesh,Jenson Button,5.0
+2012,17,Uttar Pradesh,Felipe Massa,6.0
+2012,17,Uttar Pradesh,Kimi Räikkönen,7.0
+2012,17,Uttar Pradesh,Nico Hulkenberg,8.0
+2012,17,Uttar Pradesh,Romain Grosjean,9.0
+2012,17,Uttar Pradesh,Bruno Senna,10.0
+2012,17,Uttar Pradesh,Nico Rosberg,11.0
+2012,17,Uttar Pradesh,Paul di Resta,12.0
+2012,17,Uttar Pradesh,Daniel Ricciardo,13.0
+2012,17,Uttar Pradesh,Kamui Kobayashi,14.0
+2012,17,Uttar Pradesh,Jean-Éric Vergne,15.0
+2012,17,Uttar Pradesh,Pastor Maldonado,16.0
+2012,17,Uttar Pradesh,Vitaly Petrov,17.0
+2012,17,Uttar Pradesh,Heikki Kovalainen,18.0
+2012,17,Uttar Pradesh,Charles Pic,19.0
+2012,17,Uttar Pradesh,Timo Glock,20.0
+2012,17,Uttar Pradesh,Narain Karthikeyan,21.0
+2012,17,Uttar Pradesh,Michael Schumacher,22.0
+2012,17,Uttar Pradesh,Pedro de la Rosa,23.0
+2012,17,Uttar Pradesh,Sergio Perez,24.0
+2012,18,Abu Dhabi,Kimi Räikkönen,1.0
+2012,18,Abu Dhabi,Fernando Alonso,2.0
+2012,18,Abu Dhabi,Sebastian Vettel,3.0
+2012,18,Abu Dhabi,Jenson Button,4.0
+2012,18,Abu Dhabi,Pastor Maldonado,5.0
+2012,18,Abu Dhabi,Kamui Kobayashi,6.0
+2012,18,Abu Dhabi,Felipe Massa,7.0
+2012,18,Abu Dhabi,Bruno Senna,8.0
+2012,18,Abu Dhabi,Paul di Resta,9.0
+2012,18,Abu Dhabi,Daniel Ricciardo,10.0
+2012,18,Abu Dhabi,Michael Schumacher,11.0
+2012,18,Abu Dhabi,Jean-Éric Vergne,12.0
+2012,18,Abu Dhabi,Heikki Kovalainen,13.0
+2012,18,Abu Dhabi,Timo Glock,14.0
+2012,18,Abu Dhabi,Sergio Perez,15.0
+2012,18,Abu Dhabi,Vitaly Petrov,16.0
+2012,18,Abu Dhabi,Pedro de la Rosa,17.0
+2012,18,Abu Dhabi,Charles Pic,18.0
+2012,18,Abu Dhabi,Romain Grosjean,19.0
+2012,18,Abu Dhabi,Mark Webber,20.0
+2012,18,Abu Dhabi,Lewis Hamilton,21.0
+2012,18,Abu Dhabi,Narain Karthikeyan,22.0
+2012,18,Abu Dhabi,Nico Rosberg,23.0
+2012,18,Abu Dhabi,Nico Hulkenberg,24.0
+2012,19,Austin,Lewis Hamilton,1.0
+2012,19,Austin,Sebastian Vettel,2.0
+2012,19,Austin,Fernando Alonso,3.0
+2012,19,Austin,Felipe Massa,4.0
+2012,19,Austin,Jenson Button,5.0
+2012,19,Austin,Kimi Räikkönen,6.0
+2012,19,Austin,Romain Grosjean,7.0
+2012,19,Austin,Nico Hulkenberg,8.0
+2012,19,Austin,Pastor Maldonado,9.0
+2012,19,Austin,Bruno Senna,10.0
+2012,19,Austin,Sergio Perez,11.0
+2012,19,Austin,Daniel Ricciardo,12.0
+2012,19,Austin,Nico Rosberg,13.0
+2012,19,Austin,Kamui Kobayashi,14.0
+2012,19,Austin,Paul di Resta,15.0
+2012,19,Austin,Michael Schumacher,16.0
+2012,19,Austin,Vitaly Petrov,17.0
+2012,19,Austin,Heikki Kovalainen,18.0
+2012,19,Austin,Timo Glock,19.0
+2012,19,Austin,Charles Pic,20.0
+2012,19,Austin,Pedro de la Rosa,21.0
+2012,19,Austin,Narain Karthikeyan,22.0
+2012,19,Austin,Mark Webber,23.0
+2012,19,Austin,Jean-Éric Vergne,24.0
+2012,20,São Paulo,Jenson Button,1.0
+2012,20,São Paulo,Fernando Alonso,2.0
+2012,20,São Paulo,Felipe Massa,3.0
+2012,20,São Paulo,Mark Webber,4.0
+2012,20,São Paulo,Nico Hulkenberg,5.0
+2012,20,São Paulo,Sebastian Vettel,6.0
+2012,20,São Paulo,Michael Schumacher,7.0
+2012,20,São Paulo,Jean-Éric Vergne,8.0
+2012,20,São Paulo,Kamui Kobayashi,9.0
+2012,20,São Paulo,Kimi Räikkönen,10.0
+2012,20,São Paulo,Vitaly Petrov,11.0
+2012,20,São Paulo,Charles Pic,12.0
+2012,20,São Paulo,Daniel Ricciardo,13.0
+2012,20,São Paulo,Heikki Kovalainen,14.0
+2012,20,São Paulo,Nico Rosberg,15.0
+2012,20,São Paulo,Timo Glock,16.0
+2012,20,São Paulo,Pedro de la Rosa,17.0
+2012,20,São Paulo,Narain Karthikeyan,18.0
+2012,20,São Paulo,Paul di Resta,19.0
+2012,20,São Paulo,Lewis Hamilton,20.0
+2012,20,São Paulo,Romain Grosjean,21.0
+2012,20,São Paulo,Pastor Maldonado,22.0
+2012,20,São Paulo,Bruno Senna,23.0
+2012,20,São Paulo,Sergio Perez,24.0
+2013,1,Melbourne,Kimi Räikkönen,1.0
+2013,1,Melbourne,Fernando Alonso,2.0
+2013,1,Melbourne,Sebastian Vettel,3.0
+2013,1,Melbourne,Felipe Massa,4.0
+2013,1,Melbourne,Lewis Hamilton,5.0
+2013,1,Melbourne,Mark Webber,6.0
+2013,1,Melbourne,Adrian Sutil,7.0
+2013,1,Melbourne,Paul di Resta,8.0
+2013,1,Melbourne,Jenson Button,9.0
+2013,1,Melbourne,Romain Grosjean,10.0
+2013,1,Melbourne,Sergio Perez,11.0
+2013,1,Melbourne,Jean-Éric Vergne,12.0
+2013,1,Melbourne,Esteban Gutiérrez,13.0
+2013,1,Melbourne,Valtteri Bottas,14.0
+2013,1,Melbourne,Jules Bianchi,15.0
+2013,1,Melbourne,Charles Pic,16.0
+2013,1,Melbourne,Max Chilton,17.0
+2013,1,Melbourne,Giedo van der Garde,18.0
+2013,1,Melbourne,Daniel Ricciardo,19.0
+2013,1,Melbourne,Nico Rosberg,20.0
+2013,1,Melbourne,Pastor Maldonado,21.0
+2013,1,Melbourne,Nico Hulkenberg,22.0
+2013,2,Kuala Lumpur,Sebastian Vettel,1.0
+2013,2,Kuala Lumpur,Mark Webber,2.0
+2013,2,Kuala Lumpur,Lewis Hamilton,3.0
+2013,2,Kuala Lumpur,Nico Rosberg,4.0
+2013,2,Kuala Lumpur,Felipe Massa,5.0
+2013,2,Kuala Lumpur,Romain Grosjean,6.0
+2013,2,Kuala Lumpur,Kimi Räikkönen,7.0
+2013,2,Kuala Lumpur,Nico Hulkenberg,8.0
+2013,2,Kuala Lumpur,Sergio Perez,9.0
+2013,2,Kuala Lumpur,Jean-Éric Vergne,10.0
+2013,2,Kuala Lumpur,Valtteri Bottas,11.0
+2013,2,Kuala Lumpur,Esteban Gutiérrez,12.0
+2013,2,Kuala Lumpur,Jules Bianchi,13.0
+2013,2,Kuala Lumpur,Charles Pic,14.0
+2013,2,Kuala Lumpur,Giedo van der Garde,15.0
+2013,2,Kuala Lumpur,Max Chilton,16.0
+2013,2,Kuala Lumpur,Jenson Button,17.0
+2013,2,Kuala Lumpur,Daniel Ricciardo,18.0
+2013,2,Kuala Lumpur,Pastor Maldonado,19.0
+2013,2,Kuala Lumpur,Adrian Sutil,20.0
+2013,2,Kuala Lumpur,Paul di Resta,21.0
+2013,2,Kuala Lumpur,Fernando Alonso,22.0
+2013,3,Shanghai,Fernando Alonso,1.0
+2013,3,Shanghai,Kimi Räikkönen,2.0
+2013,3,Shanghai,Lewis Hamilton,3.0
+2013,3,Shanghai,Sebastian Vettel,4.0
+2013,3,Shanghai,Jenson Button,5.0
+2013,3,Shanghai,Felipe Massa,6.0
+2013,3,Shanghai,Daniel Ricciardo,7.0
+2013,3,Shanghai,Paul di Resta,8.0
+2013,3,Shanghai,Romain Grosjean,9.0
+2013,3,Shanghai,Nico Hulkenberg,10.0
+2013,3,Shanghai,Sergio Perez,11.0
+2013,3,Shanghai,Jean-Éric Vergne,12.0
+2013,3,Shanghai,Valtteri Bottas,13.0
+2013,3,Shanghai,Pastor Maldonado,14.0
+2013,3,Shanghai,Jules Bianchi,15.0
+2013,3,Shanghai,Charles Pic,16.0
+2013,3,Shanghai,Max Chilton,17.0
+2013,3,Shanghai,Giedo van der Garde,18.0
+2013,3,Shanghai,Nico Rosberg,19.0
+2013,3,Shanghai,Mark Webber,20.0
+2013,3,Shanghai,Adrian Sutil,21.0
+2013,3,Shanghai,Esteban Gutiérrez,22.0
+2013,4,Sakhir,Sebastian Vettel,1.0
+2013,4,Sakhir,Kimi Räikkönen,2.0
+2013,4,Sakhir,Romain Grosjean,3.0
+2013,4,Sakhir,Paul di Resta,4.0
+2013,4,Sakhir,Lewis Hamilton,5.0
+2013,4,Sakhir,Sergio Perez,6.0
+2013,4,Sakhir,Mark Webber,7.0
+2013,4,Sakhir,Fernando Alonso,8.0
+2013,4,Sakhir,Nico Rosberg,9.0
+2013,4,Sakhir,Jenson Button,10.0
+2013,4,Sakhir,Pastor Maldonado,11.0
+2013,4,Sakhir,Nico Hulkenberg,12.0
+2013,4,Sakhir,Adrian Sutil,13.0
+2013,4,Sakhir,Valtteri Bottas,14.0
+2013,4,Sakhir,Felipe Massa,15.0
+2013,4,Sakhir,Daniel Ricciardo,16.0
+2013,4,Sakhir,Charles Pic,17.0
+2013,4,Sakhir,Esteban Gutiérrez,18.0
+2013,4,Sakhir,Jules Bianchi,19.0
+2013,4,Sakhir,Max Chilton,20.0
+2013,4,Sakhir,Giedo van der Garde,21.0
+2013,4,Sakhir,Jean-Éric Vergne,22.0
+2013,5,Barcelona,Fernando Alonso,1.0
+2013,5,Barcelona,Kimi Räikkönen,2.0
+2013,5,Barcelona,Felipe Massa,3.0
+2013,5,Barcelona,Sebastian Vettel,4.0
+2013,5,Barcelona,Mark Webber,5.0
+2013,5,Barcelona,Nico Rosberg,6.0
+2013,5,Barcelona,Paul di Resta,7.0
+2013,5,Barcelona,Jenson Button,8.0
+2013,5,Barcelona,Sergio Perez,9.0
+2013,5,Barcelona,Daniel Ricciardo,10.0
+2013,5,Barcelona,Esteban Gutiérrez,11.0
+2013,5,Barcelona,Lewis Hamilton,12.0
+2013,5,Barcelona,Adrian Sutil,13.0
+2013,5,Barcelona,Pastor Maldonado,14.0
+2013,5,Barcelona,Nico Hulkenberg,15.0
+2013,5,Barcelona,Valtteri Bottas,16.0
+2013,5,Barcelona,Charles Pic,17.0
+2013,5,Barcelona,Jules Bianchi,18.0
+2013,5,Barcelona,Max Chilton,19.0
+2013,5,Barcelona,Jean-Éric Vergne,20.0
+2013,5,Barcelona,Giedo van der Garde,21.0
+2013,5,Barcelona,Romain Grosjean,22.0
+2013,6,Monte Carlo,Nico Rosberg,1.0
+2013,6,Monte Carlo,Sebastian Vettel,2.0
+2013,6,Monte Carlo,Mark Webber,3.0
+2013,6,Monte Carlo,Lewis Hamilton,4.0
+2013,6,Monte Carlo,Adrian Sutil,5.0
+2013,6,Monte Carlo,Jenson Button,6.0
+2013,6,Monte Carlo,Fernando Alonso,7.0
+2013,6,Monte Carlo,Jean-Éric Vergne,8.0
+2013,6,Monte Carlo,Paul di Resta,9.0
+2013,6,Monte Carlo,Kimi Räikkönen,10.0
+2013,6,Monte Carlo,Nico Hulkenberg,11.0
+2013,6,Monte Carlo,Valtteri Bottas,12.0
+2013,6,Monte Carlo,Esteban Gutiérrez,13.0
+2013,6,Monte Carlo,Max Chilton,14.0
+2013,6,Monte Carlo,Giedo van der Garde,15.0
+2013,6,Monte Carlo,Sergio Perez,16.0
+2013,6,Monte Carlo,Romain Grosjean,17.0
+2013,6,Monte Carlo,Daniel Ricciardo,18.0
+2013,6,Monte Carlo,Jules Bianchi,19.0
+2013,6,Monte Carlo,Pastor Maldonado,20.0
+2013,6,Monte Carlo,Felipe Massa,21.0
+2013,6,Monte Carlo,Charles Pic,22.0
+2013,7,Montreal,Sebastian Vettel,1.0
+2013,7,Montreal,Fernando Alonso,2.0
+2013,7,Montreal,Lewis Hamilton,3.0
+2013,7,Montreal,Mark Webber,4.0
+2013,7,Montreal,Nico Rosberg,5.0
+2013,7,Montreal,Jean-Éric Vergne,6.0
+2013,7,Montreal,Paul di Resta,7.0
+2013,7,Montreal,Felipe Massa,8.0
+2013,7,Montreal,Kimi Räikkönen,9.0
+2013,7,Montreal,Adrian Sutil,10.0
+2013,7,Montreal,Sergio Perez,11.0
+2013,7,Montreal,Jenson Button,12.0
+2013,7,Montreal,Romain Grosjean,13.0
+2013,7,Montreal,Valtteri Bottas,14.0
+2013,7,Montreal,Daniel Ricciardo,15.0
+2013,7,Montreal,Pastor Maldonado,16.0
+2013,7,Montreal,Jules Bianchi,17.0
+2013,7,Montreal,Charles Pic,18.0
+2013,7,Montreal,Max Chilton,19.0
+2013,7,Montreal,Esteban Gutiérrez,20.0
+2013,7,Montreal,Nico Hulkenberg,21.0
+2013,7,Montreal,Giedo van der Garde,22.0
+2013,8,Silverstone,Nico Rosberg,1.0
+2013,8,Silverstone,Mark Webber,2.0
+2013,8,Silverstone,Fernando Alonso,3.0
+2013,8,Silverstone,Lewis Hamilton,4.0
+2013,8,Silverstone,Kimi Räikkönen,5.0
+2013,8,Silverstone,Felipe Massa,6.0
+2013,8,Silverstone,Adrian Sutil,7.0
+2013,8,Silverstone,Daniel Ricciardo,8.0
+2013,8,Silverstone,Paul di Resta,9.0
+2013,8,Silverstone,Nico Hulkenberg,10.0
+2013,8,Silverstone,Pastor Maldonado,11.0
+2013,8,Silverstone,Valtteri Bottas,12.0
+2013,8,Silverstone,Jenson Button,13.0
+2013,8,Silverstone,Esteban Gutiérrez,14.0
+2013,8,Silverstone,Charles Pic,15.0
+2013,8,Silverstone,Jules Bianchi,16.0
+2013,8,Silverstone,Max Chilton,17.0
+2013,8,Silverstone,Giedo van der Garde,18.0
+2013,8,Silverstone,Romain Grosjean,19.0
+2013,8,Silverstone,Sergio Perez,20.0
+2013,8,Silverstone,Sebastian Vettel,21.0
+2013,8,Silverstone,Jean-Éric Vergne,22.0
+2013,9,Nürburg,Sebastian Vettel,1.0
+2013,9,Nürburg,Kimi Räikkönen,2.0
+2013,9,Nürburg,Romain Grosjean,3.0
+2013,9,Nürburg,Fernando Alonso,4.0
+2013,9,Nürburg,Lewis Hamilton,5.0
+2013,9,Nürburg,Jenson Button,6.0
+2013,9,Nürburg,Mark Webber,7.0
+2013,9,Nürburg,Sergio Perez,8.0
+2013,9,Nürburg,Nico Rosberg,9.0
+2013,9,Nürburg,Nico Hulkenberg,10.0
+2013,9,Nürburg,Paul di Resta,11.0
+2013,9,Nürburg,Daniel Ricciardo,12.0
+2013,9,Nürburg,Adrian Sutil,13.0
+2013,9,Nürburg,Esteban Gutiérrez,14.0
+2013,9,Nürburg,Pastor Maldonado,15.0
+2013,9,Nürburg,Valtteri Bottas,16.0
+2013,9,Nürburg,Charles Pic,17.0
+2013,9,Nürburg,Giedo van der Garde,18.0
+2013,9,Nürburg,Max Chilton,19.0
+2013,9,Nürburg,Jean-Éric Vergne,20.0
+2013,9,Nürburg,Jules Bianchi,21.0
+2013,9,Nürburg,Felipe Massa,22.0
+2013,10,Budapest,Lewis Hamilton,1.0
+2013,10,Budapest,Kimi Räikkönen,2.0
+2013,10,Budapest,Sebastian Vettel,3.0
+2013,10,Budapest,Mark Webber,4.0
+2013,10,Budapest,Fernando Alonso,5.0
+2013,10,Budapest,Romain Grosjean,6.0
+2013,10,Budapest,Jenson Button,7.0
+2013,10,Budapest,Felipe Massa,8.0
+2013,10,Budapest,Sergio Perez,9.0
+2013,10,Budapest,Pastor Maldonado,10.0
+2013,10,Budapest,Nico Hulkenberg,11.0
+2013,10,Budapest,Jean-Éric Vergne,12.0
+2013,10,Budapest,Daniel Ricciardo,13.0
+2013,10,Budapest,Giedo van der Garde,14.0
+2013,10,Budapest,Charles Pic,15.0
+2013,10,Budapest,Jules Bianchi,16.0
+2013,10,Budapest,Max Chilton,17.0
+2013,10,Budapest,Paul di Resta,18.0
+2013,10,Budapest,Nico Rosberg,19.0
+2013,10,Budapest,Valtteri Bottas,20.0
+2013,10,Budapest,Esteban Gutiérrez,21.0
+2013,10,Budapest,Adrian Sutil,22.0
+2013,11,Spa,Sebastian Vettel,1.0
+2013,11,Spa,Fernando Alonso,2.0
+2013,11,Spa,Lewis Hamilton,3.0
+2013,11,Spa,Nico Rosberg,4.0
+2013,11,Spa,Mark Webber,5.0
+2013,11,Spa,Jenson Button,6.0
+2013,11,Spa,Felipe Massa,7.0
+2013,11,Spa,Romain Grosjean,8.0
+2013,11,Spa,Adrian Sutil,9.0
+2013,11,Spa,Daniel Ricciardo,10.0
+2013,11,Spa,Sergio Perez,11.0
+2013,11,Spa,Jean-Éric Vergne,12.0
+2013,11,Spa,Nico Hulkenberg,13.0
+2013,11,Spa,Esteban Gutiérrez,14.0
+2013,11,Spa,Valtteri Bottas,15.0
+2013,11,Spa,Giedo van der Garde,16.0
+2013,11,Spa,Pastor Maldonado,17.0
+2013,11,Spa,Jules Bianchi,18.0
+2013,11,Spa,Max Chilton,19.0
+2013,11,Spa,Paul di Resta,20.0
+2013,11,Spa,Kimi Räikkönen,21.0
+2013,11,Spa,Charles Pic,22.0
+2013,12,Monza,Sebastian Vettel,1.0
+2013,12,Monza,Fernando Alonso,2.0
+2013,12,Monza,Mark Webber,3.0
+2013,12,Monza,Felipe Massa,4.0
+2013,12,Monza,Nico Hulkenberg,5.0
+2013,12,Monza,Nico Rosberg,6.0
+2013,12,Monza,Daniel Ricciardo,7.0
+2013,12,Monza,Romain Grosjean,8.0
+2013,12,Monza,Lewis Hamilton,9.0
+2013,12,Monza,Jenson Button,10.0
+2013,12,Monza,Kimi Räikkönen,11.0
+2013,12,Monza,Sergio Perez,12.0
+2013,12,Monza,Esteban Gutiérrez,13.0
+2013,12,Monza,Pastor Maldonado,14.0
+2013,12,Monza,Valtteri Bottas,15.0
+2013,12,Monza,Adrian Sutil,16.0
+2013,12,Monza,Charles Pic,17.0
+2013,12,Monza,Giedo van der Garde,18.0
+2013,12,Monza,Jules Bianchi,19.0
+2013,12,Monza,Max Chilton,20.0
+2013,12,Monza,Jean-Éric Vergne,21.0
+2013,12,Monza,Paul di Resta,22.0
+2013,13,Marina Bay,Sebastian Vettel,1.0
+2013,13,Marina Bay,Fernando Alonso,2.0
+2013,13,Marina Bay,Kimi Räikkönen,3.0
+2013,13,Marina Bay,Nico Rosberg,4.0
+2013,13,Marina Bay,Lewis Hamilton,5.0
+2013,13,Marina Bay,Felipe Massa,6.0
+2013,13,Marina Bay,Jenson Button,7.0
+2013,13,Marina Bay,Sergio Perez,8.0
+2013,13,Marina Bay,Nico Hulkenberg,9.0
+2013,13,Marina Bay,Adrian Sutil,10.0
+2013,13,Marina Bay,Pastor Maldonado,11.0
+2013,13,Marina Bay,Esteban Gutiérrez,12.0
+2013,13,Marina Bay,Valtteri Bottas,13.0
+2013,13,Marina Bay,Jean-Éric Vergne,14.0
+2013,13,Marina Bay,Mark Webber,15.0
+2013,13,Marina Bay,Giedo van der Garde,16.0
+2013,13,Marina Bay,Max Chilton,17.0
+2013,13,Marina Bay,Jules Bianchi,18.0
+2013,13,Marina Bay,Charles Pic,19.0
+2013,13,Marina Bay,Paul di Resta,20.0
+2013,13,Marina Bay,Romain Grosjean,21.0
+2013,13,Marina Bay,Daniel Ricciardo,22.0
+2013,14,Yeongam County,Sebastian Vettel,1.0
+2013,14,Yeongam County,Kimi Räikkönen,2.0
+2013,14,Yeongam County,Romain Grosjean,3.0
+2013,14,Yeongam County,Nico Hulkenberg,4.0
+2013,14,Yeongam County,Lewis Hamilton,5.0
+2013,14,Yeongam County,Fernando Alonso,6.0
+2013,14,Yeongam County,Nico Rosberg,7.0
+2013,14,Yeongam County,Jenson Button,8.0
+2013,14,Yeongam County,Felipe Massa,9.0
+2013,14,Yeongam County,Sergio Perez,10.0
+2013,14,Yeongam County,Esteban Gutiérrez,11.0
+2013,14,Yeongam County,Valtteri Bottas,12.0
+2013,14,Yeongam County,Pastor Maldonado,13.0
+2013,14,Yeongam County,Charles Pic,14.0
+2013,14,Yeongam County,Giedo van der Garde,15.0
+2013,14,Yeongam County,Jules Bianchi,16.0
+2013,14,Yeongam County,Max Chilton,17.0
+2013,14,Yeongam County,Jean-Éric Vergne,18.0
+2013,14,Yeongam County,Daniel Ricciardo,19.0
+2013,14,Yeongam County,Adrian Sutil,20.0
+2013,14,Yeongam County,Mark Webber,21.0
+2013,14,Yeongam County,Paul di Resta,22.0
+2013,15,Suzuka,Sebastian Vettel,1.0
+2013,15,Suzuka,Mark Webber,2.0
+2013,15,Suzuka,Romain Grosjean,3.0
+2013,15,Suzuka,Fernando Alonso,4.0
+2013,15,Suzuka,Kimi Räikkönen,5.0
+2013,15,Suzuka,Nico Hulkenberg,6.0
+2013,15,Suzuka,Esteban Gutiérrez,7.0
+2013,15,Suzuka,Nico Rosberg,8.0
+2013,15,Suzuka,Jenson Button,9.0
+2013,15,Suzuka,Felipe Massa,10.0
+2013,15,Suzuka,Paul di Resta,11.0
+2013,15,Suzuka,Jean-Éric Vergne,12.0
+2013,15,Suzuka,Daniel Ricciardo,13.0
+2013,15,Suzuka,Adrian Sutil,14.0
+2013,15,Suzuka,Sergio Perez,15.0
+2013,15,Suzuka,Pastor Maldonado,16.0
+2013,15,Suzuka,Valtteri Bottas,17.0
+2013,15,Suzuka,Charles Pic,18.0
+2013,15,Suzuka,Max Chilton,19.0
+2013,15,Suzuka,Lewis Hamilton,20.0
+2013,15,Suzuka,Giedo van der Garde,21.0
+2013,15,Suzuka,Jules Bianchi,22.0
+2013,16,Uttar Pradesh,Sebastian Vettel,1.0
+2013,16,Uttar Pradesh,Nico Rosberg,2.0
+2013,16,Uttar Pradesh,Romain Grosjean,3.0
+2013,16,Uttar Pradesh,Felipe Massa,4.0
+2013,16,Uttar Pradesh,Sergio Perez,5.0
+2013,16,Uttar Pradesh,Lewis Hamilton,6.0
+2013,16,Uttar Pradesh,Kimi Räikkönen,7.0
+2013,16,Uttar Pradesh,Paul di Resta,8.0
+2013,16,Uttar Pradesh,Adrian Sutil,9.0
+2013,16,Uttar Pradesh,Daniel Ricciardo,10.0
+2013,16,Uttar Pradesh,Fernando Alonso,11.0
+2013,16,Uttar Pradesh,Pastor Maldonado,12.0
+2013,16,Uttar Pradesh,Jean-Éric Vergne,13.0
+2013,16,Uttar Pradesh,Jenson Button,14.0
+2013,16,Uttar Pradesh,Esteban Gutiérrez,15.0
+2013,16,Uttar Pradesh,Valtteri Bottas,16.0
+2013,16,Uttar Pradesh,Max Chilton,17.0
+2013,16,Uttar Pradesh,Jules Bianchi,18.0
+2013,16,Uttar Pradesh,Nico Hulkenberg,19.0
+2013,16,Uttar Pradesh,Mark Webber,20.0
+2013,16,Uttar Pradesh,Charles Pic,21.0
+2013,16,Uttar Pradesh,Giedo van der Garde,22.0
+2013,17,Abu Dhabi,Sebastian Vettel,1.0
+2013,17,Abu Dhabi,Mark Webber,2.0
+2013,17,Abu Dhabi,Nico Rosberg,3.0
+2013,17,Abu Dhabi,Romain Grosjean,4.0
+2013,17,Abu Dhabi,Fernando Alonso,5.0
+2013,17,Abu Dhabi,Paul di Resta,6.0
+2013,17,Abu Dhabi,Lewis Hamilton,7.0
+2013,17,Abu Dhabi,Felipe Massa,8.0
+2013,17,Abu Dhabi,Sergio Perez,9.0
+2013,17,Abu Dhabi,Adrian Sutil,10.0
+2013,17,Abu Dhabi,Pastor Maldonado,11.0
+2013,17,Abu Dhabi,Jenson Button,12.0
+2013,17,Abu Dhabi,Esteban Gutiérrez,13.0
+2013,17,Abu Dhabi,Nico Hulkenberg,14.0
+2013,17,Abu Dhabi,Valtteri Bottas,15.0
+2013,17,Abu Dhabi,Daniel Ricciardo,16.0
+2013,17,Abu Dhabi,Jean-Éric Vergne,17.0
+2013,17,Abu Dhabi,Giedo van der Garde,18.0
+2013,17,Abu Dhabi,Charles Pic,19.0
+2013,17,Abu Dhabi,Jules Bianchi,20.0
+2013,17,Abu Dhabi,Max Chilton,21.0
+2013,17,Abu Dhabi,Kimi Räikkönen,22.0
+2013,18,Austin,Sebastian Vettel,1.0
+2013,18,Austin,Romain Grosjean,2.0
+2013,18,Austin,Mark Webber,3.0
+2013,18,Austin,Lewis Hamilton,4.0
+2013,18,Austin,Fernando Alonso,5.0
+2013,18,Austin,Nico Hulkenberg,6.0
+2013,18,Austin,Sergio Perez,7.0
+2013,18,Austin,Valtteri Bottas,8.0
+2013,18,Austin,Nico Rosberg,9.0
+2013,18,Austin,Jenson Button,10.0
+2013,18,Austin,Daniel Ricciardo,11.0
+2013,18,Austin,Jean-Éric Vergne,12.0
+2013,18,Austin,Felipe Massa,13.0
+2013,18,Austin,Esteban Gutiérrez,14.0
+2013,18,Austin,Heikki Kovalainen,15.0
+2013,18,Austin,Paul di Resta,16.0
+2013,18,Austin,Pastor Maldonado,17.0
+2013,18,Austin,Jules Bianchi,18.0
+2013,18,Austin,Giedo van der Garde,19.0
+2013,18,Austin,Charles Pic,20.0
+2013,18,Austin,Max Chilton,21.0
+2013,18,Austin,Adrian Sutil,22.0
+2013,19,São Paulo,Sebastian Vettel,1.0
+2013,19,São Paulo,Mark Webber,2.0
+2013,19,São Paulo,Fernando Alonso,3.0
+2013,19,São Paulo,Jenson Button,4.0
+2013,19,São Paulo,Nico Rosberg,5.0
+2013,19,São Paulo,Sergio Perez,6.0
+2013,19,São Paulo,Felipe Massa,7.0
+2013,19,São Paulo,Nico Hulkenberg,8.0
+2013,19,São Paulo,Lewis Hamilton,9.0
+2013,19,São Paulo,Daniel Ricciardo,10.0
+2013,19,São Paulo,Paul di Resta,11.0
+2013,19,São Paulo,Esteban Gutiérrez,12.0
+2013,19,São Paulo,Adrian Sutil,13.0
+2013,19,São Paulo,Heikki Kovalainen,14.0
+2013,19,São Paulo,Jean-Éric Vergne,15.0
+2013,19,São Paulo,Pastor Maldonado,16.0
+2013,19,São Paulo,Jules Bianchi,17.0
+2013,19,São Paulo,Giedo van der Garde,18.0
+2013,19,São Paulo,Max Chilton,19.0
+2013,19,São Paulo,Charles Pic,20.0
+2013,19,São Paulo,Valtteri Bottas,21.0
+2013,19,São Paulo,Romain Grosjean,22.0
+2014,1,Melbourne,Nico Rosberg,1.0
+2014,1,Melbourne,Kevin Magnussen,2.0
+2014,1,Melbourne,Jenson Button,3.0
+2014,1,Melbourne,Fernando Alonso,4.0
+2014,1,Melbourne,Valtteri Bottas,5.0
+2014,1,Melbourne,Nico Hulkenberg,6.0
+2014,1,Melbourne,Kimi Räikkönen,7.0
+2014,1,Melbourne,Jean-Éric Vergne,8.0
+2014,1,Melbourne,Daniil Kvyat,9.0
+2014,1,Melbourne,Sergio Perez,10.0
+2014,1,Melbourne,Adrian Sutil,11.0
+2014,1,Melbourne,Esteban Gutiérrez,12.0
+2014,1,Melbourne,Max Chilton,13.0
+2014,1,Melbourne,Jules Bianchi,14.0
+2014,1,Melbourne,Romain Grosjean,15.0
+2014,1,Melbourne,Pastor Maldonado,16.0
+2014,1,Melbourne,Marcus Ericsson,17.0
+2014,1,Melbourne,Sebastian Vettel,18.0
+2014,1,Melbourne,Lewis Hamilton,19.0
+2014,1,Melbourne,Felipe Massa,20.0
+2014,1,Melbourne,Kamui Kobayashi,21.0
+2014,1,Melbourne,Daniel Ricciardo,22.0
+2014,2,Kuala Lumpur,Lewis Hamilton,1.0
+2014,2,Kuala Lumpur,Nico Rosberg,2.0
+2014,2,Kuala Lumpur,Sebastian Vettel,3.0
+2014,2,Kuala Lumpur,Fernando Alonso,4.0
+2014,2,Kuala Lumpur,Nico Hulkenberg,5.0
+2014,2,Kuala Lumpur,Jenson Button,6.0
+2014,2,Kuala Lumpur,Felipe Massa,7.0
+2014,2,Kuala Lumpur,Valtteri Bottas,8.0
+2014,2,Kuala Lumpur,Kevin Magnussen,9.0
+2014,2,Kuala Lumpur,Daniil Kvyat,10.0
+2014,2,Kuala Lumpur,Romain Grosjean,11.0
+2014,2,Kuala Lumpur,Kimi Räikkönen,12.0
+2014,2,Kuala Lumpur,Kamui Kobayashi,13.0
+2014,2,Kuala Lumpur,Marcus Ericsson,14.0
+2014,2,Kuala Lumpur,Max Chilton,15.0
+2014,2,Kuala Lumpur,Daniel Ricciardo,16.0
+2014,2,Kuala Lumpur,Esteban Gutiérrez,17.0
+2014,2,Kuala Lumpur,Adrian Sutil,18.0
+2014,2,Kuala Lumpur,Jean-Éric Vergne,19.0
+2014,2,Kuala Lumpur,Jules Bianchi,20.0
+2014,2,Kuala Lumpur,Pastor Maldonado,21.0
+2014,2,Kuala Lumpur,Sergio Perez,22.0
+2014,3,Sakhir,Lewis Hamilton,1.0
+2014,3,Sakhir,Nico Rosberg,2.0
+2014,3,Sakhir,Sergio Perez,3.0
+2014,3,Sakhir,Daniel Ricciardo,4.0
+2014,3,Sakhir,Nico Hulkenberg,5.0
+2014,3,Sakhir,Sebastian Vettel,6.0
+2014,3,Sakhir,Felipe Massa,7.0
+2014,3,Sakhir,Valtteri Bottas,8.0
+2014,3,Sakhir,Fernando Alonso,9.0
+2014,3,Sakhir,Kimi Räikkönen,10.0
+2014,3,Sakhir,Daniil Kvyat,11.0
+2014,3,Sakhir,Romain Grosjean,12.0
+2014,3,Sakhir,Max Chilton,13.0
+2014,3,Sakhir,Pastor Maldonado,14.0
+2014,3,Sakhir,Kamui Kobayashi,15.0
+2014,3,Sakhir,Jules Bianchi,16.0
+2014,3,Sakhir,Jenson Button,17.0
+2014,3,Sakhir,Kevin Magnussen,18.0
+2014,3,Sakhir,Esteban Gutiérrez,19.0
+2014,3,Sakhir,Marcus Ericsson,20.0
+2014,3,Sakhir,Jean-Éric Vergne,21.0
+2014,3,Sakhir,Adrian Sutil,22.0
+2014,4,Shanghai,Lewis Hamilton,1.0
+2014,4,Shanghai,Nico Rosberg,2.0
+2014,4,Shanghai,Fernando Alonso,3.0
+2014,4,Shanghai,Daniel Ricciardo,4.0
+2014,4,Shanghai,Sebastian Vettel,5.0
+2014,4,Shanghai,Nico Hulkenberg,6.0
+2014,4,Shanghai,Valtteri Bottas,7.0
+2014,4,Shanghai,Kimi Räikkönen,8.0
+2014,4,Shanghai,Sergio Perez,9.0
+2014,4,Shanghai,Daniil Kvyat,10.0
+2014,4,Shanghai,Jenson Button,11.0
+2014,4,Shanghai,Jean-Éric Vergne,12.0
+2014,4,Shanghai,Kevin Magnussen,13.0
+2014,4,Shanghai,Pastor Maldonado,14.0
+2014,4,Shanghai,Felipe Massa,15.0
+2014,4,Shanghai,Esteban Gutiérrez,16.0
+2014,4,Shanghai,Jules Bianchi,17.0
+2014,4,Shanghai,Kamui Kobayashi,18.0
+2014,4,Shanghai,Max Chilton,19.0
+2014,4,Shanghai,Marcus Ericsson,20.0
+2014,4,Shanghai,Romain Grosjean,21.0
+2014,4,Shanghai,Adrian Sutil,22.0
+2014,5,Barcelona,Lewis Hamilton,1.0
+2014,5,Barcelona,Nico Rosberg,2.0
+2014,5,Barcelona,Daniel Ricciardo,3.0
+2014,5,Barcelona,Sebastian Vettel,4.0
+2014,5,Barcelona,Valtteri Bottas,5.0
+2014,5,Barcelona,Fernando Alonso,6.0
+2014,5,Barcelona,Kimi Räikkönen,7.0
+2014,5,Barcelona,Romain Grosjean,8.0
+2014,5,Barcelona,Sergio Perez,9.0
+2014,5,Barcelona,Nico Hulkenberg,10.0
+2014,5,Barcelona,Jenson Button,11.0
+2014,5,Barcelona,Kevin Magnussen,12.0
+2014,5,Barcelona,Felipe Massa,13.0
+2014,5,Barcelona,Daniil Kvyat,14.0
+2014,5,Barcelona,Pastor Maldonado,15.0
+2014,5,Barcelona,Esteban Gutiérrez,16.0
+2014,5,Barcelona,Adrian Sutil,17.0
+2014,5,Barcelona,Jules Bianchi,18.0
+2014,5,Barcelona,Max Chilton,19.0
+2014,5,Barcelona,Marcus Ericsson,20.0
+2014,5,Barcelona,Kamui Kobayashi,21.0
+2014,5,Barcelona,Jean-Éric Vergne,22.0
+2014,6,Monte Carlo,Nico Rosberg,1.0
+2014,6,Monte Carlo,Lewis Hamilton,2.0
+2014,6,Monte Carlo,Daniel Ricciardo,3.0
+2014,6,Monte Carlo,Fernando Alonso,4.0
+2014,6,Monte Carlo,Nico Hulkenberg,5.0
+2014,6,Monte Carlo,Jenson Button,6.0
+2014,6,Monte Carlo,Felipe Massa,7.0
+2014,6,Monte Carlo,Romain Grosjean,8.0
+2014,6,Monte Carlo,Jules Bianchi,9.0
+2014,6,Monte Carlo,Kevin Magnussen,10.0
+2014,6,Monte Carlo,Marcus Ericsson,11.0
+2014,6,Monte Carlo,Kimi Räikkönen,12.0
+2014,6,Monte Carlo,Kamui Kobayashi,13.0
+2014,6,Monte Carlo,Max Chilton,14.0
+2014,6,Monte Carlo,Esteban Gutiérrez,15.0
+2014,6,Monte Carlo,Valtteri Bottas,16.0
+2014,6,Monte Carlo,Jean-Éric Vergne,17.0
+2014,6,Monte Carlo,Adrian Sutil,18.0
+2014,6,Monte Carlo,Daniil Kvyat,19.0
+2014,6,Monte Carlo,Sebastian Vettel,20.0
+2014,6,Monte Carlo,Sergio Perez,21.0
+2014,6,Monte Carlo,Pastor Maldonado,22.0
+2014,7,Montreal,Daniel Ricciardo,1.0
+2014,7,Montreal,Nico Rosberg,2.0
+2014,7,Montreal,Sebastian Vettel,3.0
+2014,7,Montreal,Jenson Button,4.0
+2014,7,Montreal,Nico Hulkenberg,5.0
+2014,7,Montreal,Fernando Alonso,6.0
+2014,7,Montreal,Valtteri Bottas,7.0
+2014,7,Montreal,Jean-Éric Vergne,8.0
+2014,7,Montreal,Kevin Magnussen,9.0
+2014,7,Montreal,Kimi Räikkönen,10.0
+2014,7,Montreal,Sergio Perez,11.0
+2014,7,Montreal,Felipe Massa,12.0
+2014,7,Montreal,Adrian Sutil,13.0
+2014,7,Montreal,Esteban Gutiérrez,14.0
+2014,7,Montreal,Romain Grosjean,15.0
+2014,7,Montreal,Daniil Kvyat,16.0
+2014,7,Montreal,Lewis Hamilton,17.0
+2014,7,Montreal,Kamui Kobayashi,18.0
+2014,7,Montreal,Pastor Maldonado,19.0
+2014,7,Montreal,Marcus Ericsson,20.0
+2014,7,Montreal,Max Chilton,21.0
+2014,7,Montreal,Jules Bianchi,22.0
+2014,8,Spielberg,Nico Rosberg,1.0
+2014,8,Spielberg,Lewis Hamilton,2.0
+2014,8,Spielberg,Valtteri Bottas,3.0
+2014,8,Spielberg,Felipe Massa,4.0
+2014,8,Spielberg,Fernando Alonso,5.0
+2014,8,Spielberg,Sergio Perez,6.0
+2014,8,Spielberg,Kevin Magnussen,7.0
+2014,8,Spielberg,Daniel Ricciardo,8.0
+2014,8,Spielberg,Nico Hulkenberg,9.0
+2014,8,Spielberg,Kimi Räikkönen,10.0
+2014,8,Spielberg,Jenson Button,11.0
+2014,8,Spielberg,Pastor Maldonado,12.0
+2014,8,Spielberg,Adrian Sutil,13.0
+2014,8,Spielberg,Romain Grosjean,14.0
+2014,8,Spielberg,Jules Bianchi,15.0
+2014,8,Spielberg,Kamui Kobayashi,16.0
+2014,8,Spielberg,Max Chilton,17.0
+2014,8,Spielberg,Marcus Ericsson,18.0
+2014,8,Spielberg,Esteban Gutiérrez,19.0
+2014,8,Spielberg,Jean-Éric Vergne,20.0
+2014,8,Spielberg,Sebastian Vettel,21.0
+2014,8,Spielberg,Daniil Kvyat,22.0
+2014,9,Silverstone,Lewis Hamilton,1.0
+2014,9,Silverstone,Valtteri Bottas,2.0
+2014,9,Silverstone,Daniel Ricciardo,3.0
+2014,9,Silverstone,Jenson Button,4.0
+2014,9,Silverstone,Sebastian Vettel,5.0
+2014,9,Silverstone,Fernando Alonso,6.0
+2014,9,Silverstone,Kevin Magnussen,7.0
+2014,9,Silverstone,Nico Hulkenberg,8.0
+2014,9,Silverstone,Daniil Kvyat,9.0
+2014,9,Silverstone,Jean-Éric Vergne,10.0
+2014,9,Silverstone,Sergio Perez,11.0
+2014,9,Silverstone,Romain Grosjean,12.0
+2014,9,Silverstone,Adrian Sutil,13.0
+2014,9,Silverstone,Jules Bianchi,14.0
+2014,9,Silverstone,Kamui Kobayashi,15.0
+2014,9,Silverstone,Max Chilton,16.0
+2014,9,Silverstone,Pastor Maldonado,17.0
+2014,9,Silverstone,Nico Rosberg,18.0
+2014,9,Silverstone,Marcus Ericsson,19.0
+2014,9,Silverstone,Esteban Gutiérrez,20.0
+2014,9,Silverstone,Felipe Massa,21.0
+2014,9,Silverstone,Kimi Räikkönen,22.0
+2014,10,Hockenheim,Nico Rosberg,1.0
+2014,10,Hockenheim,Valtteri Bottas,2.0
+2014,10,Hockenheim,Lewis Hamilton,3.0
+2014,10,Hockenheim,Sebastian Vettel,4.0
+2014,10,Hockenheim,Fernando Alonso,5.0
+2014,10,Hockenheim,Daniel Ricciardo,6.0
+2014,10,Hockenheim,Nico Hulkenberg,7.0
+2014,10,Hockenheim,Jenson Button,8.0
+2014,10,Hockenheim,Kevin Magnussen,9.0
+2014,10,Hockenheim,Sergio Perez,10.0
+2014,10,Hockenheim,Kimi Räikkönen,11.0
+2014,10,Hockenheim,Pastor Maldonado,12.0
+2014,10,Hockenheim,Jean-Éric Vergne,13.0
+2014,10,Hockenheim,Esteban Gutiérrez,14.0
+2014,10,Hockenheim,Jules Bianchi,15.0
+2014,10,Hockenheim,Kamui Kobayashi,16.0
+2014,10,Hockenheim,Max Chilton,17.0
+2014,10,Hockenheim,Marcus Ericsson,18.0
+2014,10,Hockenheim,Adrian Sutil,19.0
+2014,10,Hockenheim,Daniil Kvyat,20.0
+2014,10,Hockenheim,Romain Grosjean,21.0
+2014,10,Hockenheim,Felipe Massa,22.0
+2014,11,Budapest,Daniel Ricciardo,1.0
+2014,11,Budapest,Fernando Alonso,2.0
+2014,11,Budapest,Lewis Hamilton,3.0
+2014,11,Budapest,Nico Rosberg,4.0
+2014,11,Budapest,Felipe Massa,5.0
+2014,11,Budapest,Kimi Räikkönen,6.0
+2014,11,Budapest,Sebastian Vettel,7.0
+2014,11,Budapest,Valtteri Bottas,8.0
+2014,11,Budapest,Jean-Éric Vergne,9.0
+2014,11,Budapest,Jenson Button,10.0
+2014,11,Budapest,Adrian Sutil,11.0
+2014,11,Budapest,Kevin Magnussen,12.0
+2014,11,Budapest,Pastor Maldonado,13.0
+2014,11,Budapest,Daniil Kvyat,14.0
+2014,11,Budapest,Jules Bianchi,15.0
+2014,11,Budapest,Max Chilton,16.0
+2014,11,Budapest,Esteban Gutiérrez,17.0
+2014,11,Budapest,Kamui Kobayashi,18.0
+2014,11,Budapest,Sergio Perez,19.0
+2014,11,Budapest,Nico Hulkenberg,20.0
+2014,11,Budapest,Romain Grosjean,21.0
+2014,11,Budapest,Marcus Ericsson,22.0
+2014,12,Spa,Daniel Ricciardo,1.0
+2014,12,Spa,Nico Rosberg,2.0
+2014,12,Spa,Valtteri Bottas,3.0
+2014,12,Spa,Kimi Räikkönen,4.0
+2014,12,Spa,Sebastian Vettel,5.0
+2014,12,Spa,Jenson Button,6.0
+2014,12,Spa,Fernando Alonso,7.0
+2014,12,Spa,Sergio Perez,8.0
+2014,12,Spa,Daniil Kvyat,9.0
+2014,12,Spa,Nico Hulkenberg,10.0
+2014,12,Spa,Jean-Éric Vergne,11.0
+2014,12,Spa,Kevin Magnussen,12.0
+2014,12,Spa,Felipe Massa,13.0
+2014,12,Spa,Adrian Sutil,14.0
+2014,12,Spa,Esteban Gutiérrez,15.0
+2014,12,Spa,Max Chilton,16.0
+2014,12,Spa,Marcus Ericsson,17.0
+2014,12,Spa,Jules Bianchi,18.0
+2014,12,Spa,Lewis Hamilton,19.0
+2014,12,Spa,Romain Grosjean,20.0
+2014,12,Spa,Pastor Maldonado,21.0
+2014,12,Spa,André Lotterer,22.0
+2014,13,Monza,Lewis Hamilton,1.0
+2014,13,Monza,Nico Rosberg,2.0
+2014,13,Monza,Felipe Massa,3.0
+2014,13,Monza,Valtteri Bottas,4.0
+2014,13,Monza,Daniel Ricciardo,5.0
+2014,13,Monza,Sebastian Vettel,6.0
+2014,13,Monza,Sergio Perez,7.0
+2014,13,Monza,Jenson Button,8.0
+2014,13,Monza,Kimi Räikkönen,9.0
+2014,13,Monza,Kevin Magnussen,10.0
+2014,13,Monza,Daniil Kvyat,11.0
+2014,13,Monza,Nico Hulkenberg,12.0
+2014,13,Monza,Jean-Éric Vergne,13.0
+2014,13,Monza,Pastor Maldonado,14.0
+2014,13,Monza,Adrian Sutil,15.0
+2014,13,Monza,Romain Grosjean,16.0
+2014,13,Monza,Kamui Kobayashi,17.0
+2014,13,Monza,Jules Bianchi,18.0
+2014,13,Monza,Esteban Gutiérrez,19.0
+2014,13,Monza,Marcus Ericsson,20.0
+2014,13,Monza,Fernando Alonso,21.0
+2014,13,Monza,Max Chilton,22.0
+2014,14,Marina Bay,Lewis Hamilton,1.0
+2014,14,Marina Bay,Sebastian Vettel,2.0
+2014,14,Marina Bay,Daniel Ricciardo,3.0
+2014,14,Marina Bay,Fernando Alonso,4.0
+2014,14,Marina Bay,Felipe Massa,5.0
+2014,14,Marina Bay,Jean-Éric Vergne,6.0
+2014,14,Marina Bay,Sergio Perez,7.0
+2014,14,Marina Bay,Kimi Räikkönen,8.0
+2014,14,Marina Bay,Nico Hulkenberg,9.0
+2014,14,Marina Bay,Kevin Magnussen,10.0
+2014,14,Marina Bay,Valtteri Bottas,11.0
+2014,14,Marina Bay,Pastor Maldonado,12.0
+2014,14,Marina Bay,Romain Grosjean,13.0
+2014,14,Marina Bay,Daniil Kvyat,14.0
+2014,14,Marina Bay,Marcus Ericsson,15.0
+2014,14,Marina Bay,Jules Bianchi,16.0
+2014,14,Marina Bay,Max Chilton,17.0
+2014,14,Marina Bay,Jenson Button,18.0
+2014,14,Marina Bay,Adrian Sutil,19.0
+2014,14,Marina Bay,Esteban Gutiérrez,20.0
+2014,14,Marina Bay,Nico Rosberg,21.0
+2014,14,Marina Bay,Kamui Kobayashi,22.0
+2014,15,Suzuka,Lewis Hamilton,1.0
+2014,15,Suzuka,Nico Rosberg,2.0
+2014,15,Suzuka,Sebastian Vettel,3.0
+2014,15,Suzuka,Daniel Ricciardo,4.0
+2014,15,Suzuka,Jenson Button,5.0
+2014,15,Suzuka,Valtteri Bottas,6.0
+2014,15,Suzuka,Felipe Massa,7.0
+2014,15,Suzuka,Nico Hulkenberg,8.0
+2014,15,Suzuka,Jean-Éric Vergne,9.0
+2014,15,Suzuka,Sergio Perez,10.0
+2014,15,Suzuka,Daniil Kvyat,11.0
+2014,15,Suzuka,Kimi Räikkönen,12.0
+2014,15,Suzuka,Esteban Gutiérrez,13.0
+2014,15,Suzuka,Kevin Magnussen,14.0
+2014,15,Suzuka,Romain Grosjean,15.0
+2014,15,Suzuka,Pastor Maldonado,16.0
+2014,15,Suzuka,Marcus Ericsson,17.0
+2014,15,Suzuka,Max Chilton,18.0
+2014,15,Suzuka,Kamui Kobayashi,19.0
+2014,15,Suzuka,Jules Bianchi,20.0
+2014,15,Suzuka,Adrian Sutil,21.0
+2014,15,Suzuka,Fernando Alonso,22.0
+2014,16,Sochi,Lewis Hamilton,1.0
+2014,16,Sochi,Nico Rosberg,2.0
+2014,16,Sochi,Valtteri Bottas,3.0
+2014,16,Sochi,Jenson Button,4.0
+2014,16,Sochi,Kevin Magnussen,5.0
+2014,16,Sochi,Fernando Alonso,6.0
+2014,16,Sochi,Daniel Ricciardo,7.0
+2014,16,Sochi,Sebastian Vettel,8.0
+2014,16,Sochi,Kimi Räikkönen,9.0
+2014,16,Sochi,Sergio Perez,10.0
+2014,16,Sochi,Felipe Massa,11.0
+2014,16,Sochi,Nico Hulkenberg,12.0
+2014,16,Sochi,Jean-Éric Vergne,13.0
+2014,16,Sochi,Daniil Kvyat,14.0
+2014,16,Sochi,Esteban Gutiérrez,15.0
+2014,16,Sochi,Adrian Sutil,16.0
+2014,16,Sochi,Romain Grosjean,17.0
+2014,16,Sochi,Pastor Maldonado,18.0
+2014,16,Sochi,Marcus Ericsson,19.0
+2014,16,Sochi,Kamui Kobayashi,20.0
+2014,16,Sochi,Max Chilton,21.0
+2014,17,Austin,Lewis Hamilton,1.0
+2014,17,Austin,Nico Rosberg,2.0
+2014,17,Austin,Daniel Ricciardo,3.0
+2014,17,Austin,Felipe Massa,4.0
+2014,17,Austin,Valtteri Bottas,5.0
+2014,17,Austin,Fernando Alonso,6.0
+2014,17,Austin,Sebastian Vettel,7.0
+2014,17,Austin,Kevin Magnussen,8.0
+2014,17,Austin,Pastor Maldonado,9.0
+2014,17,Austin,Jean-Éric Vergne,10.0
+2014,17,Austin,Romain Grosjean,11.0
+2014,17,Austin,Jenson Button,12.0
+2014,17,Austin,Kimi Räikkönen,13.0
+2014,17,Austin,Esteban Gutiérrez,14.0
+2014,17,Austin,Daniil Kvyat,15.0
+2014,17,Austin,Nico Hulkenberg,16.0
+2014,17,Austin,Sergio Perez,17.0
+2014,17,Austin,Adrian Sutil,18.0
+2014,18,São Paulo,Nico Rosberg,1.0
+2014,18,São Paulo,Lewis Hamilton,2.0
+2014,18,São Paulo,Felipe Massa,3.0
+2014,18,São Paulo,Jenson Button,4.0
+2014,18,São Paulo,Sebastian Vettel,5.0
+2014,18,São Paulo,Fernando Alonso,6.0
+2014,18,São Paulo,Kimi Räikkönen,7.0
+2014,18,São Paulo,Nico Hulkenberg,8.0
+2014,18,São Paulo,Kevin Magnussen,9.0
+2014,18,São Paulo,Valtteri Bottas,10.0
+2014,18,São Paulo,Daniil Kvyat,11.0
+2014,18,São Paulo,Pastor Maldonado,12.0
+2014,18,São Paulo,Jean-Éric Vergne,13.0
+2014,18,São Paulo,Esteban Gutiérrez,14.0
+2014,18,São Paulo,Sergio Perez,15.0
+2014,18,São Paulo,Adrian Sutil,16.0
+2014,18,São Paulo,Romain Grosjean,17.0
+2014,18,São Paulo,Daniel Ricciardo,18.0
+2014,19,Abu Dhabi,Lewis Hamilton,1.0
+2014,19,Abu Dhabi,Felipe Massa,2.0
+2014,19,Abu Dhabi,Valtteri Bottas,3.0
+2014,19,Abu Dhabi,Daniel Ricciardo,4.0
+2014,19,Abu Dhabi,Jenson Button,5.0
+2014,19,Abu Dhabi,Nico Hulkenberg,6.0
+2014,19,Abu Dhabi,Sergio Perez,7.0
+2014,19,Abu Dhabi,Sebastian Vettel,8.0
+2014,19,Abu Dhabi,Fernando Alonso,9.0
+2014,19,Abu Dhabi,Kimi Räikkönen,10.0
+2014,19,Abu Dhabi,Kevin Magnussen,11.0
+2014,19,Abu Dhabi,Jean-Éric Vergne,12.0
+2014,19,Abu Dhabi,Romain Grosjean,13.0
+2014,19,Abu Dhabi,Nico Rosberg,14.0
+2014,19,Abu Dhabi,Esteban Gutiérrez,15.0
+2014,19,Abu Dhabi,Adrian Sutil,16.0
+2014,19,Abu Dhabi,Will Stevens,17.0
+2014,19,Abu Dhabi,Kamui Kobayashi,18.0
+2014,19,Abu Dhabi,Pastor Maldonado,19.0
+2014,19,Abu Dhabi,Daniil Kvyat,20.0
+2015,1,Melbourne,Lewis Hamilton,1.0
+2015,1,Melbourne,Nico Rosberg,2.0
+2015,1,Melbourne,Sebastian Vettel,3.0
+2015,1,Melbourne,Felipe Massa,4.0
+2015,1,Melbourne,Felipe Nasr,5.0
+2015,1,Melbourne,Daniel Ricciardo,6.0
+2015,1,Melbourne,Nico Hulkenberg,7.0
+2015,1,Melbourne,Marcus Ericsson,8.0
+2015,1,Melbourne,Carlos Sainz,9.0
+2015,1,Melbourne,Sergio Perez,10.0
+2015,1,Melbourne,Jenson Button,11.0
+2015,1,Melbourne,Kimi Räikkönen,12.0
+2015,1,Melbourne,Max Verstappen,13.0
+2015,1,Melbourne,Romain Grosjean,14.0
+2015,1,Melbourne,Pastor Maldonado,15.0
+2015,1,Melbourne,Daniil Kvyat,16.0
+2015,1,Melbourne,Kevin Magnussen,17.0
+2015,1,Melbourne,Valtteri Bottas,18.0
+2015,2,Kuala Lumpur,Sebastian Vettel,1.0
+2015,2,Kuala Lumpur,Lewis Hamilton,2.0
+2015,2,Kuala Lumpur,Nico Rosberg,3.0
+2015,2,Kuala Lumpur,Kimi Räikkönen,4.0
+2015,2,Kuala Lumpur,Valtteri Bottas,5.0
+2015,2,Kuala Lumpur,Felipe Massa,6.0
+2015,2,Kuala Lumpur,Max Verstappen,7.0
+2015,2,Kuala Lumpur,Carlos Sainz,8.0
+2015,2,Kuala Lumpur,Daniil Kvyat,9.0
+2015,2,Kuala Lumpur,Daniel Ricciardo,10.0
+2015,2,Kuala Lumpur,Romain Grosjean,11.0
+2015,2,Kuala Lumpur,Felipe Nasr,12.0
+2015,2,Kuala Lumpur,Sergio Perez,13.0
+2015,2,Kuala Lumpur,Nico Hulkenberg,14.0
+2015,2,Kuala Lumpur,Roberto Merhi,15.0
+2015,2,Kuala Lumpur,Pastor Maldonado,16.0
+2015,2,Kuala Lumpur,Jenson Button,17.0
+2015,2,Kuala Lumpur,Fernando Alonso,18.0
+2015,2,Kuala Lumpur,Marcus Ericsson,19.0
+2015,2,Kuala Lumpur,Will Stevens,20.0
+2015,3,Shanghai,Lewis Hamilton,1.0
+2015,3,Shanghai,Nico Rosberg,2.0
+2015,3,Shanghai,Sebastian Vettel,3.0
+2015,3,Shanghai,Kimi Räikkönen,4.0
+2015,3,Shanghai,Felipe Massa,5.0
+2015,3,Shanghai,Valtteri Bottas,6.0
+2015,3,Shanghai,Romain Grosjean,7.0
+2015,3,Shanghai,Felipe Nasr,8.0
+2015,3,Shanghai,Daniel Ricciardo,9.0
+2015,3,Shanghai,Marcus Ericsson,10.0
+2015,3,Shanghai,Sergio Perez,11.0
+2015,3,Shanghai,Fernando Alonso,12.0
+2015,3,Shanghai,Carlos Sainz,13.0
+2015,3,Shanghai,Jenson Button,14.0
+2015,3,Shanghai,Will Stevens,15.0
+2015,3,Shanghai,Roberto Merhi,16.0
+2015,3,Shanghai,Max Verstappen,17.0
+2015,3,Shanghai,Pastor Maldonado,18.0
+2015,3,Shanghai,Daniil Kvyat,19.0
+2015,3,Shanghai,Nico Hulkenberg,20.0
+2015,4,Sakhir,Lewis Hamilton,1.0
+2015,4,Sakhir,Kimi Räikkönen,2.0
+2015,4,Sakhir,Nico Rosberg,3.0
+2015,4,Sakhir,Valtteri Bottas,4.0
+2015,4,Sakhir,Sebastian Vettel,5.0
+2015,4,Sakhir,Daniel Ricciardo,6.0
+2015,4,Sakhir,Romain Grosjean,7.0
+2015,4,Sakhir,Sergio Perez,8.0
+2015,4,Sakhir,Daniil Kvyat,9.0
+2015,4,Sakhir,Felipe Massa,10.0
+2015,4,Sakhir,Fernando Alonso,11.0
+2015,4,Sakhir,Felipe Nasr,12.0
+2015,4,Sakhir,Nico Hulkenberg,13.0
+2015,4,Sakhir,Marcus Ericsson,14.0
+2015,4,Sakhir,Pastor Maldonado,15.0
+2015,4,Sakhir,Will Stevens,16.0
+2015,4,Sakhir,Roberto Merhi,17.0
+2015,4,Sakhir,Max Verstappen,18.0
+2015,4,Sakhir,Carlos Sainz,19.0
+2015,4,Sakhir,Jenson Button,20.0
+2015,5,Barcelona,Nico Rosberg,1.0
+2015,5,Barcelona,Lewis Hamilton,2.0
+2015,5,Barcelona,Sebastian Vettel,3.0
+2015,5,Barcelona,Valtteri Bottas,4.0
+2015,5,Barcelona,Kimi Räikkönen,5.0
+2015,5,Barcelona,Felipe Massa,6.0
+2015,5,Barcelona,Daniel Ricciardo,7.0
+2015,5,Barcelona,Romain Grosjean,8.0
+2015,5,Barcelona,Carlos Sainz,9.0
+2015,5,Barcelona,Daniil Kvyat,10.0
+2015,5,Barcelona,Max Verstappen,11.0
+2015,5,Barcelona,Felipe Nasr,12.0
+2015,5,Barcelona,Sergio Perez,13.0
+2015,5,Barcelona,Marcus Ericsson,14.0
+2015,5,Barcelona,Nico Hulkenberg,15.0
+2015,5,Barcelona,Jenson Button,16.0
+2015,5,Barcelona,Will Stevens,17.0
+2015,5,Barcelona,Roberto Merhi,18.0
+2015,5,Barcelona,Pastor Maldonado,19.0
+2015,5,Barcelona,Fernando Alonso,20.0
+2015,6,Monte Carlo,Nico Rosberg,1.0
+2015,6,Monte Carlo,Sebastian Vettel,2.0
+2015,6,Monte Carlo,Lewis Hamilton,3.0
+2015,6,Monte Carlo,Daniil Kvyat,4.0
+2015,6,Monte Carlo,Daniel Ricciardo,5.0
+2015,6,Monte Carlo,Kimi Räikkönen,6.0
+2015,6,Monte Carlo,Sergio Perez,7.0
+2015,6,Monte Carlo,Jenson Button,8.0
+2015,6,Monte Carlo,Felipe Nasr,9.0
+2015,6,Monte Carlo,Carlos Sainz,10.0
+2015,6,Monte Carlo,Nico Hulkenberg,11.0
+2015,6,Monte Carlo,Romain Grosjean,12.0
+2015,6,Monte Carlo,Marcus Ericsson,13.0
+2015,6,Monte Carlo,Valtteri Bottas,14.0
+2015,6,Monte Carlo,Felipe Massa,15.0
+2015,6,Monte Carlo,Roberto Merhi,16.0
+2015,6,Monte Carlo,Will Stevens,17.0
+2015,6,Monte Carlo,Max Verstappen,18.0
+2015,6,Monte Carlo,Fernando Alonso,19.0
+2015,6,Monte Carlo,Pastor Maldonado,20.0
+2015,7,Montreal,Lewis Hamilton,1.0
+2015,7,Montreal,Nico Rosberg,2.0
+2015,7,Montreal,Valtteri Bottas,3.0
+2015,7,Montreal,Kimi Räikkönen,4.0
+2015,7,Montreal,Sebastian Vettel,5.0
+2015,7,Montreal,Felipe Massa,6.0
+2015,7,Montreal,Pastor Maldonado,7.0
+2015,7,Montreal,Nico Hulkenberg,8.0
+2015,7,Montreal,Daniil Kvyat,9.0
+2015,7,Montreal,Romain Grosjean,10.0
+2015,7,Montreal,Sergio Perez,11.0
+2015,7,Montreal,Carlos Sainz,12.0
+2015,7,Montreal,Daniel Ricciardo,13.0
+2015,7,Montreal,Marcus Ericsson,14.0
+2015,7,Montreal,Max Verstappen,15.0
+2015,7,Montreal,Felipe Nasr,16.0
+2015,7,Montreal,Will Stevens,17.0
+2015,7,Montreal,Roberto Merhi,18.0
+2015,7,Montreal,Jenson Button,19.0
+2015,7,Montreal,Fernando Alonso,20.0
+2015,8,Spielberg,Nico Rosberg,1.0
+2015,8,Spielberg,Lewis Hamilton,2.0
+2015,8,Spielberg,Felipe Massa,3.0
+2015,8,Spielberg,Sebastian Vettel,4.0
+2015,8,Spielberg,Valtteri Bottas,5.0
+2015,8,Spielberg,Nico Hulkenberg,6.0
+2015,8,Spielberg,Pastor Maldonado,7.0
+2015,8,Spielberg,Max Verstappen,8.0
+2015,8,Spielberg,Sergio Perez,9.0
+2015,8,Spielberg,Daniel Ricciardo,10.0
+2015,8,Spielberg,Felipe Nasr,11.0
+2015,8,Spielberg,Daniil Kvyat,12.0
+2015,8,Spielberg,Marcus Ericsson,13.0
+2015,8,Spielberg,Roberto Merhi,14.0
+2015,8,Spielberg,Romain Grosjean,15.0
+2015,8,Spielberg,Carlos Sainz,16.0
+2015,8,Spielberg,Jenson Button,17.0
+2015,8,Spielberg,Will Stevens,18.0
+2015,8,Spielberg,Kimi Räikkönen,19.0
+2015,8,Spielberg,Fernando Alonso,20.0
+2015,9,Silverstone,Lewis Hamilton,1.0
+2015,9,Silverstone,Nico Rosberg,2.0
+2015,9,Silverstone,Sebastian Vettel,3.0
+2015,9,Silverstone,Felipe Massa,4.0
+2015,9,Silverstone,Valtteri Bottas,5.0
+2015,9,Silverstone,Daniil Kvyat,6.0
+2015,9,Silverstone,Nico Hulkenberg,7.0
+2015,9,Silverstone,Kimi Räikkönen,8.0
+2015,9,Silverstone,Sergio Perez,9.0
+2015,9,Silverstone,Fernando Alonso,10.0
+2015,9,Silverstone,Marcus Ericsson,11.0
+2015,9,Silverstone,Roberto Merhi,12.0
+2015,9,Silverstone,Will Stevens,13.0
+2015,9,Silverstone,Carlos Sainz,14.0
+2015,9,Silverstone,Daniel Ricciardo,15.0
+2015,9,Silverstone,Max Verstappen,16.0
+2015,9,Silverstone,Romain Grosjean,17.0
+2015,9,Silverstone,Pastor Maldonado,18.0
+2015,9,Silverstone,Jenson Button,19.0
+2015,9,Silverstone,Felipe Nasr,20.0
+2015,10,Budapest,Sebastian Vettel,1.0
+2015,10,Budapest,Daniil Kvyat,2.0
+2015,10,Budapest,Daniel Ricciardo,3.0
+2015,10,Budapest,Max Verstappen,4.0
+2015,10,Budapest,Fernando Alonso,5.0
+2015,10,Budapest,Lewis Hamilton,6.0
+2015,10,Budapest,Romain Grosjean,7.0
+2015,10,Budapest,Nico Rosberg,8.0
+2015,10,Budapest,Jenson Button,9.0
+2015,10,Budapest,Marcus Ericsson,10.0
+2015,10,Budapest,Felipe Nasr,11.0
+2015,10,Budapest,Felipe Massa,12.0
+2015,10,Budapest,Valtteri Bottas,13.0
+2015,10,Budapest,Pastor Maldonado,14.0
+2015,10,Budapest,Roberto Merhi,15.0
+2015,10,Budapest,Will Stevens,16.0
+2015,10,Budapest,Carlos Sainz,17.0
+2015,10,Budapest,Kimi Räikkönen,18.0
+2015,10,Budapest,Sergio Perez,19.0
+2015,10,Budapest,Nico Hulkenberg,20.0
+2015,11,Spa,Lewis Hamilton,1.0
+2015,11,Spa,Nico Rosberg,2.0
+2015,11,Spa,Romain Grosjean,3.0
+2015,11,Spa,Daniil Kvyat,4.0
+2015,11,Spa,Sergio Perez,5.0
+2015,11,Spa,Felipe Massa,6.0
+2015,11,Spa,Kimi Räikkönen,7.0
+2015,11,Spa,Max Verstappen,8.0
+2015,11,Spa,Valtteri Bottas,9.0
+2015,11,Spa,Marcus Ericsson,10.0
+2015,11,Spa,Felipe Nasr,11.0
+2015,11,Spa,Sebastian Vettel,12.0
+2015,11,Spa,Fernando Alonso,13.0
+2015,11,Spa,Jenson Button,14.0
+2015,11,Spa,Roberto Merhi,15.0
+2015,11,Spa,Will Stevens,16.0
+2015,11,Spa,Carlos Sainz,17.0
+2015,11,Spa,Daniel Ricciardo,18.0
+2015,11,Spa,Pastor Maldonado,19.0
+2015,11,Spa,Nico Hulkenberg,20.0
+2015,12,Monza,Lewis Hamilton,1.0
+2015,12,Monza,Sebastian Vettel,2.0
+2015,12,Monza,Felipe Massa,3.0
+2015,12,Monza,Valtteri Bottas,4.0
+2015,12,Monza,Kimi Räikkönen,5.0
+2015,12,Monza,Sergio Perez,6.0
+2015,12,Monza,Nico Hulkenberg,7.0
+2015,12,Monza,Daniel Ricciardo,8.0
+2015,12,Monza,Marcus Ericsson,9.0
+2015,12,Monza,Daniil Kvyat,10.0
+2015,12,Monza,Carlos Sainz,11.0
+2015,12,Monza,Max Verstappen,12.0
+2015,12,Monza,Felipe Nasr,13.0
+2015,12,Monza,Jenson Button,14.0
+2015,12,Monza,Will Stevens,15.0
+2015,12,Monza,Roberto Merhi,16.0
+2015,12,Monza,Nico Rosberg,17.0
+2015,12,Monza,Fernando Alonso,18.0
+2015,12,Monza,Romain Grosjean,19.0
+2015,12,Monza,Pastor Maldonado,20.0
+2015,13,Marina Bay,Sebastian Vettel,1.0
+2015,13,Marina Bay,Daniel Ricciardo,2.0
+2015,13,Marina Bay,Kimi Räikkönen,3.0
+2015,13,Marina Bay,Nico Rosberg,4.0
+2015,13,Marina Bay,Valtteri Bottas,5.0
+2015,13,Marina Bay,Daniil Kvyat,6.0
+2015,13,Marina Bay,Sergio Perez,7.0
+2015,13,Marina Bay,Max Verstappen,8.0
+2015,13,Marina Bay,Carlos Sainz,9.0
+2015,13,Marina Bay,Felipe Nasr,10.0
+2015,13,Marina Bay,Marcus Ericsson,11.0
+2015,13,Marina Bay,Pastor Maldonado,12.0
+2015,13,Marina Bay,Romain Grosjean,13.0
+2015,13,Marina Bay,Alexander Rossi,14.0
+2015,13,Marina Bay,Will Stevens,15.0
+2015,13,Marina Bay,Jenson Button,16.0
+2015,13,Marina Bay,Fernando Alonso,17.0
+2015,13,Marina Bay,Lewis Hamilton,18.0
+2015,13,Marina Bay,Felipe Massa,19.0
+2015,13,Marina Bay,Nico Hulkenberg,20.0
+2015,14,Suzuka,Lewis Hamilton,1.0
+2015,14,Suzuka,Nico Rosberg,2.0
+2015,14,Suzuka,Sebastian Vettel,3.0
+2015,14,Suzuka,Kimi Räikkönen,4.0
+2015,14,Suzuka,Valtteri Bottas,5.0
+2015,14,Suzuka,Nico Hulkenberg,6.0
+2015,14,Suzuka,Romain Grosjean,7.0
+2015,14,Suzuka,Pastor Maldonado,8.0
+2015,14,Suzuka,Max Verstappen,9.0
+2015,14,Suzuka,Carlos Sainz,10.0
+2015,14,Suzuka,Fernando Alonso,11.0
+2015,14,Suzuka,Sergio Perez,12.0
+2015,14,Suzuka,Daniil Kvyat,13.0
+2015,14,Suzuka,Marcus Ericsson,14.0
+2015,14,Suzuka,Daniel Ricciardo,15.0
+2015,14,Suzuka,Jenson Button,16.0
+2015,14,Suzuka,Felipe Massa,17.0
+2015,14,Suzuka,Alexander Rossi,18.0
+2015,14,Suzuka,Will Stevens,19.0
+2015,14,Suzuka,Felipe Nasr,20.0
+2015,15,Sochi,Lewis Hamilton,1.0
+2015,15,Sochi,Sebastian Vettel,2.0
+2015,15,Sochi,Sergio Perez,3.0
+2015,15,Sochi,Felipe Massa,4.0
+2015,15,Sochi,Daniil Kvyat,5.0
+2015,15,Sochi,Felipe Nasr,6.0
+2015,15,Sochi,Pastor Maldonado,7.0
+2015,15,Sochi,Kimi Räikkönen,8.0
+2015,15,Sochi,Jenson Button,9.0
+2015,15,Sochi,Max Verstappen,10.0
+2015,15,Sochi,Fernando Alonso,11.0
+2015,15,Sochi,Valtteri Bottas,12.0
+2015,15,Sochi,Roberto Merhi,13.0
+2015,15,Sochi,Will Stevens,14.0
+2015,15,Sochi,Daniel Ricciardo,15.0
+2015,15,Sochi,Carlos Sainz,16.0
+2015,15,Sochi,Romain Grosjean,17.0
+2015,15,Sochi,Nico Rosberg,18.0
+2015,15,Sochi,Nico Hulkenberg,19.0
+2015,15,Sochi,Marcus Ericsson,20.0
+2015,16,Austin,Lewis Hamilton,1.0
+2015,16,Austin,Nico Rosberg,2.0
+2015,16,Austin,Sebastian Vettel,3.0
+2015,16,Austin,Max Verstappen,4.0
+2015,16,Austin,Sergio Perez,5.0
+2015,16,Austin,Jenson Button,6.0
+2015,16,Austin,Carlos Sainz,7.0
+2015,16,Austin,Pastor Maldonado,8.0
+2015,16,Austin,Felipe Nasr,9.0
+2015,16,Austin,Daniel Ricciardo,10.0
+2015,16,Austin,Fernando Alonso,11.0
+2015,16,Austin,Alexander Rossi,12.0
+2015,16,Austin,Daniil Kvyat,13.0
+2015,16,Austin,Nico Hulkenberg,14.0
+2015,16,Austin,Marcus Ericsson,15.0
+2015,16,Austin,Kimi Räikkönen,16.0
+2015,16,Austin,Felipe Massa,17.0
+2015,16,Austin,Romain Grosjean,18.0
+2015,16,Austin,Valtteri Bottas,19.0
+2015,16,Austin,Will Stevens,20.0
+2015,17,Mexico City,Nico Rosberg,1.0
+2015,17,Mexico City,Lewis Hamilton,2.0
+2015,17,Mexico City,Valtteri Bottas,3.0
+2015,17,Mexico City,Daniil Kvyat,4.0
+2015,17,Mexico City,Daniel Ricciardo,5.0
+2015,17,Mexico City,Felipe Massa,6.0
+2015,17,Mexico City,Nico Hulkenberg,7.0
+2015,17,Mexico City,Sergio Perez,8.0
+2015,17,Mexico City,Max Verstappen,9.0
+2015,17,Mexico City,Romain Grosjean,10.0
+2015,17,Mexico City,Pastor Maldonado,11.0
+2015,17,Mexico City,Marcus Ericsson,12.0
+2015,17,Mexico City,Carlos Sainz,13.0
+2015,17,Mexico City,Jenson Button,14.0
+2015,17,Mexico City,Alexander Rossi,15.0
+2015,17,Mexico City,Will Stevens,16.0
+2015,17,Mexico City,Felipe Nasr,17.0
+2015,17,Mexico City,Sebastian Vettel,18.0
+2015,17,Mexico City,Kimi Räikkönen,19.0
+2015,17,Mexico City,Fernando Alonso,20.0
+2015,18,São Paulo,Nico Rosberg,1.0
+2015,18,São Paulo,Lewis Hamilton,2.0
+2015,18,São Paulo,Sebastian Vettel,3.0
+2015,18,São Paulo,Kimi Räikkönen,4.0
+2015,18,São Paulo,Valtteri Bottas,5.0
+2015,18,São Paulo,Nico Hulkenberg,6.0
+2015,18,São Paulo,Daniil Kvyat,7.0
+2015,18,São Paulo,Romain Grosjean,8.0
+2015,18,São Paulo,Max Verstappen,9.0
+2015,18,São Paulo,Pastor Maldonado,10.0
+2015,18,São Paulo,Daniel Ricciardo,11.0
+2015,18,São Paulo,Sergio Perez,12.0
+2015,18,São Paulo,Felipe Nasr,13.0
+2015,18,São Paulo,Jenson Button,14.0
+2015,18,São Paulo,Fernando Alonso,15.0
+2015,18,São Paulo,Marcus Ericsson,16.0
+2015,18,São Paulo,Will Stevens,17.0
+2015,18,São Paulo,Alexander Rossi,18.0
+2015,18,São Paulo,Carlos Sainz,19.0
+2015,18,São Paulo,Felipe Massa,20.0
+2015,19,Abu Dhabi,Nico Rosberg,1.0
+2015,19,Abu Dhabi,Lewis Hamilton,2.0
+2015,19,Abu Dhabi,Kimi Räikkönen,3.0
+2015,19,Abu Dhabi,Sebastian Vettel,4.0
+2015,19,Abu Dhabi,Sergio Perez,5.0
+2015,19,Abu Dhabi,Daniel Ricciardo,6.0
+2015,19,Abu Dhabi,Nico Hulkenberg,7.0
+2015,19,Abu Dhabi,Felipe Massa,8.0
+2015,19,Abu Dhabi,Romain Grosjean,9.0
+2015,19,Abu Dhabi,Daniil Kvyat,10.0
+2015,19,Abu Dhabi,Carlos Sainz,11.0
+2015,19,Abu Dhabi,Jenson Button,12.0
+2015,19,Abu Dhabi,Valtteri Bottas,13.0
+2015,19,Abu Dhabi,Marcus Ericsson,14.0
+2015,19,Abu Dhabi,Felipe Nasr,15.0
+2015,19,Abu Dhabi,Max Verstappen,16.0
+2015,19,Abu Dhabi,Fernando Alonso,17.0
+2015,19,Abu Dhabi,Will Stevens,18.0
+2015,19,Abu Dhabi,Roberto Merhi,19.0
+2015,19,Abu Dhabi,Pastor Maldonado,20.0
+2016,1,Melbourne,Nico Rosberg,1.0
+2016,1,Melbourne,Lewis Hamilton,2.0
+2016,1,Melbourne,Sebastian Vettel,3.0
+2016,1,Melbourne,Daniel Ricciardo,4.0
+2016,1,Melbourne,Felipe Massa,5.0
+2016,1,Melbourne,Romain Grosjean,6.0
+2016,1,Melbourne,Nico Hulkenberg,7.0
+2016,1,Melbourne,Valtteri Bottas,8.0
+2016,1,Melbourne,Carlos Sainz,9.0
+2016,1,Melbourne,Max Verstappen,10.0
+2016,1,Melbourne,Jolyon Palmer,11.0
+2016,1,Melbourne,Kevin Magnussen,12.0
+2016,1,Melbourne,Sergio Perez,13.0
+2016,1,Melbourne,Jenson Button,14.0
+2016,1,Melbourne,Felipe Nasr,15.0
+2016,1,Melbourne,Pascal Wehrlein,16.0
+2016,1,Melbourne,Marcus Ericsson,17.0
+2016,1,Melbourne,Kimi Räikkönen,18.0
+2016,1,Melbourne,Rio Haryanto,19.0
+2016,1,Melbourne,Esteban Gutiérrez,20.0
+2016,1,Melbourne,Fernando Alonso,21.0
+2016,1,Melbourne,Daniil Kvyat,22.0
+2016,2,Sakhir,Nico Rosberg,1.0
+2016,2,Sakhir,Kimi Räikkönen,2.0
+2016,2,Sakhir,Lewis Hamilton,3.0
+2016,2,Sakhir,Daniel Ricciardo,4.0
+2016,2,Sakhir,Romain Grosjean,5.0
+2016,2,Sakhir,Max Verstappen,6.0
+2016,2,Sakhir,Daniil Kvyat,7.0
+2016,2,Sakhir,Felipe Massa,8.0
+2016,2,Sakhir,Valtteri Bottas,9.0
+2016,2,Sakhir,Stoffel Vandoorne,10.0
+2016,2,Sakhir,Kevin Magnussen,11.0
+2016,2,Sakhir,Marcus Ericsson,12.0
+2016,2,Sakhir,Pascal Wehrlein,13.0
+2016,2,Sakhir,Felipe Nasr,14.0
+2016,2,Sakhir,Nico Hulkenberg,15.0
+2016,2,Sakhir,Sergio Perez,16.0
+2016,2,Sakhir,Rio Haryanto,17.0
+2016,2,Sakhir,Carlos Sainz,18.0
+2016,2,Sakhir,Esteban Gutiérrez,19.0
+2016,2,Sakhir,Jenson Button,20.0
+2016,2,Sakhir,Sebastian Vettel,21.0
+2016,2,Sakhir,Jolyon Palmer,22.0
+2016,3,Shanghai,Nico Rosberg,1.0
+2016,3,Shanghai,Sebastian Vettel,2.0
+2016,3,Shanghai,Daniil Kvyat,3.0
+2016,3,Shanghai,Daniel Ricciardo,4.0
+2016,3,Shanghai,Kimi Räikkönen,5.0
+2016,3,Shanghai,Felipe Massa,6.0
+2016,3,Shanghai,Lewis Hamilton,7.0
+2016,3,Shanghai,Max Verstappen,8.0
+2016,3,Shanghai,Carlos Sainz,9.0
+2016,3,Shanghai,Valtteri Bottas,10.0
+2016,3,Shanghai,Sergio Perez,11.0
+2016,3,Shanghai,Fernando Alonso,12.0
+2016,3,Shanghai,Jenson Button,13.0
+2016,3,Shanghai,Esteban Gutiérrez,14.0
+2016,3,Shanghai,Nico Hulkenberg,15.0
+2016,3,Shanghai,Marcus Ericsson,16.0
+2016,3,Shanghai,Kevin Magnussen,17.0
+2016,3,Shanghai,Pascal Wehrlein,18.0
+2016,3,Shanghai,Romain Grosjean,19.0
+2016,3,Shanghai,Felipe Nasr,20.0
+2016,3,Shanghai,Rio Haryanto,21.0
+2016,3,Shanghai,Jolyon Palmer,22.0
+2016,4,Sochi,Nico Rosberg,1.0
+2016,4,Sochi,Lewis Hamilton,2.0
+2016,4,Sochi,Kimi Räikkönen,3.0
+2016,4,Sochi,Valtteri Bottas,4.0
+2016,4,Sochi,Felipe Massa,5.0
+2016,4,Sochi,Fernando Alonso,6.0
+2016,4,Sochi,Kevin Magnussen,7.0
+2016,4,Sochi,Romain Grosjean,8.0
+2016,4,Sochi,Sergio Perez,9.0
+2016,4,Sochi,Jenson Button,10.0
+2016,4,Sochi,Daniel Ricciardo,11.0
+2016,4,Sochi,Carlos Sainz,12.0
+2016,4,Sochi,Jolyon Palmer,13.0
+2016,4,Sochi,Marcus Ericsson,14.0
+2016,4,Sochi,Daniil Kvyat,15.0
+2016,4,Sochi,Felipe Nasr,16.0
+2016,4,Sochi,Esteban Gutiérrez,17.0
+2016,4,Sochi,Pascal Wehrlein,18.0
+2016,4,Sochi,Max Verstappen,19.0
+2016,4,Sochi,Sebastian Vettel,20.0
+2016,4,Sochi,Nico Hulkenberg,21.0
+2016,4,Sochi,Rio Haryanto,22.0
+2016,5,Barcelona,Max Verstappen,1.0
+2016,5,Barcelona,Kimi Räikkönen,2.0
+2016,5,Barcelona,Sebastian Vettel,3.0
+2016,5,Barcelona,Daniel Ricciardo,4.0
+2016,5,Barcelona,Valtteri Bottas,5.0
+2016,5,Barcelona,Carlos Sainz,6.0
+2016,5,Barcelona,Sergio Perez,7.0
+2016,5,Barcelona,Felipe Massa,8.0
+2016,5,Barcelona,Jenson Button,9.0
+2016,5,Barcelona,Daniil Kvyat,10.0
+2016,5,Barcelona,Esteban Gutiérrez,11.0
+2016,5,Barcelona,Marcus Ericsson,12.0
+2016,5,Barcelona,Jolyon Palmer,13.0
+2016,5,Barcelona,Kevin Magnussen,14.0
+2016,5,Barcelona,Felipe Nasr,15.0
+2016,5,Barcelona,Pascal Wehrlein,16.0
+2016,5,Barcelona,Rio Haryanto,17.0
+2016,5,Barcelona,Romain Grosjean,18.0
+2016,5,Barcelona,Fernando Alonso,19.0
+2016,5,Barcelona,Nico Hulkenberg,20.0
+2016,5,Barcelona,Lewis Hamilton,21.0
+2016,5,Barcelona,Nico Rosberg,22.0
+2016,6,Monte Carlo,Lewis Hamilton,1.0
+2016,6,Monte Carlo,Daniel Ricciardo,2.0
+2016,6,Monte Carlo,Sergio Perez,3.0
+2016,6,Monte Carlo,Sebastian Vettel,4.0
+2016,6,Monte Carlo,Fernando Alonso,5.0
+2016,6,Monte Carlo,Nico Hulkenberg,6.0
+2016,6,Monte Carlo,Nico Rosberg,7.0
+2016,6,Monte Carlo,Carlos Sainz,8.0
+2016,6,Monte Carlo,Jenson Button,9.0
+2016,6,Monte Carlo,Felipe Massa,10.0
+2016,6,Monte Carlo,Esteban Gutiérrez,11.0
+2016,6,Monte Carlo,Valtteri Bottas,12.0
+2016,6,Monte Carlo,Romain Grosjean,13.0
+2016,6,Monte Carlo,Pascal Wehrlein,14.0
+2016,6,Monte Carlo,Rio Haryanto,15.0
+2016,6,Monte Carlo,Marcus Ericsson,16.0
+2016,6,Monte Carlo,Felipe Nasr,17.0
+2016,6,Monte Carlo,Max Verstappen,18.0
+2016,6,Monte Carlo,Kevin Magnussen,19.0
+2016,6,Monte Carlo,Daniil Kvyat,20.0
+2016,6,Monte Carlo,Kimi Räikkönen,21.0
+2016,6,Monte Carlo,Jolyon Palmer,22.0
+2016,7,Montreal,Lewis Hamilton,1.0
+2016,7,Montreal,Sebastian Vettel,2.0
+2016,7,Montreal,Valtteri Bottas,3.0
+2016,7,Montreal,Max Verstappen,4.0
+2016,7,Montreal,Nico Rosberg,5.0
+2016,7,Montreal,Kimi Räikkönen,6.0
+2016,7,Montreal,Daniel Ricciardo,7.0
+2016,7,Montreal,Nico Hulkenberg,8.0
+2016,7,Montreal,Carlos Sainz,9.0
+2016,7,Montreal,Sergio Perez,10.0
+2016,7,Montreal,Fernando Alonso,11.0
+2016,7,Montreal,Daniil Kvyat,12.0
+2016,7,Montreal,Esteban Gutiérrez,13.0
+2016,7,Montreal,Romain Grosjean,14.0
+2016,7,Montreal,Marcus Ericsson,15.0
+2016,7,Montreal,Kevin Magnussen,16.0
+2016,7,Montreal,Pascal Wehrlein,17.0
+2016,7,Montreal,Felipe Nasr,18.0
+2016,7,Montreal,Rio Haryanto,19.0
+2016,7,Montreal,Felipe Massa,20.0
+2016,7,Montreal,Jolyon Palmer,21.0
+2016,7,Montreal,Jenson Button,22.0
+2016,8,Baku,Nico Rosberg,1.0
+2016,8,Baku,Sebastian Vettel,2.0
+2016,8,Baku,Sergio Perez,3.0
+2016,8,Baku,Kimi Räikkönen,4.0
+2016,8,Baku,Lewis Hamilton,5.0
+2016,8,Baku,Valtteri Bottas,6.0
+2016,8,Baku,Daniel Ricciardo,7.0
+2016,8,Baku,Max Verstappen,8.0
+2016,8,Baku,Nico Hulkenberg,9.0
+2016,8,Baku,Felipe Massa,10.0
+2016,8,Baku,Jenson Button,11.0
+2016,8,Baku,Felipe Nasr,12.0
+2016,8,Baku,Romain Grosjean,13.0
+2016,8,Baku,Kevin Magnussen,14.0
+2016,8,Baku,Jolyon Palmer,15.0
+2016,8,Baku,Esteban Gutiérrez,16.0
+2016,8,Baku,Marcus Ericsson,17.0
+2016,8,Baku,Rio Haryanto,18.0
+2016,8,Baku,Fernando Alonso,19.0
+2016,8,Baku,Pascal Wehrlein,20.0
+2016,8,Baku,Carlos Sainz,21.0
+2016,8,Baku,Daniil Kvyat,22.0
+2016,9,Spielberg,Lewis Hamilton,1.0
+2016,9,Spielberg,Max Verstappen,2.0
+2016,9,Spielberg,Kimi Räikkönen,3.0
+2016,9,Spielberg,Nico Rosberg,4.0
+2016,9,Spielberg,Daniel Ricciardo,5.0
+2016,9,Spielberg,Jenson Button,6.0
+2016,9,Spielberg,Romain Grosjean,7.0
+2016,9,Spielberg,Carlos Sainz,8.0
+2016,9,Spielberg,Valtteri Bottas,9.0
+2016,9,Spielberg,Pascal Wehrlein,10.0
+2016,9,Spielberg,Esteban Gutiérrez,11.0
+2016,9,Spielberg,Jolyon Palmer,12.0
+2016,9,Spielberg,Felipe Nasr,13.0
+2016,9,Spielberg,Kevin Magnussen,14.0
+2016,9,Spielberg,Marcus Ericsson,15.0
+2016,9,Spielberg,Rio Haryanto,16.0
+2016,9,Spielberg,Sergio Perez,17.0
+2016,9,Spielberg,Fernando Alonso,18.0
+2016,9,Spielberg,Nico Hulkenberg,19.0
+2016,9,Spielberg,Felipe Massa,20.0
+2016,9,Spielberg,Sebastian Vettel,21.0
+2016,9,Spielberg,Daniil Kvyat,22.0
+2016,10,Silverstone,Lewis Hamilton,1.0
+2016,10,Silverstone,Max Verstappen,2.0
+2016,10,Silverstone,Nico Rosberg,3.0
+2016,10,Silverstone,Daniel Ricciardo,4.0
+2016,10,Silverstone,Kimi Räikkönen,5.0
+2016,10,Silverstone,Sergio Perez,6.0
+2016,10,Silverstone,Nico Hulkenberg,7.0
+2016,10,Silverstone,Carlos Sainz,8.0
+2016,10,Silverstone,Sebastian Vettel,9.0
+2016,10,Silverstone,Daniil Kvyat,10.0
+2016,10,Silverstone,Felipe Massa,11.0
+2016,10,Silverstone,Jenson Button,12.0
+2016,10,Silverstone,Fernando Alonso,13.0
+2016,10,Silverstone,Valtteri Bottas,14.0
+2016,10,Silverstone,Felipe Nasr,15.0
+2016,10,Silverstone,Esteban Gutiérrez,16.0
+2016,10,Silverstone,Kevin Magnussen,17.0
+2016,10,Silverstone,Jolyon Palmer,18.0
+2016,10,Silverstone,Rio Haryanto,19.0
+2016,10,Silverstone,Romain Grosjean,20.0
+2016,10,Silverstone,Marcus Ericsson,21.0
+2016,10,Silverstone,Pascal Wehrlein,22.0
+2016,11,Budapest,Lewis Hamilton,1.0
+2016,11,Budapest,Nico Rosberg,2.0
+2016,11,Budapest,Daniel Ricciardo,3.0
+2016,11,Budapest,Sebastian Vettel,4.0
+2016,11,Budapest,Max Verstappen,5.0
+2016,11,Budapest,Kimi Räikkönen,6.0
+2016,11,Budapest,Fernando Alonso,7.0
+2016,11,Budapest,Carlos Sainz,8.0
+2016,11,Budapest,Valtteri Bottas,9.0
+2016,11,Budapest,Nico Hulkenberg,10.0
+2016,11,Budapest,Sergio Perez,11.0
+2016,11,Budapest,Jolyon Palmer,12.0
+2016,11,Budapest,Esteban Gutiérrez,13.0
+2016,11,Budapest,Romain Grosjean,14.0
+2016,11,Budapest,Kevin Magnussen,15.0
+2016,11,Budapest,Daniil Kvyat,16.0
+2016,11,Budapest,Felipe Nasr,17.0
+2016,11,Budapest,Felipe Massa,18.0
+2016,11,Budapest,Pascal Wehrlein,19.0
+2016,11,Budapest,Marcus Ericsson,20.0
+2016,11,Budapest,Rio Haryanto,21.0
+2016,11,Budapest,Jenson Button,22.0
+2016,12,Hockenheim,Lewis Hamilton,1.0
+2016,12,Hockenheim,Daniel Ricciardo,2.0
+2016,12,Hockenheim,Max Verstappen,3.0
+2016,12,Hockenheim,Nico Rosberg,4.0
+2016,12,Hockenheim,Sebastian Vettel,5.0
+2016,12,Hockenheim,Kimi Räikkönen,6.0
+2016,12,Hockenheim,Nico Hulkenberg,7.0
+2016,12,Hockenheim,Jenson Button,8.0
+2016,12,Hockenheim,Valtteri Bottas,9.0
+2016,12,Hockenheim,Sergio Perez,10.0
+2016,12,Hockenheim,Esteban Gutiérrez,11.0
+2016,12,Hockenheim,Fernando Alonso,12.0
+2016,12,Hockenheim,Romain Grosjean,13.0
+2016,12,Hockenheim,Carlos Sainz,14.0
+2016,12,Hockenheim,Daniil Kvyat,15.0
+2016,12,Hockenheim,Kevin Magnussen,16.0
+2016,12,Hockenheim,Pascal Wehrlein,17.0
+2016,12,Hockenheim,Marcus Ericsson,18.0
+2016,12,Hockenheim,Jolyon Palmer,19.0
+2016,12,Hockenheim,Rio Haryanto,20.0
+2016,12,Hockenheim,Felipe Nasr,21.0
+2016,12,Hockenheim,Felipe Massa,22.0
+2016,13,Spa,Nico Rosberg,1.0
+2016,13,Spa,Daniel Ricciardo,2.0
+2016,13,Spa,Lewis Hamilton,3.0
+2016,13,Spa,Nico Hulkenberg,4.0
+2016,13,Spa,Sergio Perez,5.0
+2016,13,Spa,Sebastian Vettel,6.0
+2016,13,Spa,Fernando Alonso,7.0
+2016,13,Spa,Valtteri Bottas,8.0
+2016,13,Spa,Kimi Räikkönen,9.0
+2016,13,Spa,Felipe Massa,10.0
+2016,13,Spa,Max Verstappen,11.0
+2016,13,Spa,Esteban Gutiérrez,12.0
+2016,13,Spa,Romain Grosjean,13.0
+2016,13,Spa,Daniil Kvyat,14.0
+2016,13,Spa,Jolyon Palmer,15.0
+2016,13,Spa,Esteban Ocon,16.0
+2016,13,Spa,Felipe Nasr,17.0
+2016,13,Spa,Kevin Magnussen,18.0
+2016,13,Spa,Marcus Ericsson,19.0
+2016,13,Spa,Carlos Sainz,20.0
+2016,13,Spa,Jenson Button,21.0
+2016,13,Spa,Pascal Wehrlein,22.0
+2016,14,Monza,Nico Rosberg,1.0
+2016,14,Monza,Lewis Hamilton,2.0
+2016,14,Monza,Sebastian Vettel,3.0
+2016,14,Monza,Kimi Räikkönen,4.0
+2016,14,Monza,Daniel Ricciardo,5.0
+2016,14,Monza,Valtteri Bottas,6.0
+2016,14,Monza,Max Verstappen,7.0
+2016,14,Monza,Sergio Perez,8.0
+2016,14,Monza,Felipe Massa,9.0
+2016,14,Monza,Nico Hulkenberg,10.0
+2016,14,Monza,Romain Grosjean,11.0
+2016,14,Monza,Jenson Button,12.0
+2016,14,Monza,Esteban Gutiérrez,13.0
+2016,14,Monza,Fernando Alonso,14.0
+2016,14,Monza,Carlos Sainz,15.0
+2016,14,Monza,Marcus Ericsson,16.0
+2016,14,Monza,Kevin Magnussen,17.0
+2016,14,Monza,Esteban Ocon,18.0
+2016,14,Monza,Daniil Kvyat,19.0
+2016,14,Monza,Pascal Wehrlein,20.0
+2016,14,Monza,Jolyon Palmer,21.0
+2016,14,Monza,Felipe Nasr,22.0
+2016,15,Marina Bay,Nico Rosberg,1.0
+2016,15,Marina Bay,Daniel Ricciardo,2.0
+2016,15,Marina Bay,Lewis Hamilton,3.0
+2016,15,Marina Bay,Kimi Räikkönen,4.0
+2016,15,Marina Bay,Sebastian Vettel,5.0
+2016,15,Marina Bay,Max Verstappen,6.0
+2016,15,Marina Bay,Fernando Alonso,7.0
+2016,15,Marina Bay,Sergio Perez,8.0
+2016,15,Marina Bay,Daniil Kvyat,9.0
+2016,15,Marina Bay,Kevin Magnussen,10.0
+2016,15,Marina Bay,Esteban Gutiérrez,11.0
+2016,15,Marina Bay,Felipe Massa,12.0
+2016,15,Marina Bay,Felipe Nasr,13.0
+2016,15,Marina Bay,Carlos Sainz,14.0
+2016,15,Marina Bay,Jolyon Palmer,15.0
+2016,15,Marina Bay,Pascal Wehrlein,16.0
+2016,15,Marina Bay,Marcus Ericsson,17.0
+2016,15,Marina Bay,Esteban Ocon,18.0
+2016,15,Marina Bay,Jenson Button,19.0
+2016,15,Marina Bay,Valtteri Bottas,20.0
+2016,15,Marina Bay,Nico Hulkenberg,21.0
+2016,15,Marina Bay,Romain Grosjean,22.0
+2016,16,Kuala Lumpur,Daniel Ricciardo,1.0
+2016,16,Kuala Lumpur,Max Verstappen,2.0
+2016,16,Kuala Lumpur,Nico Rosberg,3.0
+2016,16,Kuala Lumpur,Kimi Räikkönen,4.0
+2016,16,Kuala Lumpur,Valtteri Bottas,5.0
+2016,16,Kuala Lumpur,Sergio Perez,6.0
+2016,16,Kuala Lumpur,Fernando Alonso,7.0
+2016,16,Kuala Lumpur,Nico Hulkenberg,8.0
+2016,16,Kuala Lumpur,Jenson Button,9.0
+2016,16,Kuala Lumpur,Jolyon Palmer,10.0
+2016,16,Kuala Lumpur,Carlos Sainz,11.0
+2016,16,Kuala Lumpur,Marcus Ericsson,12.0
+2016,16,Kuala Lumpur,Felipe Massa,13.0
+2016,16,Kuala Lumpur,Daniil Kvyat,14.0
+2016,16,Kuala Lumpur,Pascal Wehrlein,15.0
+2016,16,Kuala Lumpur,Esteban Ocon,16.0
+2016,16,Kuala Lumpur,Felipe Nasr,17.0
+2016,16,Kuala Lumpur,Lewis Hamilton,18.0
+2016,16,Kuala Lumpur,Esteban Gutiérrez,19.0
+2016,16,Kuala Lumpur,Kevin Magnussen,20.0
+2016,16,Kuala Lumpur,Romain Grosjean,21.0
+2016,16,Kuala Lumpur,Sebastian Vettel,22.0
+2016,17,Suzuka,Nico Rosberg,1.0
+2016,17,Suzuka,Max Verstappen,2.0
+2016,17,Suzuka,Lewis Hamilton,3.0
+2016,17,Suzuka,Sebastian Vettel,4.0
+2016,17,Suzuka,Kimi Räikkönen,5.0
+2016,17,Suzuka,Daniel Ricciardo,6.0
+2016,17,Suzuka,Sergio Perez,7.0
+2016,17,Suzuka,Nico Hulkenberg,8.0
+2016,17,Suzuka,Felipe Massa,9.0
+2016,17,Suzuka,Valtteri Bottas,10.0
+2016,17,Suzuka,Romain Grosjean,11.0
+2016,17,Suzuka,Jolyon Palmer,12.0
+2016,17,Suzuka,Daniil Kvyat,13.0
+2016,17,Suzuka,Kevin Magnussen,14.0
+2016,17,Suzuka,Marcus Ericsson,15.0
+2016,17,Suzuka,Fernando Alonso,16.0
+2016,17,Suzuka,Carlos Sainz,17.0
+2016,17,Suzuka,Jenson Button,18.0
+2016,17,Suzuka,Felipe Nasr,19.0
+2016,17,Suzuka,Esteban Gutiérrez,20.0
+2016,17,Suzuka,Esteban Ocon,21.0
+2016,17,Suzuka,Pascal Wehrlein,22.0
+2016,18,Austin,Lewis Hamilton,1.0
+2016,18,Austin,Nico Rosberg,2.0
+2016,18,Austin,Daniel Ricciardo,3.0
+2016,18,Austin,Sebastian Vettel,4.0
+2016,18,Austin,Fernando Alonso,5.0
+2016,18,Austin,Carlos Sainz,6.0
+2016,18,Austin,Felipe Massa,7.0
+2016,18,Austin,Sergio Perez,8.0
+2016,18,Austin,Jenson Button,9.0
+2016,18,Austin,Romain Grosjean,10.0
+2016,18,Austin,Daniil Kvyat,11.0
+2016,18,Austin,Kevin Magnussen,12.0
+2016,18,Austin,Jolyon Palmer,13.0
+2016,18,Austin,Marcus Ericsson,14.0
+2016,18,Austin,Felipe Nasr,15.0
+2016,18,Austin,Valtteri Bottas,16.0
+2016,18,Austin,Pascal Wehrlein,17.0
+2016,18,Austin,Esteban Ocon,18.0
+2016,18,Austin,Kimi Räikkönen,19.0
+2016,18,Austin,Max Verstappen,20.0
+2016,18,Austin,Esteban Gutiérrez,21.0
+2016,18,Austin,Nico Hulkenberg,22.0
+2016,19,Mexico City,Lewis Hamilton,1.0
+2016,19,Mexico City,Nico Rosberg,2.0
+2016,19,Mexico City,Daniel Ricciardo,3.0
+2016,19,Mexico City,Max Verstappen,4.0
+2016,19,Mexico City,Sebastian Vettel,5.0
+2016,19,Mexico City,Kimi Räikkönen,6.0
+2016,19,Mexico City,Nico Hulkenberg,7.0
+2016,19,Mexico City,Valtteri Bottas,8.0
+2016,19,Mexico City,Felipe Massa,9.0
+2016,19,Mexico City,Sergio Perez,10.0
+2016,19,Mexico City,Marcus Ericsson,11.0
+2016,19,Mexico City,Jenson Button,12.0
+2016,19,Mexico City,Fernando Alonso,13.0
+2016,19,Mexico City,Jolyon Palmer,14.0
+2016,19,Mexico City,Felipe Nasr,15.0
+2016,19,Mexico City,Carlos Sainz,16.0
+2016,19,Mexico City,Kevin Magnussen,17.0
+2016,19,Mexico City,Daniil Kvyat,18.0
+2016,19,Mexico City,Esteban Gutiérrez,19.0
+2016,19,Mexico City,Romain Grosjean,20.0
+2016,19,Mexico City,Esteban Ocon,21.0
+2016,19,Mexico City,Pascal Wehrlein,22.0
+2016,20,São Paulo,Lewis Hamilton,1.0
+2016,20,São Paulo,Nico Rosberg,2.0
+2016,20,São Paulo,Max Verstappen,3.0
+2016,20,São Paulo,Sergio Perez,4.0
+2016,20,São Paulo,Sebastian Vettel,5.0
+2016,20,São Paulo,Carlos Sainz,6.0
+2016,20,São Paulo,Nico Hulkenberg,7.0
+2016,20,São Paulo,Daniel Ricciardo,8.0
+2016,20,São Paulo,Felipe Nasr,9.0
+2016,20,São Paulo,Fernando Alonso,10.0
+2016,20,São Paulo,Valtteri Bottas,11.0
+2016,20,São Paulo,Esteban Ocon,12.0
+2016,20,São Paulo,Daniil Kvyat,13.0
+2016,20,São Paulo,Kevin Magnussen,14.0
+2016,20,São Paulo,Pascal Wehrlein,15.0
+2016,20,São Paulo,Jenson Button,16.0
+2016,20,São Paulo,Esteban Gutiérrez,17.0
+2016,20,São Paulo,Felipe Massa,18.0
+2016,20,São Paulo,Jolyon Palmer,19.0
+2016,20,São Paulo,Kimi Räikkönen,20.0
+2016,20,São Paulo,Marcus Ericsson,21.0
+2016,20,São Paulo,Romain Grosjean,22.0
+2016,21,Abu Dhabi,Lewis Hamilton,1.0
+2016,21,Abu Dhabi,Nico Rosberg,2.0
+2016,21,Abu Dhabi,Sebastian Vettel,3.0
+2016,21,Abu Dhabi,Max Verstappen,4.0
+2016,21,Abu Dhabi,Daniel Ricciardo,5.0
+2016,21,Abu Dhabi,Kimi Räikkönen,6.0
+2016,21,Abu Dhabi,Nico Hulkenberg,7.0
+2016,21,Abu Dhabi,Sergio Perez,8.0
+2016,21,Abu Dhabi,Felipe Massa,9.0
+2016,21,Abu Dhabi,Fernando Alonso,10.0
+2016,21,Abu Dhabi,Romain Grosjean,11.0
+2016,21,Abu Dhabi,Esteban Gutiérrez,12.0
+2016,21,Abu Dhabi,Esteban Ocon,13.0
+2016,21,Abu Dhabi,Pascal Wehrlein,14.0
+2016,21,Abu Dhabi,Marcus Ericsson,15.0
+2016,21,Abu Dhabi,Felipe Nasr,16.0
+2016,21,Abu Dhabi,Jolyon Palmer,17.0
+2016,21,Abu Dhabi,Carlos Sainz,18.0
+2016,21,Abu Dhabi,Daniil Kvyat,19.0
+2016,21,Abu Dhabi,Jenson Button,20.0
+2016,21,Abu Dhabi,Valtteri Bottas,21.0
+2016,21,Abu Dhabi,Kevin Magnussen,22.0
+2017,1,Melbourne,Sebastian Vettel,1.0
+2017,1,Melbourne,Lewis Hamilton,2.0
+2017,1,Melbourne,Valtteri Bottas,3.0
+2017,1,Melbourne,Kimi Räikkönen,4.0
+2017,1,Melbourne,Max Verstappen,5.0
+2017,1,Melbourne,Felipe Massa,6.0
+2017,1,Melbourne,Sergio Perez,7.0
+2017,1,Melbourne,Carlos Sainz,8.0
+2017,1,Melbourne,Daniil Kvyat,9.0
+2017,1,Melbourne,Esteban Ocon,10.0
+2017,1,Melbourne,Nico Hulkenberg,11.0
+2017,1,Melbourne,Antonio Giovinazzi,12.0
+2017,1,Melbourne,Stoffel Vandoorne,13.0
+2017,1,Melbourne,Fernando Alonso,14.0
+2017,1,Melbourne,Kevin Magnussen,15.0
+2017,1,Melbourne,Lance Stroll,16.0
+2017,1,Melbourne,Daniel Ricciardo,17.0
+2017,1,Melbourne,Marcus Ericsson,18.0
+2017,1,Melbourne,Jolyon Palmer,19.0
+2017,1,Melbourne,Romain Grosjean,20.0
+2017,2,Shanghai,Lewis Hamilton,1.0
+2017,2,Shanghai,Sebastian Vettel,2.0
+2017,2,Shanghai,Max Verstappen,3.0
+2017,2,Shanghai,Daniel Ricciardo,4.0
+2017,2,Shanghai,Kimi Räikkönen,5.0
+2017,2,Shanghai,Valtteri Bottas,6.0
+2017,2,Shanghai,Carlos Sainz,7.0
+2017,2,Shanghai,Kevin Magnussen,8.0
+2017,2,Shanghai,Sergio Perez,9.0
+2017,2,Shanghai,Esteban Ocon,10.0
+2017,2,Shanghai,Romain Grosjean,11.0
+2017,2,Shanghai,Nico Hulkenberg,12.0
+2017,2,Shanghai,Jolyon Palmer,13.0
+2017,2,Shanghai,Felipe Massa,14.0
+2017,2,Shanghai,Marcus Ericsson,15.0
+2017,2,Shanghai,Fernando Alonso,16.0
+2017,2,Shanghai,Daniil Kvyat,17.0
+2017,2,Shanghai,Stoffel Vandoorne,18.0
+2017,2,Shanghai,Antonio Giovinazzi,19.0
+2017,2,Shanghai,Lance Stroll,20.0
+2017,3,Sakhir,Sebastian Vettel,1.0
+2017,3,Sakhir,Lewis Hamilton,2.0
+2017,3,Sakhir,Valtteri Bottas,3.0
+2017,3,Sakhir,Kimi Räikkönen,4.0
+2017,3,Sakhir,Daniel Ricciardo,5.0
+2017,3,Sakhir,Felipe Massa,6.0
+2017,3,Sakhir,Sergio Perez,7.0
+2017,3,Sakhir,Romain Grosjean,8.0
+2017,3,Sakhir,Nico Hulkenberg,9.0
+2017,3,Sakhir,Esteban Ocon,10.0
+2017,3,Sakhir,Pascal Wehrlein,11.0
+2017,3,Sakhir,Daniil Kvyat,12.0
+2017,3,Sakhir,Jolyon Palmer,13.0
+2017,3,Sakhir,Fernando Alonso,14.0
+2017,3,Sakhir,Marcus Ericsson,15.0
+2017,3,Sakhir,Carlos Sainz,16.0
+2017,3,Sakhir,Lance Stroll,17.0
+2017,3,Sakhir,Max Verstappen,18.0
+2017,3,Sakhir,Kevin Magnussen,19.0
+2017,3,Sakhir,Stoffel Vandoorne,20.0
+2017,4,Sochi,Valtteri Bottas,1.0
+2017,4,Sochi,Sebastian Vettel,2.0
+2017,4,Sochi,Kimi Räikkönen,3.0
+2017,4,Sochi,Lewis Hamilton,4.0
+2017,4,Sochi,Max Verstappen,5.0
+2017,4,Sochi,Sergio Perez,6.0
+2017,4,Sochi,Esteban Ocon,7.0
+2017,4,Sochi,Nico Hulkenberg,8.0
+2017,4,Sochi,Felipe Massa,9.0
+2017,4,Sochi,Carlos Sainz,10.0
+2017,4,Sochi,Lance Stroll,11.0
+2017,4,Sochi,Daniil Kvyat,12.0
+2017,4,Sochi,Kevin Magnussen,13.0
+2017,4,Sochi,Stoffel Vandoorne,14.0
+2017,4,Sochi,Marcus Ericsson,15.0
+2017,4,Sochi,Pascal Wehrlein,16.0
+2017,4,Sochi,Daniel Ricciardo,17.0
+2017,4,Sochi,Jolyon Palmer,18.0
+2017,4,Sochi,Romain Grosjean,19.0
+2017,4,Sochi,Fernando Alonso,20.0
+2017,5,Barcelona,Lewis Hamilton,1.0
+2017,5,Barcelona,Sebastian Vettel,2.0
+2017,5,Barcelona,Daniel Ricciardo,3.0
+2017,5,Barcelona,Sergio Perez,4.0
+2017,5,Barcelona,Esteban Ocon,5.0
+2017,5,Barcelona,Nico Hulkenberg,6.0
+2017,5,Barcelona,Carlos Sainz,7.0
+2017,5,Barcelona,Pascal Wehrlein,8.0
+2017,5,Barcelona,Daniil Kvyat,9.0
+2017,5,Barcelona,Romain Grosjean,10.0
+2017,5,Barcelona,Marcus Ericsson,11.0
+2017,5,Barcelona,Fernando Alonso,12.0
+2017,5,Barcelona,Felipe Massa,13.0
+2017,5,Barcelona,Kevin Magnussen,14.0
+2017,5,Barcelona,Jolyon Palmer,15.0
+2017,5,Barcelona,Lance Stroll,16.0
+2017,5,Barcelona,Valtteri Bottas,17.0
+2017,5,Barcelona,Stoffel Vandoorne,18.0
+2017,5,Barcelona,Max Verstappen,19.0
+2017,5,Barcelona,Kimi Räikkönen,20.0
+2017,6,Monte Carlo,Sebastian Vettel,1.0
+2017,6,Monte Carlo,Kimi Räikkönen,2.0
+2017,6,Monte Carlo,Daniel Ricciardo,3.0
+2017,6,Monte Carlo,Valtteri Bottas,4.0
+2017,6,Monte Carlo,Max Verstappen,5.0
+2017,6,Monte Carlo,Carlos Sainz,6.0
+2017,6,Monte Carlo,Lewis Hamilton,7.0
+2017,6,Monte Carlo,Romain Grosjean,8.0
+2017,6,Monte Carlo,Felipe Massa,9.0
+2017,6,Monte Carlo,Kevin Magnussen,10.0
+2017,6,Monte Carlo,Jolyon Palmer,11.0
+2017,6,Monte Carlo,Esteban Ocon,12.0
+2017,6,Monte Carlo,Sergio Perez,13.0
+2017,6,Monte Carlo,Daniil Kvyat,14.0
+2017,6,Monte Carlo,Lance Stroll,15.0
+2017,6,Monte Carlo,Stoffel Vandoorne,16.0
+2017,6,Monte Carlo,Marcus Ericsson,17.0
+2017,6,Monte Carlo,Jenson Button,18.0
+2017,6,Monte Carlo,Pascal Wehrlein,19.0
+2017,6,Monte Carlo,Nico Hulkenberg,20.0
+2017,7,Montreal,Lewis Hamilton,1.0
+2017,7,Montreal,Valtteri Bottas,2.0
+2017,7,Montreal,Daniel Ricciardo,3.0
+2017,7,Montreal,Sebastian Vettel,4.0
+2017,7,Montreal,Sergio Perez,5.0
+2017,7,Montreal,Esteban Ocon,6.0
+2017,7,Montreal,Kimi Räikkönen,7.0
+2017,7,Montreal,Nico Hulkenberg,8.0
+2017,7,Montreal,Lance Stroll,9.0
+2017,7,Montreal,Romain Grosjean,10.0
+2017,7,Montreal,Jolyon Palmer,11.0
+2017,7,Montreal,Kevin Magnussen,12.0
+2017,7,Montreal,Marcus Ericsson,13.0
+2017,7,Montreal,Stoffel Vandoorne,14.0
+2017,7,Montreal,Pascal Wehrlein,15.0
+2017,7,Montreal,Fernando Alonso,16.0
+2017,7,Montreal,Daniil Kvyat,17.0
+2017,7,Montreal,Max Verstappen,18.0
+2017,7,Montreal,Felipe Massa,19.0
+2017,7,Montreal,Carlos Sainz,20.0
+2017,8,Baku,Daniel Ricciardo,1.0
+2017,8,Baku,Valtteri Bottas,2.0
+2017,8,Baku,Lance Stroll,3.0
+2017,8,Baku,Sebastian Vettel,4.0
+2017,8,Baku,Lewis Hamilton,5.0
+2017,8,Baku,Esteban Ocon,6.0
+2017,8,Baku,Kevin Magnussen,7.0
+2017,8,Baku,Carlos Sainz,8.0
+2017,8,Baku,Fernando Alonso,9.0
+2017,8,Baku,Pascal Wehrlein,10.0
+2017,8,Baku,Marcus Ericsson,11.0
+2017,8,Baku,Stoffel Vandoorne,12.0
+2017,8,Baku,Romain Grosjean,13.0
+2017,8,Baku,Kimi Räikkönen,14.0
+2017,8,Baku,Sergio Perez,15.0
+2017,8,Baku,Felipe Massa,16.0
+2017,8,Baku,Nico Hulkenberg,17.0
+2017,8,Baku,Max Verstappen,18.0
+2017,8,Baku,Daniil Kvyat,19.0
+2017,8,Baku,Jolyon Palmer,20.0
+2017,9,Spielberg,Valtteri Bottas,1.0
+2017,9,Spielberg,Sebastian Vettel,2.0
+2017,9,Spielberg,Daniel Ricciardo,3.0
+2017,9,Spielberg,Lewis Hamilton,4.0
+2017,9,Spielberg,Kimi Räikkönen,5.0
+2017,9,Spielberg,Romain Grosjean,6.0
+2017,9,Spielberg,Sergio Perez,7.0
+2017,9,Spielberg,Esteban Ocon,8.0
+2017,9,Spielberg,Felipe Massa,9.0
+2017,9,Spielberg,Lance Stroll,10.0
+2017,9,Spielberg,Jolyon Palmer,11.0
+2017,9,Spielberg,Stoffel Vandoorne,12.0
+2017,9,Spielberg,Nico Hulkenberg,13.0
+2017,9,Spielberg,Pascal Wehrlein,14.0
+2017,9,Spielberg,Marcus Ericsson,15.0
+2017,9,Spielberg,Daniil Kvyat,16.0
+2017,9,Spielberg,Carlos Sainz,17.0
+2017,9,Spielberg,Kevin Magnussen,18.0
+2017,9,Spielberg,Fernando Alonso,19.0
+2017,9,Spielberg,Max Verstappen,20.0
+2017,10,Silverstone,Lewis Hamilton,1.0
+2017,10,Silverstone,Valtteri Bottas,2.0
+2017,10,Silverstone,Kimi Räikkönen,3.0
+2017,10,Silverstone,Max Verstappen,4.0
+2017,10,Silverstone,Daniel Ricciardo,5.0
+2017,10,Silverstone,Nico Hulkenberg,6.0
+2017,10,Silverstone,Sebastian Vettel,7.0
+2017,10,Silverstone,Esteban Ocon,8.0
+2017,10,Silverstone,Sergio Perez,9.0
+2017,10,Silverstone,Felipe Massa,10.0
+2017,10,Silverstone,Stoffel Vandoorne,11.0
+2017,10,Silverstone,Kevin Magnussen,12.0
+2017,10,Silverstone,Romain Grosjean,13.0
+2017,10,Silverstone,Marcus Ericsson,14.0
+2017,10,Silverstone,Daniil Kvyat,15.0
+2017,10,Silverstone,Lance Stroll,16.0
+2017,10,Silverstone,Pascal Wehrlein,17.0
+2017,10,Silverstone,Fernando Alonso,18.0
+2017,10,Silverstone,Carlos Sainz,19.0
+2017,10,Silverstone,Jolyon Palmer,20.0
+2017,11,Budapest,Sebastian Vettel,1.0
+2017,11,Budapest,Kimi Räikkönen,2.0
+2017,11,Budapest,Valtteri Bottas,3.0
+2017,11,Budapest,Lewis Hamilton,4.0
+2017,11,Budapest,Max Verstappen,5.0
+2017,11,Budapest,Fernando Alonso,6.0
+2017,11,Budapest,Carlos Sainz,7.0
+2017,11,Budapest,Sergio Perez,8.0
+2017,11,Budapest,Esteban Ocon,9.0
+2017,11,Budapest,Stoffel Vandoorne,10.0
+2017,11,Budapest,Daniil Kvyat,11.0
+2017,11,Budapest,Jolyon Palmer,12.0
+2017,11,Budapest,Kevin Magnussen,13.0
+2017,11,Budapest,Lance Stroll,14.0
+2017,11,Budapest,Pascal Wehrlein,15.0
+2017,11,Budapest,Marcus Ericsson,16.0
+2017,11,Budapest,Nico Hulkenberg,17.0
+2017,11,Budapest,Paul di Resta,18.0
+2017,11,Budapest,Romain Grosjean,19.0
+2017,11,Budapest,Daniel Ricciardo,20.0
+2017,12,Spa,Lewis Hamilton,1.0
+2017,12,Spa,Sebastian Vettel,2.0
+2017,12,Spa,Daniel Ricciardo,3.0
+2017,12,Spa,Kimi Räikkönen,4.0
+2017,12,Spa,Valtteri Bottas,5.0
+2017,12,Spa,Nico Hulkenberg,6.0
+2017,12,Spa,Romain Grosjean,7.0
+2017,12,Spa,Felipe Massa,8.0
+2017,12,Spa,Esteban Ocon,9.0
+2017,12,Spa,Carlos Sainz,10.0
+2017,12,Spa,Lance Stroll,11.0
+2017,12,Spa,Daniil Kvyat,12.0
+2017,12,Spa,Jolyon Palmer,13.0
+2017,12,Spa,Stoffel Vandoorne,14.0
+2017,12,Spa,Kevin Magnussen,15.0
+2017,12,Spa,Marcus Ericsson,16.0
+2017,12,Spa,Sergio Perez,17.0
+2017,12,Spa,Fernando Alonso,18.0
+2017,12,Spa,Max Verstappen,19.0
+2017,12,Spa,Pascal Wehrlein,20.0
+2017,13,Monza,Lewis Hamilton,1.0
+2017,13,Monza,Valtteri Bottas,2.0
+2017,13,Monza,Sebastian Vettel,3.0
+2017,13,Monza,Daniel Ricciardo,4.0
+2017,13,Monza,Kimi Räikkönen,5.0
+2017,13,Monza,Esteban Ocon,6.0
+2017,13,Monza,Lance Stroll,7.0
+2017,13,Monza,Felipe Massa,8.0
+2017,13,Monza,Sergio Perez,9.0
+2017,13,Monza,Max Verstappen,10.0
+2017,13,Monza,Kevin Magnussen,11.0
+2017,13,Monza,Daniil Kvyat,12.0
+2017,13,Monza,Nico Hulkenberg,13.0
+2017,13,Monza,Carlos Sainz,14.0
+2017,13,Monza,Romain Grosjean,15.0
+2017,13,Monza,Pascal Wehrlein,16.0
+2017,13,Monza,Fernando Alonso,17.0
+2017,13,Monza,Marcus Ericsson,18.0
+2017,13,Monza,Stoffel Vandoorne,19.0
+2017,13,Monza,Jolyon Palmer,20.0
+2017,14,Marina Bay,Lewis Hamilton,1.0
+2017,14,Marina Bay,Daniel Ricciardo,2.0
+2017,14,Marina Bay,Valtteri Bottas,3.0
+2017,14,Marina Bay,Carlos Sainz,4.0
+2017,14,Marina Bay,Sergio Perez,5.0
+2017,14,Marina Bay,Jolyon Palmer,6.0
+2017,14,Marina Bay,Stoffel Vandoorne,7.0
+2017,14,Marina Bay,Lance Stroll,8.0
+2017,14,Marina Bay,Romain Grosjean,9.0
+2017,14,Marina Bay,Esteban Ocon,10.0
+2017,14,Marina Bay,Felipe Massa,11.0
+2017,14,Marina Bay,Pascal Wehrlein,12.0
+2017,14,Marina Bay,Kevin Magnussen,13.0
+2017,14,Marina Bay,Nico Hulkenberg,14.0
+2017,14,Marina Bay,Marcus Ericsson,15.0
+2017,14,Marina Bay,Daniil Kvyat,16.0
+2017,14,Marina Bay,Fernando Alonso,17.0
+2017,14,Marina Bay,Sebastian Vettel,18.0
+2017,14,Marina Bay,Max Verstappen,19.0
+2017,14,Marina Bay,Kimi Räikkönen,20.0
+2017,15,Kuala Lumpur,Max Verstappen,1.0
+2017,15,Kuala Lumpur,Lewis Hamilton,2.0
+2017,15,Kuala Lumpur,Daniel Ricciardo,3.0
+2017,15,Kuala Lumpur,Sebastian Vettel,4.0
+2017,15,Kuala Lumpur,Valtteri Bottas,5.0
+2017,15,Kuala Lumpur,Sergio Perez,6.0
+2017,15,Kuala Lumpur,Stoffel Vandoorne,7.0
+2017,15,Kuala Lumpur,Lance Stroll,8.0
+2017,15,Kuala Lumpur,Felipe Massa,9.0
+2017,15,Kuala Lumpur,Esteban Ocon,10.0
+2017,15,Kuala Lumpur,Fernando Alonso,11.0
+2017,15,Kuala Lumpur,Kevin Magnussen,12.0
+2017,15,Kuala Lumpur,Romain Grosjean,13.0
+2017,15,Kuala Lumpur,Pierre Gasly,14.0
+2017,15,Kuala Lumpur,Jolyon Palmer,15.0
+2017,15,Kuala Lumpur,Nico Hulkenberg,16.0
+2017,15,Kuala Lumpur,Pascal Wehrlein,17.0
+2017,15,Kuala Lumpur,Marcus Ericsson,18.0
+2017,15,Kuala Lumpur,Carlos Sainz,19.0
+2017,15,Kuala Lumpur,Kimi Räikkönen,20.0
+2017,16,Suzuka,Lewis Hamilton,1.0
+2017,16,Suzuka,Max Verstappen,2.0
+2017,16,Suzuka,Daniel Ricciardo,3.0
+2017,16,Suzuka,Valtteri Bottas,4.0
+2017,16,Suzuka,Kimi Räikkönen,5.0
+2017,16,Suzuka,Esteban Ocon,6.0
+2017,16,Suzuka,Sergio Perez,7.0
+2017,16,Suzuka,Kevin Magnussen,8.0
+2017,16,Suzuka,Romain Grosjean,9.0
+2017,16,Suzuka,Felipe Massa,10.0
+2017,16,Suzuka,Fernando Alonso,11.0
+2017,16,Suzuka,Jolyon Palmer,12.0
+2017,16,Suzuka,Pierre Gasly,13.0
+2017,16,Suzuka,Stoffel Vandoorne,14.0
+2017,16,Suzuka,Pascal Wehrlein,15.0
+2017,16,Suzuka,Lance Stroll,16.0
+2017,16,Suzuka,Nico Hulkenberg,17.0
+2017,16,Suzuka,Marcus Ericsson,18.0
+2017,16,Suzuka,Sebastian Vettel,19.0
+2017,16,Suzuka,Carlos Sainz,20.0
+2017,17,Austin,Lewis Hamilton,1.0
+2017,17,Austin,Sebastian Vettel,2.0
+2017,17,Austin,Kimi Räikkönen,3.0
+2017,17,Austin,Max Verstappen,4.0
+2017,17,Austin,Valtteri Bottas,5.0
+2017,17,Austin,Esteban Ocon,6.0
+2017,17,Austin,Carlos Sainz,7.0
+2017,17,Austin,Sergio Perez,8.0
+2017,17,Austin,Felipe Massa,9.0
+2017,17,Austin,Daniil Kvyat,10.0
+2017,17,Austin,Lance Stroll,11.0
+2017,17,Austin,Stoffel Vandoorne,12.0
+2017,17,Austin,Brendon Hartley,13.0
+2017,17,Austin,Romain Grosjean,14.0
+2017,17,Austin,Marcus Ericsson,15.0
+2017,17,Austin,Kevin Magnussen,16.0
+2017,17,Austin,Fernando Alonso,17.0
+2017,17,Austin,Daniel Ricciardo,18.0
+2017,17,Austin,Pascal Wehrlein,19.0
+2017,17,Austin,Nico Hulkenberg,20.0
+2017,18,Mexico City,Max Verstappen,1.0
+2017,18,Mexico City,Valtteri Bottas,2.0
+2017,18,Mexico City,Kimi Räikkönen,3.0
+2017,18,Mexico City,Sebastian Vettel,4.0
+2017,18,Mexico City,Esteban Ocon,5.0
+2017,18,Mexico City,Lance Stroll,6.0
+2017,18,Mexico City,Sergio Perez,7.0
+2017,18,Mexico City,Kevin Magnussen,8.0
+2017,18,Mexico City,Lewis Hamilton,9.0
+2017,18,Mexico City,Fernando Alonso,10.0
+2017,18,Mexico City,Felipe Massa,11.0
+2017,18,Mexico City,Stoffel Vandoorne,12.0
+2017,18,Mexico City,Pierre Gasly,13.0
+2017,18,Mexico City,Pascal Wehrlein,14.0
+2017,18,Mexico City,Romain Grosjean,15.0
+2017,18,Mexico City,Carlos Sainz,16.0
+2017,18,Mexico City,Marcus Ericsson,17.0
+2017,18,Mexico City,Brendon Hartley,18.0
+2017,18,Mexico City,Nico Hulkenberg,19.0
+2017,18,Mexico City,Daniel Ricciardo,20.0
+2017,19,São Paulo,Sebastian Vettel,1.0
+2017,19,São Paulo,Valtteri Bottas,2.0
+2017,19,São Paulo,Kimi Räikkönen,3.0
+2017,19,São Paulo,Lewis Hamilton,4.0
+2017,19,São Paulo,Max Verstappen,5.0
+2017,19,São Paulo,Daniel Ricciardo,6.0
+2017,19,São Paulo,Felipe Massa,7.0
+2017,19,São Paulo,Fernando Alonso,8.0
+2017,19,São Paulo,Sergio Perez,9.0
+2017,19,São Paulo,Nico Hulkenberg,10.0
+2017,19,São Paulo,Carlos Sainz,11.0
+2017,19,São Paulo,Pierre Gasly,12.0
+2017,19,São Paulo,Marcus Ericsson,13.0
+2017,19,São Paulo,Pascal Wehrlein,14.0
+2017,19,São Paulo,Romain Grosjean,15.0
+2017,19,São Paulo,Lance Stroll,16.0
+2017,19,São Paulo,Brendon Hartley,17.0
+2017,19,São Paulo,Esteban Ocon,18.0
+2017,19,São Paulo,Stoffel Vandoorne,19.0
+2017,19,São Paulo,Kevin Magnussen,20.0
+2017,20,Abu Dhabi,Valtteri Bottas,1.0
+2017,20,Abu Dhabi,Lewis Hamilton,2.0
+2017,20,Abu Dhabi,Sebastian Vettel,3.0
+2017,20,Abu Dhabi,Kimi Räikkönen,4.0
+2017,20,Abu Dhabi,Max Verstappen,5.0
+2017,20,Abu Dhabi,Nico Hulkenberg,6.0
+2017,20,Abu Dhabi,Sergio Perez,7.0
+2017,20,Abu Dhabi,Esteban Ocon,8.0
+2017,20,Abu Dhabi,Fernando Alonso,9.0
+2017,20,Abu Dhabi,Felipe Massa,10.0
+2017,20,Abu Dhabi,Romain Grosjean,11.0
+2017,20,Abu Dhabi,Stoffel Vandoorne,12.0
+2017,20,Abu Dhabi,Kevin Magnussen,13.0
+2017,20,Abu Dhabi,Pascal Wehrlein,14.0
+2017,20,Abu Dhabi,Brendon Hartley,15.0
+2017,20,Abu Dhabi,Pierre Gasly,16.0
+2017,20,Abu Dhabi,Marcus Ericsson,17.0
+2017,20,Abu Dhabi,Lance Stroll,18.0
+2017,20,Abu Dhabi,Carlos Sainz,19.0
+2017,20,Abu Dhabi,Daniel Ricciardo,20.0

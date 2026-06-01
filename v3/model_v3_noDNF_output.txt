@@ -1,0 +1,285 @@
+Training races : 138
+Test races     : 35
+Training rows  : 2755  |  Test rows: 700
+DNF rows downweighted in training: 650 (23.6%)
+
+── Tuning Random Forest ──
+Fitting 5 folds for each of 50 candidates, totalling 250 fits
+
+Best parameters: {'n_estimators': 200, 'min_samples_split': 5, 'min_samples_leaf': 4, 'max_features': None, 'max_depth': 5}
+Best cross validated R2: 0.451
+
+── Tuning XGBoost ──
+Best XGB params : {'subsample': 1.0, 'n_estimators': 300, 'min_child_weight': 5, 'max_depth': 3, 'learning_rate': 0.01, 'gamma': 0.3, 'colsample_bytree': 0.6}
+Best XGB CV R²  : 0.605
+Fitting 5 folds for each of 40 candidates, totalling 200 fits
+Best MLP params : {'mlp__validation_fraction': 0.1, 'mlp__max_iter': 500, 'mlp__learning_rate_init': 0.001, 'mlp__hidden_layer_sizes': (128,), 'mlp__early_stopping': True, 'mlp__alpha': 0.001, 'mlp__activation': 'tanh'}
+Best MLP CV R²  : 0.458
+
+── Searching ensemble weights ──
+  RF=0.05 / XGB=0.05 / MLP=0.90  →  median ρ=0.888  MAE=2.384  R²=0.588  ρ>0.5: 34/35
+  RF=0.05 / XGB=0.10 / MLP=0.85  →  median ρ=0.888  MAE=2.377  R²=0.592  ρ>0.5: 34/35
+  RF=0.05 / XGB=0.15 / MLP=0.80  →  median ρ=0.890  MAE=2.373  R²=0.592  ρ>0.5: 34/35
+  RF=0.05 / XGB=0.20 / MLP=0.75  →  median ρ=0.886  MAE=2.392  R²=0.587  ρ>0.5: 34/35
+  RF=0.05 / XGB=0.25 / MLP=0.70  →  median ρ=0.882  MAE=2.390  R²=0.585  ρ>0.5: 34/35
+  RF=0.05 / XGB=0.30 / MLP=0.65  →  median ρ=0.882  MAE=2.390  R²=0.589  ρ>0.5: 33/35
+  RF=0.05 / XGB=0.35 / MLP=0.60  →  median ρ=0.882  MAE=2.384  R²=0.588  ρ>0.5: 33/35
+  RF=0.05 / XGB=0.40 / MLP=0.55  →  median ρ=0.882  MAE=2.379  R²=0.589  ρ>0.5: 33/35
+  RF=0.05 / XGB=0.45 / MLP=0.50  →  median ρ=0.883  MAE=2.372  R²=0.591  ρ>0.5: 33/35
+  RF=0.05 / XGB=0.50 / MLP=0.45  →  median ρ=0.883  MAE=2.370  R²=0.592  ρ>0.5: 33/35
+  RF=0.05 / XGB=0.55 / MLP=0.40  →  median ρ=0.883  MAE=2.377  R²=0.591  ρ>0.5: 33/35
+  RF=0.05 / XGB=0.60 / MLP=0.35  →  median ρ=0.883  MAE=2.366  R²=0.592  ρ>0.5: 33/35
+  RF=0.05 / XGB=0.65 / MLP=0.30  →  median ρ=0.881  MAE=2.366  R²=0.592  ρ>0.5: 33/35
+  RF=0.05 / XGB=0.70 / MLP=0.25  →  median ρ=0.881  MAE=2.379  R²=0.588  ρ>0.5: 33/35
+  RF=0.05 / XGB=0.75 / MLP=0.20  →  median ρ=0.877  MAE=2.375  R²=0.588  ρ>0.5: 33/35
+  RF=0.05 / XGB=0.80 / MLP=0.15  →  median ρ=0.877  MAE=2.370  R²=0.586  ρ>0.5: 33/35
+  RF=0.05 / XGB=0.85 / MLP=0.10  →  median ρ=0.877  MAE=2.397  R²=0.579  ρ>0.5: 32/35
+  RF=0.05 / XGB=0.90 / MLP=0.05  →  median ρ=0.877  MAE=2.405  R²=0.576  ρ>0.5: 32/35
+  RF=0.10 / XGB=0.05 / MLP=0.85  →  median ρ=0.888  MAE=2.372  R²=0.591  ρ>0.5: 34/35
+  RF=0.10 / XGB=0.10 / MLP=0.80  →  median ρ=0.886  MAE=2.377  R²=0.592  ρ>0.5: 34/35
+  RF=0.10 / XGB=0.15 / MLP=0.75  →  median ρ=0.882  MAE=2.388  R²=0.588  ρ>0.5: 34/35
+  RF=0.10 / XGB=0.20 / MLP=0.70  →  median ρ=0.882  MAE=2.401  R²=0.584  ρ>0.5: 33/35
+  RF=0.10 / XGB=0.25 / MLP=0.65  →  median ρ=0.882  MAE=2.394  R²=0.588  ρ>0.5: 33/35
+  RF=0.10 / XGB=0.30 / MLP=0.60  →  median ρ=0.879  MAE=2.375  R²=0.590  ρ>0.5: 33/35
+  RF=0.10 / XGB=0.35 / MLP=0.55  →  median ρ=0.883  MAE=2.377  R²=0.590  ρ>0.5: 33/35
+  RF=0.10 / XGB=0.40 / MLP=0.50  →  median ρ=0.883  MAE=2.381  R²=0.589  ρ>0.5: 33/35
+  RF=0.10 / XGB=0.45 / MLP=0.45  →  median ρ=0.883  MAE=2.370  R²=0.593  ρ>0.5: 33/35
+  RF=0.10 / XGB=0.50 / MLP=0.40  →  median ρ=0.883  MAE=2.372  R²=0.591  ρ>0.5: 33/35
+  RF=0.10 / XGB=0.55 / MLP=0.35  →  median ρ=0.878  MAE=2.373  R²=0.590  ρ>0.5: 33/35
+  RF=0.10 / XGB=0.60 / MLP=0.30  →  median ρ=0.881  MAE=2.370  R²=0.591  ρ>0.5: 33/35
+  RF=0.10 / XGB=0.65 / MLP=0.25  →  median ρ=0.877  MAE=2.377  R²=0.587  ρ>0.5: 33/35
+  RF=0.10 / XGB=0.70 / MLP=0.20  →  median ρ=0.877  MAE=2.379  R²=0.585  ρ>0.5: 32/35
+  RF=0.10 / XGB=0.75 / MLP=0.15  →  median ρ=0.877  MAE=2.383  R²=0.583  ρ>0.5: 32/35
+  RF=0.10 / XGB=0.80 / MLP=0.10  →  median ρ=0.877  MAE=2.386  R²=0.580  ρ>0.5: 32/35
+  RF=0.10 / XGB=0.85 / MLP=0.05  →  median ρ=0.877  MAE=2.405  R²=0.577  ρ>0.5: 32/35
+  RF=0.15 / XGB=0.05 / MLP=0.80  →  median ρ=0.886  MAE=2.381  R²=0.590  ρ>0.5: 34/35
+  RF=0.15 / XGB=0.10 / MLP=0.75  →  median ρ=0.882  MAE=2.383  R²=0.589  ρ>0.5: 34/35
+  RF=0.15 / XGB=0.15 / MLP=0.70  →  median ρ=0.879  MAE=2.397  R²=0.586  ρ>0.5: 33/35
+  RF=0.15 / XGB=0.20 / MLP=0.65  →  median ρ=0.879  MAE=2.386  R²=0.589  ρ>0.5: 33/35
+  RF=0.15 / XGB=0.25 / MLP=0.60  →  median ρ=0.879  MAE=2.372  R²=0.592  ρ>0.5: 33/35
+  RF=0.15 / XGB=0.30 / MLP=0.55  →  median ρ=0.883  MAE=2.372  R²=0.591  ρ>0.5: 33/35
+  RF=0.15 / XGB=0.35 / MLP=0.50  →  median ρ=0.883  MAE=2.377  R²=0.590  ρ>0.5: 33/35
+  RF=0.15 / XGB=0.40 / MLP=0.45  →  median ρ=0.883  MAE=2.368  R²=0.593  ρ>0.5: 33/35
+  RF=0.15 / XGB=0.45 / MLP=0.40  →  median ρ=0.877  MAE=2.372  R²=0.591  ρ>0.5: 33/35
+  RF=0.15 / XGB=0.50 / MLP=0.35  →  median ρ=0.877  MAE=2.372  R²=0.592  ρ>0.5: 33/35
+  RF=0.15 / XGB=0.55 / MLP=0.30  →  median ρ=0.877  MAE=2.368  R²=0.591  ρ>0.5: 33/35
+  RF=0.15 / XGB=0.60 / MLP=0.25  →  median ρ=0.877  MAE=2.386  R²=0.584  ρ>0.5: 32/35
+  RF=0.15 / XGB=0.65 / MLP=0.20  →  median ρ=0.877  MAE=2.381  R²=0.585  ρ>0.5: 32/35
+  RF=0.15 / XGB=0.70 / MLP=0.15  →  median ρ=0.877  MAE=2.381  R²=0.584  ρ>0.5: 32/35
+  RF=0.15 / XGB=0.75 / MLP=0.10  →  median ρ=0.877  MAE=2.390  R²=0.579  ρ>0.5: 32/35
+  RF=0.15 / XGB=0.80 / MLP=0.05  →  median ρ=0.877  MAE=2.405  R²=0.575  ρ>0.5: 32/35
+  RF=0.20 / XGB=0.05 / MLP=0.75  →  median ρ=0.881  MAE=2.379  R²=0.591  ρ>0.5: 33/35
+  RF=0.20 / XGB=0.10 / MLP=0.70  →  median ρ=0.879  MAE=2.386  R²=0.590  ρ>0.5: 33/35
+  RF=0.20 / XGB=0.15 / MLP=0.65  →  median ρ=0.879  MAE=2.383  R²=0.590  ρ>0.5: 33/35
+  RF=0.20 / XGB=0.20 / MLP=0.60  →  median ρ=0.879  MAE=2.381  R²=0.591  ρ>0.5: 33/35
+  RF=0.20 / XGB=0.25 / MLP=0.55  →  median ρ=0.879  MAE=2.383  R²=0.590  ρ>0.5: 33/35
+  RF=0.20 / XGB=0.30 / MLP=0.50  →  median ρ=0.878  MAE=2.384  R²=0.591  ρ>0.5: 33/35
+  RF=0.20 / XGB=0.35 / MLP=0.45  →  median ρ=0.877  MAE=2.377  R²=0.589  ρ>0.5: 33/35
+  RF=0.20 / XGB=0.40 / MLP=0.40  →  median ρ=0.877  MAE=2.368  R²=0.593  ρ>0.5: 33/35
+  RF=0.20 / XGB=0.45 / MLP=0.35  →  median ρ=0.876  MAE=2.373  R²=0.591  ρ>0.5: 33/35
+  RF=0.20 / XGB=0.50 / MLP=0.30  →  median ρ=0.877  MAE=2.372  R²=0.591  ρ>0.5: 32/35
+  RF=0.20 / XGB=0.55 / MLP=0.25  →  median ρ=0.877  MAE=2.386  R²=0.583  ρ>0.5: 32/35
+  RF=0.20 / XGB=0.60 / MLP=0.20  →  median ρ=0.877  MAE=2.388  R²=0.583  ρ>0.5: 32/35
+  RF=0.20 / XGB=0.65 / MLP=0.15  →  median ρ=0.877  MAE=2.384  R²=0.584  ρ>0.5: 32/35
+  RF=0.20 / XGB=0.70 / MLP=0.10  →  median ρ=0.877  MAE=2.394  R²=0.580  ρ>0.5: 32/35
+  RF=0.20 / XGB=0.75 / MLP=0.05  →  median ρ=0.877  MAE=2.399  R²=0.576  ρ>0.5: 32/35
+  RF=0.25 / XGB=0.05 / MLP=0.70  →  median ρ=0.879  MAE=2.384  R²=0.591  ρ>0.5: 33/35
+  RF=0.25 / XGB=0.10 / MLP=0.65  →  median ρ=0.879  MAE=2.379  R²=0.592  ρ>0.5: 33/35
+  RF=0.25 / XGB=0.15 / MLP=0.60  →  median ρ=0.877  MAE=2.396  R²=0.588  ρ>0.5: 33/35
+  RF=0.25 / XGB=0.20 / MLP=0.55  →  median ρ=0.875  MAE=2.390  R²=0.589  ρ>0.5: 33/35
+  RF=0.25 / XGB=0.25 / MLP=0.50  →  median ρ=0.877  MAE=2.379  R²=0.591  ρ>0.5: 33/35
+  RF=0.25 / XGB=0.30 / MLP=0.45  →  median ρ=0.876  MAE=2.375  R²=0.590  ρ>0.5: 33/35
+  RF=0.25 / XGB=0.35 / MLP=0.40  →  median ρ=0.867  MAE=2.381  R²=0.589  ρ>0.5: 32/35
+  RF=0.25 / XGB=0.40 / MLP=0.35  →  median ρ=0.877  MAE=2.373  R²=0.591  ρ>0.5: 32/35
+  RF=0.25 / XGB=0.45 / MLP=0.30  →  median ρ=0.877  MAE=2.379  R²=0.587  ρ>0.5: 32/35
+  RF=0.25 / XGB=0.50 / MLP=0.25  →  median ρ=0.877  MAE=2.386  R²=0.583  ρ>0.5: 32/35
+  RF=0.25 / XGB=0.55 / MLP=0.20  →  median ρ=0.877  MAE=2.386  R²=0.583  ρ>0.5: 32/35
+  RF=0.25 / XGB=0.60 / MLP=0.15  →  median ρ=0.877  MAE=2.383  R²=0.583  ρ>0.5: 32/35
+  RF=0.25 / XGB=0.65 / MLP=0.10  →  median ρ=0.877  MAE=2.390  R²=0.581  ρ>0.5: 32/35
+  RF=0.25 / XGB=0.70 / MLP=0.05  →  median ρ=0.877  MAE=2.401  R²=0.576  ρ>0.5: 32/35
+  RF=0.30 / XGB=0.05 / MLP=0.65  →  median ρ=0.877  MAE=2.383  R²=0.592  ρ>0.5: 33/35
+  RF=0.30 / XGB=0.10 / MLP=0.60  →  median ρ=0.877  MAE=2.390  R²=0.589  ρ>0.5: 33/35
+  RF=0.30 / XGB=0.15 / MLP=0.55  →  median ρ=0.874  MAE=2.384  R²=0.590  ρ>0.5: 33/35
+  RF=0.30 / XGB=0.20 / MLP=0.50  →  median ρ=0.868  MAE=2.381  R²=0.591  ρ>0.5: 33/35
+  RF=0.30 / XGB=0.25 / MLP=0.45  →  median ρ=0.868  MAE=2.383  R²=0.590  ρ>0.5: 33/35
+  RF=0.30 / XGB=0.30 / MLP=0.40  →  median ρ=0.865  MAE=2.384  R²=0.587  ρ>0.5: 32/35
+  RF=0.30 / XGB=0.35 / MLP=0.35  →  median ρ=0.865  MAE=2.366  R²=0.591  ρ>0.5: 32/35
+  RF=0.30 / XGB=0.40 / MLP=0.30  →  median ρ=0.877  MAE=2.370  R²=0.590  ρ>0.5: 32/35
+  RF=0.30 / XGB=0.45 / MLP=0.25  →  median ρ=0.877  MAE=2.379  R²=0.585  ρ>0.5: 32/35
+  RF=0.30 / XGB=0.50 / MLP=0.20  →  median ρ=0.877  MAE=2.375  R²=0.585  ρ>0.5: 32/35
+  RF=0.30 / XGB=0.55 / MLP=0.15  →  median ρ=0.877  MAE=2.383  R²=0.583  ρ>0.5: 32/35
+  RF=0.30 / XGB=0.60 / MLP=0.10  →  median ρ=0.877  MAE=2.390  R²=0.581  ρ>0.5: 32/35
+  RF=0.30 / XGB=0.65 / MLP=0.05  →  median ρ=0.877  MAE=2.410  R²=0.574  ρ>0.5: 32/35
+  RF=0.35 / XGB=0.05 / MLP=0.60  →  median ρ=0.868  MAE=2.397  R²=0.588  ρ>0.5: 33/35
+  RF=0.35 / XGB=0.10 / MLP=0.55  →  median ρ=0.868  MAE=2.394  R²=0.589  ρ>0.5: 33/35
+  RF=0.35 / XGB=0.15 / MLP=0.50  →  median ρ=0.868  MAE=2.394  R²=0.589  ρ>0.5: 33/35
+  RF=0.35 / XGB=0.20 / MLP=0.45  →  median ρ=0.864  MAE=2.388  R²=0.588  ρ>0.5: 32/35
+  RF=0.35 / XGB=0.25 / MLP=0.40  →  median ρ=0.867  MAE=2.373  R²=0.589  ρ>0.5: 32/35
+  RF=0.35 / XGB=0.30 / MLP=0.35  →  median ρ=0.875  MAE=2.368  R²=0.588  ρ>0.5: 32/35
+  RF=0.35 / XGB=0.35 / MLP=0.30  →  median ρ=0.875  MAE=2.375  R²=0.587  ρ>0.5: 32/35
+  RF=0.35 / XGB=0.40 / MLP=0.25  →  median ρ=0.875  MAE=2.379  R²=0.585  ρ>0.5: 32/35
+  RF=0.35 / XGB=0.45 / MLP=0.20  →  median ρ=0.877  MAE=2.373  R²=0.586  ρ>0.5: 32/35
+  RF=0.35 / XGB=0.50 / MLP=0.15  →  median ρ=0.877  MAE=2.390  R²=0.581  ρ>0.5: 32/35
+  RF=0.35 / XGB=0.55 / MLP=0.10  →  median ρ=0.877  MAE=2.401  R²=0.580  ρ>0.5: 32/35
+  RF=0.35 / XGB=0.60 / MLP=0.05  →  median ρ=0.877  MAE=2.414  R²=0.573  ρ>0.5: 32/35
+  RF=0.40 / XGB=0.05 / MLP=0.55  →  median ρ=0.873  MAE=2.392  R²=0.589  ρ>0.5: 33/35
+  RF=0.40 / XGB=0.10 / MLP=0.50  →  median ρ=0.873  MAE=2.388  R²=0.589  ρ>0.5: 33/35
+  RF=0.40 / XGB=0.15 / MLP=0.45  →  median ρ=0.868  MAE=2.381  R²=0.590  ρ>0.5: 32/35
+  RF=0.40 / XGB=0.20 / MLP=0.40  →  median ρ=0.874  MAE=2.372  R²=0.589  ρ>0.5: 32/35
+  RF=0.40 / XGB=0.25 / MLP=0.35  →  median ρ=0.875  MAE=2.372  R²=0.588  ρ>0.5: 32/35
+  RF=0.40 / XGB=0.30 / MLP=0.30  →  median ρ=0.875  MAE=2.373  R²=0.587  ρ>0.5: 32/35
+  RF=0.40 / XGB=0.35 / MLP=0.25  →  median ρ=0.875  MAE=2.377  R²=0.586  ρ>0.5: 32/35
+  RF=0.40 / XGB=0.40 / MLP=0.20  →  median ρ=0.875  MAE=2.375  R²=0.585  ρ>0.5: 32/35
+  RF=0.40 / XGB=0.45 / MLP=0.15  →  median ρ=0.871  MAE=2.409  R²=0.579  ρ>0.5: 32/35
+  RF=0.40 / XGB=0.50 / MLP=0.10  →  median ρ=0.874  MAE=2.412  R²=0.577  ρ>0.5: 32/35
+  RF=0.40 / XGB=0.55 / MLP=0.05  →  median ρ=0.867  MAE=2.431  R²=0.572  ρ>0.5: 32/35
+  RF=0.45 / XGB=0.05 / MLP=0.50  →  median ρ=0.868  MAE=2.396  R²=0.588  ρ>0.5: 33/35
+  RF=0.45 / XGB=0.10 / MLP=0.45  →  median ρ=0.868  MAE=2.384  R²=0.589  ρ>0.5: 32/35
+  RF=0.45 / XGB=0.15 / MLP=0.40  →  median ρ=0.874  MAE=2.388  R²=0.586  ρ>0.5: 32/35
+  RF=0.45 / XGB=0.20 / MLP=0.35  →  median ρ=0.874  MAE=2.377  R²=0.586  ρ>0.5: 32/35
+  RF=0.45 / XGB=0.25 / MLP=0.30  →  median ρ=0.875  MAE=2.383  R²=0.583  ρ>0.5: 32/35
+  RF=0.45 / XGB=0.30 / MLP=0.25  →  median ρ=0.875  MAE=2.381  R²=0.584  ρ>0.5: 32/35
+  RF=0.45 / XGB=0.35 / MLP=0.20  →  median ρ=0.871  MAE=2.390  R²=0.583  ρ>0.5: 32/35
+  RF=0.45 / XGB=0.40 / MLP=0.15  →  median ρ=0.871  MAE=2.412  R²=0.577  ρ>0.5: 32/35
+  RF=0.45 / XGB=0.45 / MLP=0.10  →  median ρ=0.865  MAE=2.427  R²=0.574  ρ>0.5: 32/35
+  RF=0.45 / XGB=0.50 / MLP=0.05  →  median ρ=0.864  MAE=2.433  R²=0.573  ρ>0.5: 32/35
+  RF=0.50 / XGB=0.05 / MLP=0.45  →  median ρ=0.874  MAE=2.386  R²=0.589  ρ>0.5: 32/35
+  RF=0.50 / XGB=0.10 / MLP=0.40  →  median ρ=0.874  MAE=2.392  R²=0.586  ρ>0.5: 32/35
+  RF=0.50 / XGB=0.15 / MLP=0.35  →  median ρ=0.871  MAE=2.390  R²=0.586  ρ>0.5: 32/35
+  RF=0.50 / XGB=0.20 / MLP=0.30  →  median ρ=0.871  MAE=2.390  R²=0.582  ρ>0.5: 32/35
+  RF=0.50 / XGB=0.25 / MLP=0.25  →  median ρ=0.865  MAE=2.392  R²=0.581  ρ>0.5: 32/35
+  RF=0.50 / XGB=0.30 / MLP=0.20  →  median ρ=0.871  MAE=2.396  R²=0.583  ρ>0.5: 32/35
+  RF=0.50 / XGB=0.35 / MLP=0.15  →  median ρ=0.871  MAE=2.412  R²=0.578  ρ>0.5: 32/35
+  RF=0.50 / XGB=0.40 / MLP=0.10  →  median ρ=0.865  MAE=2.420  R²=0.575  ρ>0.5: 32/35
+  RF=0.50 / XGB=0.45 / MLP=0.05  →  median ρ=0.864  MAE=2.427  R²=0.572  ρ>0.5: 32/35
+  RF=0.55 / XGB=0.05 / MLP=0.40  →  median ρ=0.871  MAE=2.396  R²=0.586  ρ>0.5: 32/35
+  RF=0.55 / XGB=0.10 / MLP=0.35  →  median ρ=0.871  MAE=2.394  R²=0.585  ρ>0.5: 32/35
+  RF=0.55 / XGB=0.15 / MLP=0.30  →  median ρ=0.865  MAE=2.383  R²=0.582  ρ>0.5: 32/35
+  RF=0.55 / XGB=0.20 / MLP=0.25  →  median ρ=0.865  MAE=2.392  R²=0.582  ρ>0.5: 32/35
+  RF=0.55 / XGB=0.25 / MLP=0.20  →  median ρ=0.871  MAE=2.403  R²=0.583  ρ>0.5: 32/35
+  RF=0.55 / XGB=0.30 / MLP=0.15  →  median ρ=0.865  MAE=2.405  R²=0.580  ρ>0.5: 32/35
+  RF=0.55 / XGB=0.35 / MLP=0.10  →  median ρ=0.864  MAE=2.421  R²=0.575  ρ>0.5: 32/35
+  RF=0.55 / XGB=0.40 / MLP=0.05  →  median ρ=0.864  MAE=2.427  R²=0.573  ρ>0.5: 32/35
+  RF=0.60 / XGB=0.05 / MLP=0.35  →  median ρ=0.868  MAE=2.392  R²=0.584  ρ>0.5: 32/35
+  RF=0.60 / XGB=0.10 / MLP=0.30  →  median ρ=0.865  MAE=2.394  R²=0.582  ρ>0.5: 32/35
+  RF=0.60 / XGB=0.15 / MLP=0.25  →  median ρ=0.865  MAE=2.405  R²=0.578  ρ>0.5: 32/35
+  RF=0.60 / XGB=0.20 / MLP=0.20  →  median ρ=0.871  MAE=2.397  R²=0.580  ρ>0.5: 32/35
+  RF=0.60 / XGB=0.25 / MLP=0.15  →  median ρ=0.865  MAE=2.399  R²=0.579  ρ>0.5: 32/35
+  RF=0.60 / XGB=0.30 / MLP=0.10  →  median ρ=0.864  MAE=2.416  R²=0.576  ρ>0.5: 32/35
+  RF=0.60 / XGB=0.35 / MLP=0.05  →  median ρ=0.862  MAE=2.427  R²=0.572  ρ>0.5: 32/35
+  RF=0.65 / XGB=0.05 / MLP=0.30  →  median ρ=0.865  MAE=2.409  R²=0.578  ρ>0.5: 32/35
+  RF=0.65 / XGB=0.10 / MLP=0.25  →  median ρ=0.865  MAE=2.392  R²=0.579  ρ>0.5: 32/35
+  RF=0.65 / XGB=0.15 / MLP=0.20  →  median ρ=0.865  MAE=2.397  R²=0.579  ρ>0.5: 32/35
+  RF=0.65 / XGB=0.20 / MLP=0.15  →  median ρ=0.865  MAE=2.403  R²=0.579  ρ>0.5: 32/35
+  RF=0.65 / XGB=0.25 / MLP=0.10  →  median ρ=0.862  MAE=2.416  R²=0.574  ρ>0.5: 32/35
+  RF=0.65 / XGB=0.30 / MLP=0.05  →  median ρ=0.862  MAE=2.425  R²=0.572  ρ>0.5: 32/35
+  RF=0.70 / XGB=0.05 / MLP=0.25  →  median ρ=0.865  MAE=2.407  R²=0.576  ρ>0.5: 32/35
+  RF=0.70 / XGB=0.10 / MLP=0.20  →  median ρ=0.864  MAE=2.405  R²=0.576  ρ>0.5: 32/35
+  RF=0.70 / XGB=0.15 / MLP=0.15  →  median ρ=0.861  MAE=2.409  R²=0.575  ρ>0.5: 32/35
+  RF=0.70 / XGB=0.20 / MLP=0.10  →  median ρ=0.861  MAE=2.416  R²=0.574  ρ>0.5: 32/35
+  RF=0.70 / XGB=0.25 / MLP=0.05  →  median ρ=0.861  MAE=2.433  R²=0.572  ρ>0.5: 32/35
+  RF=0.75 / XGB=0.05 / MLP=0.20  →  median ρ=0.861  MAE=2.410  R²=0.576  ρ>0.5: 32/35
+  RF=0.75 / XGB=0.10 / MLP=0.15  →  median ρ=0.861  MAE=2.403  R²=0.576  ρ>0.5: 32/35
+  RF=0.75 / XGB=0.15 / MLP=0.10  →  median ρ=0.861  MAE=2.427  R²=0.571  ρ>0.5: 32/35
+  RF=0.75 / XGB=0.20 / MLP=0.05  →  median ρ=0.861  MAE=2.429  R²=0.571  ρ>0.5: 32/35
+  RF=0.80 / XGB=0.05 / MLP=0.15  →  median ρ=0.861  MAE=2.433  R²=0.570  ρ>0.5: 32/35
+  RF=0.80 / XGB=0.10 / MLP=0.10  →  median ρ=0.861  MAE=2.436  R²=0.569  ρ>0.5: 32/35
+  RF=0.80 / XGB=0.15 / MLP=0.05  →  median ρ=0.856  MAE=2.429  R²=0.570  ρ>0.5: 32/35
+  RF=0.85 / XGB=0.05 / MLP=0.10  →  median ρ=0.860  MAE=2.431  R²=0.569  ρ>0.5: 32/35
+  RF=0.85 / XGB=0.10 / MLP=0.05  →  median ρ=0.856  MAE=2.427  R²=0.569  ρ>0.5: 32/35
+  RF=0.90 / XGB=0.05 / MLP=0.05  →  median ρ=0.851  MAE=2.436  R²=0.567  ρ>0.5: 32/35
+
+Best weights    RF=0.15 / XGB=0.40 / MLP=0.45
+  Median Spearman ρ : 0.883
+  MAE               : 2.368
+  R²                : 0.593
+
+── Final Ensemble Test Results (RF=15% / XGB=40% / MLP=45%) ──
+MAE:  3.071  (excl. DNFs: 2.368)
+RMSE: 4.392  (excl. DNFs: 3.197)
+R²:   0.420  (excl. DNFs: 0.593)
+
+── Sample Predictions: 2018_R4 ──
+Pos   Driver                    Team                       Predicted   Actual
+---------------------------------------------------------------------------
+1     Lewis Hamilton            Mercedes                           1        1
+2     Sebastian Vettel          Ferrari                            2        4
+3     Valtteri Bottas           Mercedes                           3       14 DNF
+4     Daniel Ricciardo          Red Bull Racing                    4       17 DNF
+5     Max Verstappen            Red Bull Racing                    5       16 DNF
+6     Kimi Räikkönen            Ferrari                            6        2
+7     Esteban Ocon              Force India                        7       19 DNF
+8     Fernando Alonso           McLaren                            8        7
+9     Sergio Perez              Force India                        9        3
+10    Nico Hulkenberg           Renault                           10       18 DNF
+11    Carlos Sainz              Renault                           11        5
+12    Stoffel Vandoorne         McLaren                           12        9
+13    Lance Stroll              Williams                          13        8
+14    Kevin Magnussen           Haas F1 Team                      14       13
+15    Charles Leclerc           Sauber                            15        6
+16    Pierre Gasly              Toro Rosso                        16       12
+17    Sergey Sirotkin           Williams                          17       20 DNF
+18    Romain Grosjean           Haas F1 Team                      18       15 DNF
+19    Marcus Ericsson           Sauber                            19       11
+20    Brendon Hartley           Toro Rosso                        20       10
+
+── Computing MLP permutation importance (may take a moment) ──
+
+── Per-Race Summary ──
+  RaceID  Drivers      MAE     RMSE  SpearmanRho
+ 2018_R4       13 4.538462 5.470199     0.818681
+ 2018_R5       14 3.357143 4.183300     0.951648
+ 2018_R7       17 2.117647 2.678894     0.906863
+ 2018_R8       15 2.666667 3.055050     0.896429
+2018_R18       14 3.857143 4.456135     0.894505
+2018_R20       18 2.166667 2.697736     0.902993
+ 2019_R6       19 2.210526 2.955815     0.866667
+ 2019_R9       20 1.700000 2.792848     0.882707
+2019_R12       19 1.631579 2.212405     0.931579
+2019_R17       17 2.647059 2.900304     0.924020
+2019_R18       18 2.388889 2.758824     0.902993
+2019_R19       16 1.625000 2.345208     0.961765
+ 2020_R1       11 3.636364 4.861724     0.854545
+ 2020_R6       19 1.631579 1.986799     0.952632
+ 2020_R7       17 2.000000 2.425356     0.924020
+2020_R12       19 2.315789 3.008759     0.863158
+ 2021_R7       20 2.300000 3.331666     0.833083
+2021_R10       18 3.000000 3.872983     0.795666
+2021_R15       18 2.388889 3.171050     0.820433
+2022_R10       14 3.928571 5.021383     0.674725
+2022_R18       18 2.277778 3.407508     0.832817
+2022_R20       18 1.722222 2.368778     0.933953
+ 2023_R2       17 2.117647 3.009788     0.906863
+ 2023_R9       11 1.818182 2.449490     0.718182
+2023_R14       16 2.312500 3.191786     0.876471
+2023_R17       13 2.846154 3.731364     0.774725
+2023_R19       15 2.133333 2.943920     0.885714
+2023_R20        9 3.222222 3.929942     0.483333
+ 2024_R4        9 1.111111 1.247219     0.883333
+ 2024_R7        9 0.777778 1.201850     0.966667
+2024_R20        8 1.500000 2.061553     0.595238
+2024_R22       16 2.000000 2.500000     0.900000
+2024_R24       10 2.300000 3.301515     0.357576
+2025_R13       19 2.315789 3.340344     0.835088
+2025_R21       17 2.764706 3.280961     0.857843
+
+Median MAE across races  : 2.300
+Median Spearman ρ        : 0.883
+Races with ρ > 0.5       : 33 / 35
+Median Weighted Spearman ρ : 0.834
+Winner predicted correctly : 25 / 35 races (71%)
+Median podium hit rate     : 67%
+Median top-5 hit rate      : 80%
+
+── Top-10 Finishers Only — Test Metrics ──
+MAE   (top 10): 2.096
+RMSE  (top 10): 2.974
+R²    (top 10): -0.092
+Spearman ρ (top 10): 0.794
+Median per-race MAE  (top 10): 1.900
+Median per-race RMSE (top 10): 2.530
+Median per-race R²   (top 10): 0.190
+Median per-race ρ    (top 10): 0.818
+
+Saved: rf_race_model_results2.png | rf_race_model_results_top10.png
+       rf_per_race_metrics2.csv | rf_per_race_metrics_top10.csv | ensemble_weight_search2.csv

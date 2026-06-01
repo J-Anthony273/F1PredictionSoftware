@@ -1,0 +1,428 @@
+Season,RaceNumber,Driver,Team,FP1,FP2,FP3,Qualifying,SprintShootout,Sprint,Race
+2019,1,Lewis Hamilton,Mercedes,1.0,1.0,1.0,1.0,,,2.0
+2019,1,Sebastian Vettel,Ferrari,2.0,5.0,2.0,3.0,,,4.0
+2019,1,Charles Leclerc,Ferrari,3.0,9.0,3.0,5.0,,,5.0
+2019,1,Max Verstappen,Red Bull Racing,4.0,3.0,9.0,4.0,,,3.0
+2019,1,Valtteri Bottas,Mercedes,5.0,2.0,7.0,2.0,,,1.0
+2019,1,Kimi Räikkönen,Alfa Romeo Racing,6.0,6.0,17.0,9.0,,,8.0
+2019,1,Daniil Kvyat,Toro Rosso,7.0,11.0,8.0,15.0,,,10.0
+2019,1,Pierre Gasly,Red Bull Racing,8.0,4.0,6.0,17.0,,,11.0
+2019,1,Kevin Magnussen,Haas F1 Team,9.0,12.0,5.0,7.0,,,6.0
+2019,1,Nico Hulkenberg,Renault,10.0,7.0,11.0,11.0,,,7.0
+2019,1,Antonio Giovinazzi,Alfa Romeo Racing,11.0,15.0,12.0,14.0,,,15.0
+2019,1,Romain Grosjean,Haas F1 Team,12.0,10.0,4.0,6.0,,,18.0
+2019,1,Alexander Albon,Toro Rosso,13.0,17.0,15.0,13.0,,,14.0
+2019,1,Carlos Sainz,McLaren,14.0,14.0,13.0,18.0,,,20.0
+2019,1,Lance Stroll,Racing Point,15.0,13.0,16.0,16.0,,,9.0
+2019,1,Sergio Perez,Racing Point,16.0,16.0,14.0,10.0,,,13.0
+2019,1,Daniel Ricciardo,Renault,17.0,8.0,10.0,12.0,,,19.0
+2019,1,Lando Norris,McLaren,18.0,18.0,18.0,8.0,,,12.0
+2019,1,Robert Kubica,Williams,19.0,20.0,20.0,20.0,,,17.0
+2019,1,George Russell,Williams,20.0,19.0,19.0,19.0,,,16.0
+2019,2,Charles Leclerc,Ferrari,1.0,2.0,1.0,1.0,,,3.0
+2019,2,Sebastian Vettel,Ferrari,2.0,1.0,2.0,2.0,,,5.0
+2019,2,Valtteri Bottas,Mercedes,3.0,4.0,4.0,4.0,,,2.0
+2019,2,Lewis Hamilton,Mercedes,4.0,3.0,3.0,3.0,,,1.0
+2019,2,Max Verstappen,Red Bull Racing,5.0,6.0,8.0,5.0,,,4.0
+2019,2,Pierre Gasly,Red Bull Racing,6.0,12.0,12.0,13.0,,,8.0
+2019,2,Carlos Sainz,McLaren,7.0,11.0,9.0,7.0,,,19.0
+2019,2,Nico Hulkenberg,Renault,8.0,5.0,6.0,17.0,,,17.0
+2019,2,Daniil Kvyat,Toro Rosso,9.0,10.0,10.0,15.0,,,12.0
+2019,2,Kimi Räikkönen,Alfa Romeo Racing,10.0,16.0,11.0,9.0,,,7.0
+2019,2,Daniel Ricciardo,Renault,11.0,15.0,16.0,11.0,,,18.0
+2019,2,Kevin Magnussen,Haas F1 Team,12.0,7.0,13.0,6.0,,,13.0
+2019,2,Alexander Albon,Toro Rosso,13.0,13.0,17.0,12.0,,,9.0
+2019,2,Sergio Perez,Racing Point,14.0,14.0,15.0,14.0,,,10.0
+2019,2,Lando Norris,McLaren,15.0,8.0,7.0,10.0,,,6.0
+2019,2,Antonio Giovinazzi,Alfa Romeo Racing,16.0,18.0,18.0,16.0,,,11.0
+2019,2,Romain Grosjean,Haas F1 Team,17.0,9.0,5.0,8.0,,,20.0
+2019,2,Lance Stroll,Racing Point,18.0,17.0,14.0,18.0,,,14.0
+2019,2,George Russell,Williams,19.0,19.0,19.0,19.0,,,15.0
+2019,2,Robert Kubica,Williams,20.0,20.0,20.0,20.0,,,16.0
+2019,3,Sebastian Vettel,Ferrari,1.0,2.0,2.0,3.0,,,3.0
+2019,3,Lewis Hamilton,Mercedes,2.0,4.0,4.0,2.0,,,1.0
+2019,3,Charles Leclerc,Ferrari,3.0,7.0,3.0,4.0,,,5.0
+2019,3,Max Verstappen,Red Bull Racing,4.0,3.0,7.0,5.0,,,4.0
+2019,3,Valtteri Bottas,Mercedes,5.0,1.0,1.0,1.0,,,2.0
+2019,3,Daniel Ricciardo,Renault,6.0,9.0,13.0,7.0,,,7.0
+2019,3,Pierre Gasly,Red Bull Racing,7.0,10.0,15.0,6.0,,,6.0
+2019,3,Daniil Kvyat,Toro Rosso,8.0,13.0,10.0,11.0,,,19.0
+2019,3,Lance Stroll,Racing Point,9.0,14.0,14.0,16.0,,,12.0
+2019,3,Romain Grosjean,Haas F1 Team,10.0,17.0,17.0,10.0,,,11.0
+2019,3,Kevin Magnussen,Haas F1 Team,11.0,16.0,18.0,9.0,,,13.0
+2019,3,Nico Hulkenberg,Renault,12.0,5.0,5.0,8.0,,,20.0
+2019,3,Lando Norris,McLaren,13.0,8.0,11.0,15.0,,,18.0
+2019,3,Alexander Albon,Toro Rosso,14.0,12.0,9.0,,,,10.0
+2019,3,Kimi Räikkönen,Alfa Romeo Racing,15.0,11.0,6.0,13.0,,,9.0
+2019,3,Carlos Sainz,McLaren,16.0,6.0,8.0,14.0,,,14.0
+2019,3,Sergio Perez,Racing Point,17.0,15.0,12.0,12.0,,,8.0
+2019,3,Robert Kubica,Williams,18.0,19.0,20.0,18.0,,,17.0
+2019,3,George Russell,Williams,19.0,20.0,19.0,17.0,,,16.0
+2019,3,Antonio Giovinazzi,Alfa Romeo Racing,,18.0,16.0,,,,15.0
+2019,4,Charles Leclerc,Ferrari,1.0,1.0,1.0,9.0,,,5.0
+2019,4,Sebastian Vettel,Ferrari,2.0,2.0,2.0,3.0,,,3.0
+2019,4,Lewis Hamilton,Mercedes,,3.0,5.0,2.0,,,2.0
+2019,4,Max Verstappen,Red Bull Racing,,4.0,3.0,4.0,,,4.0
+2019,4,Valtteri Bottas,Mercedes,,5.0,4.0,1.0,,,1.0
+2019,4,Daniil Kvyat,Toro Rosso,,6.0,6.0,6.0,,,19.0
+2019,4,Carlos Sainz,McLaren,,7.0,14.0,10.0,,,7.0
+2019,4,Alexander Albon,Toro Rosso,,8.0,8.0,12.0,,,11.0
+2019,4,Pierre Gasly,Red Bull Racing,,9.0,20.0,20.0,,,17.0
+2019,4,Lando Norris,McLaren,,10.0,13.0,7.0,,,8.0
+2019,4,Kevin Magnussen,Haas F1 Team,,11.0,7.0,13.0,,,13.0
+2019,4,Antonio Giovinazzi,Alfa Romeo Racing,,12.0,12.0,8.0,,,12.0
+2019,4,Sergio Perez,Racing Point,,13.0,9.0,5.0,,,6.0
+2019,4,Kimi Räikkönen,Alfa Romeo Racing,,14.0,10.0,19.0,,,10.0
+2019,4,Daniel Ricciardo,Renault,,15.0,11.0,11.0,,,20.0
+2019,4,Romain Grosjean,Haas F1 Team,,16.0,17.0,15.0,,,18.0
+2019,4,Nico Hulkenberg,Renault,,17.0,16.0,16.0,,,14.0
+2019,4,Lance Stroll,Racing Point,,18.0,15.0,14.0,,,9.0
+2019,4,Robert Kubica,Williams,,19.0,18.0,18.0,,,16.0
+2019,4,George Russell,Williams,,,19.0,17.0,,,15.0
+2019,5,Valtteri Bottas,Mercedes,1.0,1.0,3.0,1.0,,,2.0
+2019,5,Sebastian Vettel,Ferrari,2.0,4.0,4.0,3.0,,,4.0
+2019,5,Charles Leclerc,Ferrari,3.0,3.0,2.0,5.0,,,5.0
+2019,5,Lewis Hamilton,Mercedes,4.0,2.0,1.0,2.0,,,1.0
+2019,5,Romain Grosjean,Haas F1 Team,5.0,6.0,5.0,7.0,,,10.0
+2019,5,Carlos Sainz,McLaren,6.0,9.0,10.0,13.0,,,8.0
+2019,5,Kevin Magnussen,Haas F1 Team,7.0,8.0,6.0,8.0,,,7.0
+2019,5,Pierre Gasly,Red Bull Racing,8.0,7.0,14.0,6.0,,,6.0
+2019,5,Daniil Kvyat,Toro Rosso,9.0,10.0,11.0,9.0,,,9.0
+2019,5,Nico Hulkenberg,Renault,10.0,14.0,12.0,16.0,,,13.0
+2019,5,Daniel Ricciardo,Renault,11.0,15.0,17.0,10.0,,,12.0
+2019,5,Max Verstappen,Red Bull Racing,12.0,5.0,7.0,4.0,,,3.0
+2019,5,Lance Stroll,Racing Point,13.0,13.0,15.0,17.0,,,19.0
+2019,5,Antonio Giovinazzi,Alfa Romeo Racing,14.0,17.0,16.0,18.0,,,16.0
+2019,5,Alexander Albon,Toro Rosso,15.0,12.0,8.0,12.0,,,11.0
+2019,5,Lando Norris,McLaren,16.0,16.0,18.0,11.0,,,20.0
+2019,5,Sergio Perez,Racing Point,17.0,18.0,13.0,15.0,,,15.0
+2019,5,Kimi Räikkönen,Alfa Romeo Racing,18.0,11.0,9.0,14.0,,,14.0
+2019,5,Robert Kubica,Williams,19.0,20.0,20.0,20.0,,,18.0
+2019,5,George Russell,Williams,20.0,19.0,19.0,19.0,,,17.0
+2019,6,Lewis Hamilton,Mercedes,1.0,1.0,3.0,1.0,,,1.0
+2019,6,Max Verstappen,Red Bull Racing,2.0,6.0,4.0,3.0,,,4.0
+2019,6,Valtteri Bottas,Mercedes,3.0,2.0,2.0,2.0,,,3.0
+2019,6,Charles Leclerc,Ferrari,4.0,10.0,1.0,16.0,,,20.0
+2019,6,Sebastian Vettel,Ferrari,5.0,3.0,14.0,4.0,,,2.0
+2019,6,Pierre Gasly,Red Bull Racing,6.0,4.0,5.0,5.0,,,5.0
+2019,6,Nico Hulkenberg,Renault,7.0,16.0,11.0,11.0,,,13.0
+2019,6,Kevin Magnussen,Haas F1 Team,8.0,7.0,8.0,6.0,,,14.0
+2019,6,Kimi Räikkönen,Alfa Romeo Racing,9.0,9.0,9.0,14.0,,,17.0
+2019,6,Romain Grosjean,Haas F1 Team,10.0,11.0,13.0,13.0,,,10.0
+2019,6,Daniel Ricciardo,Renault,11.0,17.0,12.0,7.0,,,9.0
+2019,6,Antonio Giovinazzi,Alfa Romeo Racing,12.0,8.0,6.0,15.0,,,19.0
+2019,6,Daniil Kvyat,Toro Rosso,13.0,14.0,7.0,8.0,,,7.0
+2019,6,Alexander Albon,Toro Rosso,14.0,5.0,10.0,10.0,,,8.0
+2019,6,Lando Norris,McLaren,15.0,12.0,16.0,12.0,,,11.0
+2019,6,Sergio Perez,Racing Point,16.0,15.0,17.0,17.0,,,12.0
+2019,6,George Russell,Williams,17.0,19.0,20.0,19.0,,,15.0
+2019,6,Robert Kubica,Williams,18.0,20.0,19.0,20.0,,,18.0
+2019,6,Lance Stroll,Racing Point,19.0,18.0,18.0,18.0,,,16.0
+2019,6,Carlos Sainz,McLaren,20.0,13.0,15.0,9.0,,,6.0
+2019,7,Lewis Hamilton,Mercedes,1.0,6.0,3.0,2.0,,,1.0
+2019,7,Valtteri Bottas,Mercedes,2.0,3.0,4.0,6.0,,,4.0
+2019,7,Charles Leclerc,Ferrari,3.0,1.0,2.0,3.0,,,3.0
+2019,7,Max Verstappen,Red Bull Racing,4.0,13.0,5.0,11.0,,,5.0
+2019,7,Sebastian Vettel,Ferrari,5.0,2.0,1.0,1.0,,,2.0
+2019,7,Kimi Räikkönen,Alfa Romeo Racing,6.0,16.0,16.0,17.0,,,15.0
+2019,7,Carlos Sainz,McLaren,7.0,4.0,13.0,9.0,,,11.0
+2019,7,Daniel Ricciardo,Renault,8.0,8.0,7.0,4.0,,,6.0
+2019,7,Sergio Perez,Racing Point,9.0,7.0,9.0,16.0,,,12.0
+2019,7,Kevin Magnussen,Haas F1 Team,10.0,5.0,12.0,10.0,,,17.0
+2019,7,Lando Norris,McLaren,11.0,11.0,8.0,8.0,,,20.0
+2019,7,Nico Hulkenberg,Renault,12.0,9.0,11.0,7.0,,,7.0
+2019,7,Pierre Gasly,Red Bull Racing,13.0,12.0,6.0,5.0,,,8.0
+2019,7,Antonio Giovinazzi,Alfa Romeo Racing,14.0,18.0,15.0,13.0,,,13.0
+2019,7,Romain Grosjean,Haas F1 Team,15.0,17.0,17.0,15.0,,,14.0
+2019,7,Alexander Albon,Toro Rosso,16.0,14.0,14.0,14.0,,,19.0
+2019,7,Lance Stroll,Racing Point,17.0,10.0,,18.0,,,9.0
+2019,7,Daniil Kvyat,Toro Rosso,18.0,15.0,10.0,12.0,,,10.0
+2019,7,George Russell,Williams,19.0,19.0,18.0,19.0,,,16.0
+2019,7,Nicholas Latifi,Williams,20.0,,,,,,
+2019,7,Robert Kubica,Williams,,20.0,19.0,20.0,,,18.0
+2019,8,Lewis Hamilton,Mercedes,1.0,2.0,2.0,1.0,,,1.0
+2019,8,Valtteri Bottas,Mercedes,2.0,1.0,1.0,2.0,,,2.0
+2019,8,Charles Leclerc,Ferrari,3.0,3.0,3.0,3.0,,,3.0
+2019,8,Max Verstappen,Red Bull Racing,4.0,6.0,5.0,4.0,,,4.0
+2019,8,Sebastian Vettel,Ferrari,5.0,4.0,4.0,7.0,,,5.0
+2019,8,Pierre Gasly,Red Bull Racing,6.0,8.0,6.0,9.0,,,10.0
+2019,8,Lando Norris,McLaren,7.0,5.0,7.0,5.0,,,9.0
+2019,8,Carlos Sainz,McLaren,8.0,7.0,9.0,6.0,,,6.0
+2019,8,Daniel Ricciardo,Renault,9.0,12.0,8.0,8.0,,,11.0
+2019,8,Alexander Albon,Toro Rosso,10.0,13.0,13.0,11.0,,,15.0
+2019,8,Sergio Perez,Racing Point,11.0,16.0,16.0,14.0,,,12.0
+2019,8,Nico Hulkenberg,Renault,12.0,14.0,11.0,13.0,,,8.0
+2019,8,Lance Stroll,Racing Point,13.0,18.0,18.0,18.0,,,13.0
+2019,8,Daniil Kvyat,Toro Rosso,14.0,15.0,17.0,16.0,,,14.0
+2019,8,Kevin Magnussen,Haas F1 Team,15.0,10.0,15.0,15.0,,,17.0
+2019,8,Kimi Räikkönen,Alfa Romeo Racing,16.0,9.0,10.0,12.0,,,7.0
+2019,8,Antonio Giovinazzi,Alfa Romeo Racing,17.0,11.0,12.0,10.0,,,16.0
+2019,8,Nicholas Latifi,Williams,18.0,,,,,,
+2019,8,Robert Kubica,Williams,19.0,20.0,19.0,20.0,,,18.0
+2019,8,Romain Grosjean,Haas F1 Team,20.0,17.0,14.0,17.0,,,20.0
+2019,8,George Russell,Williams,,19.0,20.0,19.0,,,19.0
+2019,9,Lewis Hamilton,Mercedes,1.0,4.0,2.0,2.0,,,5.0
+2019,9,Sebastian Vettel,Ferrari,2.0,8.0,4.0,10.0,,,4.0
+2019,9,Valtteri Bottas,Mercedes,3.0,2.0,3.0,4.0,,,3.0
+2019,9,Charles Leclerc,Ferrari,4.0,1.0,1.0,1.0,,,2.0
+2019,9,Max Verstappen,Red Bull Racing,5.0,9.0,5.0,3.0,,,1.0
+2019,9,Pierre Gasly,Red Bull Racing,6.0,3.0,7.0,9.0,,,7.0
+2019,9,Carlos Sainz,McLaren,7.0,5.0,8.0,15.0,,,8.0
+2019,9,Daniel Ricciardo,Renault,8.0,17.0,17.0,14.0,,,12.0
+2019,9,Kevin Magnussen,Haas F1 Team,9.0,11.0,18.0,5.0,,,19.0
+2019,9,Lando Norris,McLaren,10.0,10.0,6.0,6.0,,,6.0
+2019,9,Romain Grosjean,Haas F1 Team,11.0,6.0,15.0,11.0,,,16.0
+2019,9,Daniil Kvyat,Toro Rosso,12.0,15.0,10.0,18.0,,,17.0
+2019,9,Alexander Albon,Toro Rosso,13.0,13.0,11.0,13.0,,,15.0
+2019,9,Nico Hulkenberg,Renault,14.0,16.0,12.0,12.0,,,13.0
+2019,9,Sergio Perez,Racing Point,15.0,12.0,14.0,16.0,,,11.0
+2019,9,Antonio Giovinazzi,Alfa Romeo Racing,16.0,14.0,9.0,8.0,,,10.0
+2019,9,Kimi Räikkönen,Alfa Romeo Racing,17.0,7.0,13.0,7.0,,,9.0
+2019,9,Lance Stroll,Racing Point,18.0,18.0,16.0,17.0,,,14.0
+2019,9,George Russell,Williams,19.0,19.0,19.0,19.0,,,18.0
+2019,9,Robert Kubica,Williams,20.0,20.0,20.0,20.0,,,20.0
+2019,10,Pierre Gasly,Red Bull Racing,1.0,5.0,4.0,5.0,,,4.0
+2019,10,Valtteri Bottas,Mercedes,2.0,1.0,6.0,1.0,,,2.0
+2019,10,Max Verstappen,Red Bull Racing,3.0,7.0,5.0,4.0,,,5.0
+2019,10,Lewis Hamilton,Mercedes,4.0,2.0,3.0,2.0,,,1.0
+2019,10,Charles Leclerc,Ferrari,5.0,3.0,1.0,3.0,,,3.0
+2019,10,Sebastian Vettel,Ferrari,6.0,4.0,2.0,6.0,,,16.0
+2019,10,Nico Hulkenberg,Renault,7.0,15.0,8.0,10.0,,,10.0
+2019,10,Daniel Ricciardo,Renault,8.0,14.0,9.0,7.0,,,7.0
+2019,10,Alexander Albon,Toro Rosso,9.0,9.0,10.0,9.0,,,12.0
+2019,10,Carlos Sainz,McLaren,10.0,8.0,12.0,13.0,,,6.0
+2019,10,Lando Norris,McLaren,11.0,6.0,7.0,8.0,,,11.0
+2019,10,Sergio Perez,Racing Point,12.0,10.0,18.0,15.0,,,17.0
+2019,10,Daniil Kvyat,Toro Rosso,13.0,11.0,13.0,17.0,,,9.0
+2019,10,Lance Stroll,Racing Point,14.0,16.0,17.0,18.0,,,13.0
+2019,10,Antonio Giovinazzi,Alfa Romeo Racing,15.0,17.0,11.0,11.0,,,18.0
+2019,10,Kevin Magnussen,Haas F1 Team,16.0,12.0,15.0,16.0,,,20.0
+2019,10,George Russell,Williams,17.0,20.0,19.0,19.0,,,14.0
+2019,10,Kimi Räikkönen,Alfa Romeo Racing,18.0,13.0,16.0,12.0,,,8.0
+2019,10,Romain Grosjean,Haas F1 Team,19.0,18.0,14.0,14.0,,,19.0
+2019,10,Robert Kubica,Williams,20.0,19.0,20.0,20.0,,,15.0
+2019,11,Sebastian Vettel,Ferrari,1.0,2.0,3.0,20.0,,,2.0
+2019,11,Charles Leclerc,Ferrari,2.0,1.0,1.0,10.0,,,17.0
+2019,11,Lewis Hamilton,Mercedes,3.0,3.0,4.0,1.0,,,9.0
+2019,11,Max Verstappen,Red Bull Racing,4.0,5.0,2.0,2.0,,,1.0
+2019,11,Valtteri Bottas,Mercedes,5.0,4.0,5.0,3.0,,,15.0
+2019,11,Pierre Gasly,Red Bull Racing,6.0,15.0,8.0,4.0,,,14.0
+2019,11,Carlos Sainz,McLaren,7.0,11.0,7.0,7.0,,,5.0
+2019,11,Romain Grosjean,Haas F1 Team,8.0,6.0,10.0,6.0,,,7.0
+2019,11,Lance Stroll,Racing Point,9.0,7.0,16.0,15.0,,,4.0
+2019,11,Daniel Ricciardo,Renault,10.0,13.0,18.0,13.0,,,19.0
+2019,11,Sergio Perez,Racing Point,11.0,10.0,11.0,8.0,,,20.0
+2019,11,Lando Norris,McLaren,12.0,16.0,14.0,16.0,,,18.0
+2019,11,Kevin Magnussen,Haas F1 Team,13.0,18.0,6.0,12.0,,,8.0
+2019,11,Daniil Kvyat,Toro Rosso,14.0,12.0,17.0,14.0,,,3.0
+2019,11,Alexander Albon,Toro Rosso,15.0,14.0,13.0,17.0,,,6.0
+2019,11,Nico Hulkenberg,Renault,16.0,9.0,12.0,9.0,,,16.0
+2019,11,Kimi Räikkönen,Alfa Romeo Racing,17.0,8.0,9.0,5.0,,,12.0
+2019,11,Antonio Giovinazzi,Alfa Romeo Racing,18.0,17.0,15.0,11.0,,,13.0
+2019,11,Robert Kubica,Williams,19.0,20.0,19.0,19.0,,,10.0
+2019,11,George Russell,Williams,20.0,19.0,20.0,18.0,,,11.0
+2019,12,Lewis Hamilton,Mercedes,1.0,3.0,1.0,3.0,,,1.0
+2019,12,Max Verstappen,Red Bull Racing,2.0,2.0,2.0,1.0,,,2.0
+2019,12,Sebastian Vettel,Ferrari,3.0,13.0,3.0,5.0,,,3.0
+2019,12,Pierre Gasly,Red Bull Racing,4.0,1.0,6.0,6.0,,,6.0
+2019,12,Kevin Magnussen,Haas F1 Team,5.0,12.0,10.0,15.0,,,13.0
+2019,12,Charles Leclerc,Ferrari,6.0,7.0,5.0,4.0,,,4.0
+2019,12,Nico Hulkenberg,Renault,7.0,8.0,13.0,11.0,,,12.0
+2019,12,Lando Norris,McLaren,8.0,18.0,7.0,7.0,,,9.0
+2019,12,Carlos Sainz,McLaren,9.0,14.0,9.0,8.0,,,5.0
+2019,12,Kimi Räikkönen,Alfa Romeo Racing,10.0,6.0,8.0,10.0,,,7.0
+2019,12,Daniel Ricciardo,Renault,11.0,5.0,16.0,18.0,,,14.0
+2019,12,Romain Grosjean,Haas F1 Team,12.0,11.0,11.0,9.0,,,20.0
+2019,12,Daniil Kvyat,Toro Rosso,13.0,10.0,12.0,13.0,,,15.0
+2019,12,Alexander Albon,Toro Rosso,14.0,,17.0,12.0,,,10.0
+2019,12,Sergio Perez,Racing Point,15.0,15.0,14.0,17.0,,,11.0
+2019,12,Antonio Giovinazzi,Alfa Romeo Racing,16.0,9.0,15.0,14.0,,,18.0
+2019,12,George Russell,Williams,17.0,17.0,18.0,16.0,,,16.0
+2019,12,Lance Stroll,Racing Point,18.0,16.0,19.0,19.0,,,17.0
+2019,12,Robert Kubica,Williams,19.0,19.0,20.0,20.0,,,19.0
+2019,12,Valtteri Bottas,Mercedes,20.0,4.0,4.0,2.0,,,8.0
+2019,13,Sebastian Vettel,Ferrari,1.0,2.0,2.0,2.0,,,4.0
+2019,13,Charles Leclerc,Ferrari,2.0,1.0,1.0,1.0,,,1.0
+2019,13,Max Verstappen,Red Bull Racing,3.0,6.0,5.0,5.0,,,20.0
+2019,13,Alexander Albon,Red Bull Racing,4.0,10.0,20.0,14.0,,,5.0
+2019,13,Valtteri Bottas,Mercedes,5.0,3.0,3.0,4.0,,,3.0
+2019,13,Lewis Hamilton,Mercedes,6.0,4.0,7.0,3.0,,,2.0
+2019,13,Lance Stroll,Racing Point,7.0,8.0,16.0,13.0,,,10.0
+2019,13,Daniel Ricciardo,Renault,8.0,9.0,4.0,6.0,,,14.0
+2019,13,Sergio Perez,Racing Point,9.0,5.0,6.0,9.0,,,6.0
+2019,13,Carlos Sainz,McLaren,10.0,11.0,14.0,17.0,,,19.0
+2019,13,Nico Hulkenberg,Renault,11.0,13.0,12.0,7.0,,,8.0
+2019,13,Lando Norris,McLaren,12.0,15.0,15.0,12.0,,,11.0
+2019,13,Kimi Räikkönen,Alfa Romeo Racing,13.0,7.0,8.0,8.0,,,16.0
+2019,13,Romain Grosjean,Haas F1 Team,14.0,12.0,11.0,11.0,,,13.0
+2019,13,Antonio Giovinazzi,Alfa Romeo Racing,15.0,16.0,9.0,15.0,,,18.0
+2019,13,Kevin Magnussen,Haas F1 Team,16.0,18.0,13.0,10.0,,,12.0
+2019,13,Daniil Kvyat,Toro Rosso,17.0,14.0,17.0,18.0,,,7.0
+2019,13,Pierre Gasly,Toro Rosso,18.0,17.0,10.0,16.0,,,9.0
+2019,13,Nicholas Latifi,Williams,19.0,,,,,,
+2019,13,Robert Kubica,Williams,20.0,20.0,19.0,20.0,,,17.0
+2019,13,George Russell,Williams,,19.0,18.0,19.0,,,15.0
+2019,14,Charles Leclerc,Ferrari,1.0,1.0,3.0,1.0,,,1.0
+2019,14,Carlos Sainz,McLaren,2.0,12.0,11.0,7.0,,,20.0
+2019,14,Lando Norris,McLaren,3.0,18.0,14.0,14.0,,,10.0
+2019,14,Lewis Hamilton,Mercedes,4.0,2.0,6.0,2.0,,,3.0
+2019,14,Alexander Albon,Red Bull Racing,5.0,6.0,8.0,8.0,,,6.0
+2019,14,Daniil Kvyat,Toro Rosso,6.0,10.0,10.0,13.0,,,19.0
+2019,14,Max Verstappen,Red Bull Racing,7.0,5.0,2.0,20.0,,,8.0
+2019,14,Sebastian Vettel,Ferrari,8.0,3.0,1.0,4.0,,,13.0
+2019,14,Valtteri Bottas,Mercedes,9.0,4.0,4.0,3.0,,,2.0
+2019,14,Pierre Gasly,Toro Rosso,10.0,7.0,13.0,15.0,,,11.0
+2019,14,Antonio Giovinazzi,Alfa Romeo Racing,11.0,17.0,9.0,11.0,,,9.0
+2019,14,Lance Stroll,Racing Point,12.0,15.0,17.0,9.0,,,12.0
+2019,14,Daniel Ricciardo,Renault,13.0,9.0,5.0,5.0,,,4.0
+2019,14,Kevin Magnussen,Haas F1 Team,14.0,13.0,16.0,12.0,,,18.0
+2019,14,Nico Hulkenberg,Renault,15.0,11.0,7.0,6.0,,,5.0
+2019,14,Romain Grosjean,Haas F1 Team,16.0,8.0,18.0,16.0,,,16.0
+2019,14,Robert Kubica,Williams,17.0,19.0,20.0,19.0,,,17.0
+2019,14,George Russell,Williams,18.0,20.0,19.0,18.0,,,14.0
+2019,14,Kimi Räikkönen,Alfa Romeo Racing,19.0,14.0,15.0,10.0,,,15.0
+2019,14,Sergio Perez,Racing Point,,16.0,12.0,17.0,,,7.0
+2019,15,Max Verstappen,Red Bull Racing,1.0,2.0,6.0,4.0,,,3.0
+2019,15,Sebastian Vettel,Ferrari,2.0,3.0,3.0,3.0,,,1.0
+2019,15,Lewis Hamilton,Mercedes,3.0,1.0,2.0,2.0,,,4.0
+2019,15,Valtteri Bottas,Mercedes,4.0,4.0,4.0,5.0,,,5.0
+2019,15,Alexander Albon,Red Bull Racing,5.0,5.0,5.0,6.0,,,6.0
+2019,15,Nico Hulkenberg,Renault,6.0,8.0,9.0,8.0,,,9.0
+2019,15,Carlos Sainz,McLaren,7.0,7.0,7.0,7.0,,,12.0
+2019,15,Lando Norris,McLaren,8.0,9.0,8.0,9.0,,,7.0
+2019,15,Daniil Kvyat,Toro Rosso,9.0,11.0,20.0,15.0,,,15.0
+2019,15,Pierre Gasly,Toro Rosso,10.0,10.0,12.0,12.0,,,8.0
+2019,15,Daniel Ricciardo,Renault,11.0,12.0,10.0,20.0,,,14.0
+2019,15,Romain Grosjean,Haas F1 Team,12.0,17.0,18.0,17.0,,,11.0
+2019,15,Antonio Giovinazzi,Alfa Romeo Racing,13.0,14.0,16.0,11.0,,,10.0
+2019,15,Kimi Räikkönen,Alfa Romeo Racing,14.0,16.0,13.0,13.0,,,18.0
+2019,15,Lance Stroll,Racing Point,15.0,15.0,11.0,16.0,,,13.0
+2019,15,Kevin Magnussen,Haas F1 Team,16.0,19.0,17.0,14.0,,,17.0
+2019,15,Robert Kubica,Williams,17.0,20.0,19.0,19.0,,,16.0
+2019,15,Sergio Perez,Racing Point,18.0,13.0,14.0,10.0,,,19.0
+2019,15,Charles Leclerc,Ferrari,19.0,6.0,1.0,1.0,,,2.0
+2019,15,George Russell,Williams,20.0,18.0,15.0,18.0,,,20.0
+2019,16,Charles Leclerc,Ferrari,1.0,2.0,1.0,1.0,,,3.0
+2019,16,Max Verstappen,Red Bull Racing,2.0,1.0,5.0,4.0,,,4.0
+2019,16,Sebastian Vettel,Ferrari,3.0,5.0,2.0,3.0,,,18.0
+2019,16,Valtteri Bottas,Mercedes,4.0,3.0,4.0,5.0,,,2.0
+2019,16,Lewis Hamilton,Mercedes,5.0,4.0,3.0,2.0,,,1.0
+2019,16,Alexander Albon,Red Bull Racing,6.0,10.0,7.0,19.0,,,5.0
+2019,16,Nico Hulkenberg,Renault,7.0,8.0,8.0,7.0,,,10.0
+2019,16,Daniel Ricciardo,Renault,8.0,14.0,12.0,10.0,,,19.0
+2019,16,Sergio Perez,Racing Point,9.0,7.0,15.0,12.0,,,7.0
+2019,16,Romain Grosjean,Haas F1 Team,10.0,16.0,6.0,9.0,,,20.0
+2019,16,Carlos Sainz,McLaren,11.0,17.0,13.0,6.0,,,6.0
+2019,16,Pierre Gasly,Toro Rosso,12.0,6.0,11.0,11.0,,,14.0
+2019,16,Kevin Magnussen,Haas F1 Team,13.0,13.0,10.0,14.0,,,9.0
+2019,16,Lance Stroll,Racing Point,14.0,9.0,16.0,15.0,,,11.0
+2019,16,Kimi Räikkönen,Alfa Romeo Racing,15.0,15.0,17.0,16.0,,,13.0
+2019,16,Lando Norris,McLaren,16.0,11.0,9.0,8.0,,,8.0
+2019,16,Antonio Giovinazzi,Alfa Romeo Racing,17.0,18.0,14.0,13.0,,,15.0
+2019,16,George Russell,Williams,18.0,19.0,18.0,17.0,,,17.0
+2019,16,Daniil Kvyat,Toro Rosso,19.0,12.0,19.0,20.0,,,12.0
+2019,16,Robert Kubica,Williams,20.0,20.0,20.0,18.0,,,16.0
+2019,17,Valtteri Bottas,Mercedes,1.0,1.0,,3.0,,,1.0
+2019,17,Lewis Hamilton,Mercedes,2.0,2.0,,4.0,,,3.0
+2019,17,Sebastian Vettel,Ferrari,3.0,5.0,,1.0,,,2.0
+2019,17,Charles Leclerc,Ferrari,4.0,4.0,,2.0,,,6.0
+2019,17,Max Verstappen,Red Bull Racing,5.0,3.0,,5.0,,,18.0
+2019,17,Alexander Albon,Red Bull Racing,6.0,6.0,,6.0,,,4.0
+2019,17,Carlos Sainz,McLaren,7.0,7.0,,7.0,,,5.0
+2019,17,Sergio Perez,Racing Point,8.0,8.0,,17.0,,,8.0
+2019,17,Lance Stroll,Racing Point,9.0,14.0,,12.0,,,9.0
+2019,17,Lando Norris,McLaren,10.0,10.0,,8.0,,,11.0
+2019,17,Romain Grosjean,Haas F1 Team,11.0,13.0,,10.0,,,13.0
+2019,17,Kimi Räikkönen,Alfa Romeo Racing,12.0,11.0,,13.0,,,12.0
+2019,17,Nico Hulkenberg,Renault,13.0,18.0,,15.0,,,20.0
+2019,17,Daniel Ricciardo,Renault,14.0,17.0,,16.0,,,19.0
+2019,17,Kevin Magnussen,Haas F1 Team,15.0,16.0,,19.0,,,15.0
+2019,17,Daniil Kvyat,Toro Rosso,16.0,12.0,,14.0,,,10.0
+2019,17,Naoki Yamamoto,Toro Rosso,17.0,,,,,,
+2019,17,George Russell,Williams,18.0,20.0,,18.0,,,16.0
+2019,17,Robert Kubica,Williams,19.0,19.0,,20.0,,,17.0
+2019,17,Antonio Giovinazzi,Alfa Romeo Racing,20.0,15.0,,11.0,,,14.0
+2019,17,Pierre Gasly,Toro Rosso,,9.0,,9.0,,,7.0
+2019,18,Lewis Hamilton,Mercedes,1.0,5.0,4.0,4.0,,,1.0
+2019,18,Charles Leclerc,Ferrari,2.0,3.0,1.0,2.0,,,4.0
+2019,18,Max Verstappen,Red Bull Racing,3.0,2.0,6.0,1.0,,,6.0
+2019,18,Alexander Albon,Red Bull Racing,4.0,20.0,8.0,5.0,,,5.0
+2019,18,Valtteri Bottas,Mercedes,5.0,4.0,3.0,6.0,,,3.0
+2019,18,Sebastian Vettel,Ferrari,6.0,1.0,2.0,3.0,,,2.0
+2019,18,Carlos Sainz,McLaren,7.0,8.0,5.0,7.0,,,13.0
+2019,18,Pierre Gasly,Toro Rosso,8.0,7.0,7.0,10.0,,,9.0
+2019,18,Daniil Kvyat,Toro Rosso,9.0,6.0,11.0,9.0,,,11.0
+2019,18,Antonio Giovinazzi,Alfa Romeo Racing,10.0,16.0,14.0,15.0,,,14.0
+2019,18,Nico Hulkenberg,Renault,11.0,9.0,,12.0,,,10.0
+2019,18,Kevin Magnussen,Haas F1 Team,12.0,17.0,15.0,17.0,,,15.0
+2019,18,Kimi Räikkönen,Alfa Romeo Racing,13.0,14.0,12.0,14.0,,,19.0
+2019,18,Lando Norris,McLaren,14.0,10.0,9.0,8.0,,,20.0
+2019,18,Daniel Ricciardo,Renault,15.0,13.0,,13.0,,,8.0
+2019,18,Lance Stroll,Racing Point,16.0,11.0,13.0,16.0,,,12.0
+2019,18,Sergio Perez,Racing Point,17.0,12.0,10.0,11.0,,,7.0
+2019,18,Romain Grosjean,Haas F1 Team,18.0,15.0,16.0,18.0,,,17.0
+2019,18,George Russell,Williams,19.0,18.0,17.0,19.0,,,16.0
+2019,18,Nicholas Latifi,Williams,20.0,,,,,,
+2019,18,Robert Kubica,Williams,,19.0,18.0,20.0,,,18.0
+2019,19,Max Verstappen,Red Bull Racing,1.0,3.0,1.0,3.0,,,3.0
+2019,19,Charles Leclerc,Ferrari,2.0,2.0,,4.0,,,4.0
+2019,19,Sebastian Vettel,Ferrari,3.0,4.0,2.0,2.0,,,20.0
+2019,19,Alexander Albon,Red Bull Racing,4.0,6.0,6.0,6.0,,,5.0
+2019,19,Lewis Hamilton,Mercedes,5.0,1.0,5.0,5.0,,,2.0
+2019,19,Pierre Gasly,Toro Rosso,6.0,7.0,9.0,10.0,,,16.0
+2019,19,Daniel Ricciardo,Renault,7.0,12.0,10.0,9.0,,,6.0
+2019,19,Romain Grosjean,Haas F1 Team,8.0,18.0,13.0,15.0,,,15.0
+2019,19,Lance Stroll,Racing Point,9.0,9.0,12.0,14.0,,,13.0
+2019,19,Kevin Magnussen,Haas F1 Team,10.0,17.0,15.0,12.0,,,18.0
+2019,19,Daniil Kvyat,Toro Rosso,11.0,13.0,14.0,13.0,,,12.0
+2019,19,Carlos Sainz,McLaren,12.0,8.0,7.0,7.0,,,8.0
+2019,19,Kimi Räikkönen,Alfa Romeo Racing,13.0,16.0,8.0,17.0,,,11.0
+2019,19,Sergio Perez,Racing Point,14.0,15.0,19.0,19.0,,,10.0
+2019,19,Antonio Giovinazzi,Alfa Romeo Racing,15.0,10.0,16.0,16.0,,,14.0
+2019,19,Nico Hulkenberg,Renault,16.0,14.0,11.0,11.0,,,9.0
+2019,19,Valtteri Bottas,Mercedes,17.0,5.0,4.0,1.0,,,1.0
+2019,19,Lando Norris,McLaren,18.0,11.0,3.0,8.0,,,7.0
+2019,19,Robert Kubica,Williams,19.0,20.0,18.0,20.0,,,19.0
+2019,19,Nicholas Latifi,Williams,20.0,,,,,,
+2019,19,George Russell,Williams,,19.0,17.0,18.0,,,17.0
+2019,20,Alexander Albon,Red Bull Racing,1.0,9.0,5.0,6.0,,,14.0
+2019,20,Valtteri Bottas,Mercedes,2.0,4.0,6.0,5.0,,,20.0
+2019,20,Sebastian Vettel,Ferrari,3.0,1.0,4.0,2.0,,,17.0
+2019,20,Charles Leclerc,Ferrari,4.0,2.0,3.0,4.0,,,18.0
+2019,20,Carlos Sainz,McLaren,5.0,10.0,10.0,20.0,,,3.0
+2019,20,Nico Hulkenberg,Renault,6.0,11.0,13.0,14.0,,,15.0
+2019,20,Daniel Ricciardo,Renault,7.0,7.0,15.0,12.0,,,6.0
+2019,20,Pierre Gasly,Toro Rosso,8.0,12.0,12.0,7.0,,,2.0
+2019,20,Daniil Kvyat,Toro Rosso,9.0,14.0,7.0,16.0,,,10.0
+2019,20,Lando Norris,McLaren,10.0,18.0,9.0,11.0,,,8.0
+2019,20,George Russell,Williams,11.0,19.0,19.0,18.0,,,12.0
+2019,20,Kevin Magnussen,Haas F1 Team,12.0,6.0,14.0,10.0,,,11.0
+2019,20,Lance Stroll,Racing Point,13.0,17.0,18.0,17.0,,,19.0
+2019,20,Kimi Räikkönen,Alfa Romeo Racing,14.0,8.0,11.0,9.0,,,4.0
+2019,20,Antonio Giovinazzi,Alfa Romeo Racing,15.0,13.0,8.0,13.0,,,5.0
+2019,20,Nicholas Latifi,Williams,16.0,,,,,,
+2019,20,Max Verstappen,Red Bull Racing,,3.0,2.0,1.0,,,1.0
+2019,20,Lewis Hamilton,Mercedes,,5.0,1.0,3.0,,,7.0
+2019,20,Sergio Perez,Racing Point,,15.0,17.0,15.0,,,9.0
+2019,20,Romain Grosjean,Haas F1 Team,,16.0,16.0,8.0,,,13.0
+2019,20,Robert Kubica,Williams,,,20.0,19.0,,,16.0
+2019,21,Valtteri Bottas,Mercedes,1.0,1.0,3.0,2.0,,,4.0
+2019,21,Max Verstappen,Red Bull Racing,2.0,5.0,1.0,3.0,,,2.0
+2019,21,Lewis Hamilton,Mercedes,3.0,2.0,2.0,1.0,,,1.0
+2019,21,Alexander Albon,Red Bull Racing,4.0,6.0,4.0,6.0,,,6.0
+2019,21,Sebastian Vettel,Ferrari,5.0,4.0,5.0,5.0,,,5.0
+2019,21,Romain Grosjean,Haas F1 Team,6.0,7.0,11.0,16.0,,,15.0
+2019,21,Charles Leclerc,Ferrari,7.0,3.0,6.0,4.0,,,3.0
+2019,21,Kevin Magnussen,Haas F1 Team,8.0,14.0,14.0,15.0,,,14.0
+2019,21,Antonio Giovinazzi,Alfa Romeo Racing,9.0,18.0,18.0,17.0,,,16.0
+2019,21,Nico Hulkenberg,Renault,10.0,15.0,17.0,10.0,,,12.0
+2019,21,Lando Norris,McLaren,11.0,12.0,13.0,7.0,,,8.0
+2019,21,Lance Stroll,Racing Point,12.0,13.0,15.0,13.0,,,20.0
+2019,21,Kimi Räikkönen,Alfa Romeo Racing,13.0,17.0,16.0,18.0,,,13.0
+2019,21,Sergio Perez,Racing Point,14.0,8.0,7.0,11.0,,,7.0
+2019,21,Daniil Kvyat,Toro Rosso,15.0,9.0,12.0,14.0,,,9.0
+2019,21,Pierre Gasly,Toro Rosso,16.0,10.0,10.0,12.0,,,18.0
+2019,21,Carlos Sainz,McLaren,17.0,11.0,9.0,9.0,,,10.0
+2019,21,Robert Kubica,Williams,18.0,20.0,20.0,20.0,,,19.0
+2019,21,Daniel Ricciardo,Renault,19.0,16.0,8.0,8.0,,,11.0
+2019,21,George Russell,Williams,20.0,19.0,19.0,19.0,,,17.0

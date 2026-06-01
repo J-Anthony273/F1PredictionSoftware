@@ -1,0 +1,352 @@
+Season,RaceNumber,Driver,Team,FP1,FP2,FP3,Qualifying,SprintShootout,Sprint,Race
+2020,1,Lewis Hamilton,Mercedes,1.0,1.0,1.0,2.0,,,4.0
+2020,1,Valtteri Bottas,Mercedes,2.0,2.0,2.0,1.0,,,1.0
+2020,1,Max Verstappen,Red Bull Racing,3.0,8.0,3.0,3.0,,,20.0
+2020,1,Carlos Sainz,McLaren,4.0,10.0,13.0,8.0,,,5.0
+2020,1,Sergio Perez,Racing Point,5.0,3.0,4.0,6.0,,,6.0
+2020,1,Lando Norris,McLaren,6.0,6.0,10.0,4.0,,,3.0
+2020,1,Alexander Albon,Red Bull Racing,7.0,13.0,6.0,5.0,,,13.0
+2020,1,Daniel Ricciardo,Renault,8.0,5.0,12.0,10.0,,,19.0
+2020,1,Kevin Magnussen,Haas F1 Team,9.0,15.0,17.0,16.0,,,17.0
+2020,1,Charles Leclerc,Ferrari,10.0,9.0,5.0,7.0,,,2.0
+2020,1,Lance Stroll,Racing Point,11.0,7.0,8.0,9.0,,,18.0
+2020,1,Sebastian Vettel,Ferrari,12.0,4.0,7.0,11.0,,,10.0
+2020,1,Esteban Ocon,Renault,13.0,11.0,11.0,14.0,,,8.0
+2020,1,Antonio Giovinazzi,Alfa Romeo Racing,14.0,14.0,18.0,18.0,,,9.0
+2020,1,Kimi Räikkönen,Alfa Romeo Racing,15.0,19.0,19.0,19.0,,,14.0
+2020,1,Pierre Gasly,AlphaTauri,16.0,17.0,9.0,12.0,,,7.0
+2020,1,George Russell,Williams,17.0,18.0,16.0,17.0,,,15.0
+2020,1,Nicholas Latifi,Williams,18.0,20.0,20.0,20.0,,,11.0
+2020,1,Daniil Kvyat,AlphaTauri,19.0,12.0,14.0,13.0,,,12.0
+2020,1,Romain Grosjean,Haas F1 Team,20.0,16.0,15.0,15.0,,,16.0
+2020,2,Sergio Perez,Racing Point,1.0,3.0,,17.0,,,6.0
+2020,2,Max Verstappen,Red Bull Racing,2.0,1.0,,2.0,,,3.0
+2020,2,Valtteri Bottas,Mercedes,3.0,2.0,,4.0,,,2.0
+2020,2,Lewis Hamilton,Mercedes,4.0,6.0,,1.0,,,1.0
+2020,2,Lance Stroll,Racing Point,5.0,4.0,,13.0,,,7.0
+2020,2,Alexander Albon,Red Bull Racing,6.0,7.0,,7.0,,,4.0
+2020,2,Carlos Sainz,McLaren,7.0,5.0,,3.0,,,9.0
+2020,2,Pierre Gasly,AlphaTauri,8.0,11.0,,8.0,,,15.0
+2020,2,Daniel Ricciardo,Renault,9.0,,,9.0,,,8.0
+2020,2,Sebastian Vettel,Ferrari,10.0,12.0,,10.0,,,20.0
+2020,2,Daniil Kvyat,AlphaTauri,11.0,13.0,,14.0,,,10.0
+2020,2,Charles Leclerc,Ferrari,12.0,9.0,,11.0,,,19.0
+2020,2,Esteban Ocon,Renault,13.0,10.0,,5.0,,,18.0
+2020,2,Lando Norris,McLaren,14.0,8.0,,6.0,,,5.0
+2020,2,Kimi Räikkönen,Alfa Romeo Racing,15.0,14.0,,16.0,,,11.0
+2020,2,Romain Grosjean,Haas F1 Team,16.0,19.0,,20.0,,,13.0
+2020,2,Jack Aitken,Williams,17.0,,,,,,
+2020,2,Robert Kubica,Alfa Romeo Racing,18.0,,,,,,
+2020,2,Nicholas Latifi,Williams,19.0,17.0,,18.0,,,17.0
+2020,2,Kevin Magnussen,Haas F1 Team,20.0,18.0,,15.0,,,12.0
+2020,2,Antonio Giovinazzi,Alfa Romeo Racing,,15.0,,19.0,,,14.0
+2020,2,George Russell,Williams,,16.0,,12.0,,,16.0
+2020,3,Lewis Hamilton,Mercedes,1.0,,2.0,1.0,,,1.0
+2020,3,Valtteri Bottas,Mercedes,2.0,2.0,1.0,2.0,,,3.0
+2020,3,Sergio Perez,Racing Point,3.0,5.0,3.0,4.0,,,7.0
+2020,3,Lance Stroll,Racing Point,4.0,4.0,5.0,3.0,,,4.0
+2020,3,Daniel Ricciardo,Renault,5.0,,10.0,11.0,,,8.0
+2020,3,Sebastian Vettel,Ferrari,6.0,1.0,8.0,5.0,,,6.0
+2020,3,Charles Leclerc,Ferrari,7.0,10.0,4.0,6.0,,,11.0
+2020,3,Max Verstappen,Red Bull Racing,8.0,7.0,6.0,7.0,,,2.0
+2020,3,Lando Norris,McLaren,9.0,12.0,7.0,8.0,,,13.0
+2020,3,Esteban Ocon,Renault,10.0,,13.0,14.0,,,14.0
+2020,3,Carlos Sainz,McLaren,11.0,3.0,11.0,9.0,,,9.0
+2020,3,Kevin Magnussen,Haas F1 Team,12.0,,16.0,16.0,,,10.0
+2020,3,Alexander Albon,Red Bull Racing,13.0,,12.0,13.0,,,5.0
+2020,3,Romain Grosjean,Haas F1 Team,14.0,8.0,15.0,18.0,,,16.0
+2020,3,Nicholas Latifi,Williams,15.0,,20.0,15.0,,,19.0
+2020,3,Daniil Kvyat,AlphaTauri,16.0,13.0,17.0,17.0,,,12.0
+2020,3,Antonio Giovinazzi,Alfa Romeo Racing,17.0,11.0,18.0,19.0,,,17.0
+2020,3,George Russell,Williams,18.0,,14.0,12.0,,,18.0
+2020,3,Robert Kubica,Alfa Romeo Racing,19.0,,,,,,
+2020,3,Pierre Gasly,AlphaTauri,,6.0,9.0,10.0,,,20.0
+2020,3,Kimi Räikkönen,Alfa Romeo Racing,,9.0,19.0,20.0,,,15.0
+2020,4,Max Verstappen,Red Bull Racing,1.0,14.0,3.0,3.0,,,2.0
+2020,4,Lewis Hamilton,Mercedes,2.0,5.0,2.0,1.0,,,1.0
+2020,4,Lance Stroll,Racing Point,3.0,1.0,4.0,6.0,,,9.0
+2020,4,Alexander Albon,Red Bull Racing,4.0,2.0,13.0,12.0,,,8.0
+2020,4,Charles Leclerc,Ferrari,5.0,4.0,6.0,4.0,,,3.0
+2020,4,Esteban Ocon,Renault,6.0,12.0,12.0,9.0,,,6.0
+2020,4,Valtteri Bottas,Mercedes,7.0,3.0,1.0,2.0,,,11.0
+2020,4,Daniel Ricciardo,Renault,8.0,9.0,8.0,8.0,,,4.0
+2020,4,None None,None,9.0,,,,,,
+2020,4,Daniil Kvyat,AlphaTauri,10.0,15.0,11.0,14.0,,,18.0
+2020,4,Pierre Gasly,AlphaTauri,11.0,8.0,10.0,11.0,,,7.0
+2020,4,Carlos Sainz,McLaren,12.0,6.0,5.0,7.0,,,13.0
+2020,4,Lando Norris,McLaren,13.0,11.0,7.0,5.0,,,5.0
+2020,4,Kevin Magnussen,Haas F1 Team,14.0,19.0,18.0,16.0,,,19.0
+2020,4,Romain Grosjean,Haas F1 Team,15.0,16.0,15.0,19.0,,,16.0
+2020,4,Kimi Räikkönen,Alfa Romeo Racing,16.0,10.0,19.0,18.0,,,17.0
+2020,4,George Russell,Williams,17.0,17.0,16.0,15.0,,,12.0
+2020,4,Antonio Giovinazzi,Alfa Romeo Racing,18.0,13.0,17.0,17.0,,,14.0
+2020,4,Nicholas Latifi,Williams,19.0,20.0,20.0,20.0,,,15.0
+2020,4,Sebastian Vettel,Ferrari,20.0,18.0,14.0,10.0,,,10.0
+2020,4,Nico Hulkenberg,Racing Point,,7.0,9.0,13.0,,,20.0
+2020,5,Valtteri Bottas,Mercedes,1.0,2.0,2.0,1.0,,,3.0
+2020,5,Lewis Hamilton,Mercedes,2.0,1.0,1.0,2.0,,,2.0
+2020,5,Max Verstappen,Red Bull Racing,3.0,4.0,7.0,4.0,,,1.0
+2020,5,Nico Hulkenberg,Racing Point,4.0,6.0,4.0,3.0,,,7.0
+2020,5,Charles Leclerc,Ferrari,5.0,7.0,6.0,8.0,,,4.0
+2020,5,Alexander Albon,Red Bull Racing,6.0,11.0,8.0,9.0,,,5.0
+2020,5,Sebastian Vettel,Ferrari,7.0,14.0,13.0,12.0,,,12.0
+2020,5,Lance Stroll,Racing Point,8.0,5.0,5.0,6.0,,,6.0
+2020,5,Daniil Kvyat,AlphaTauri,9.0,12.0,12.0,16.0,,,10.0
+2020,5,Esteban Ocon,Renault,10.0,10.0,9.0,11.0,,,8.0
+2020,5,Pierre Gasly,AlphaTauri,11.0,13.0,11.0,7.0,,,11.0
+2020,5,Lando Norris,McLaren,12.0,8.0,3.0,10.0,,,9.0
+2020,5,Romain Grosjean,Haas F1 Team,13.0,15.0,15.0,14.0,,,16.0
+2020,5,Carlos Sainz,McLaren,14.0,9.0,10.0,13.0,,,13.0
+2020,5,George Russell,Williams,15.0,16.0,17.0,15.0,,,18.0
+2020,5,Nicholas Latifi,Williams,16.0,19.0,16.0,18.0,,,19.0
+2020,5,Daniel Ricciardo,Renault,17.0,3.0,14.0,5.0,,,14.0
+2020,5,Kimi Räikkönen,Alfa Romeo Racing,18.0,17.0,19.0,20.0,,,15.0
+2020,5,Robert Kubica,Alfa Romeo Racing,19.0,,,,,,
+2020,5,Kevin Magnussen,Haas F1 Team,20.0,18.0,20.0,17.0,,,20.0
+2020,5,Antonio Giovinazzi,Alfa Romeo Racing,,20.0,18.0,19.0,,,17.0
+2020,6,Valtteri Bottas,Mercedes,1.0,2.0,2.0,2.0,,,3.0
+2020,6,Lewis Hamilton,Mercedes,2.0,1.0,1.0,1.0,,,1.0
+2020,6,Max Verstappen,Red Bull Racing,3.0,3.0,3.0,3.0,,,2.0
+2020,6,Charles Leclerc,Ferrari,4.0,6.0,6.0,9.0,,,20.0
+2020,6,Sebastian Vettel,Ferrari,5.0,12.0,12.0,11.0,,,7.0
+2020,6,Romain Grosjean,Haas F1 Team,6.0,5.0,13.0,17.0,,,19.0
+2020,6,Sergio Perez,Racing Point,7.0,8.0,5.0,4.0,,,5.0
+2020,6,Alexander Albon,Red Bull Racing,8.0,13.0,9.0,6.0,,,8.0
+2020,6,Kevin Magnussen,Haas F1 Team,9.0,16.0,17.0,16.0,,,15.0
+2020,6,Lance Stroll,Racing Point,10.0,11.0,8.0,5.0,,,4.0
+2020,6,Carlos Sainz,McLaren,11.0,7.0,4.0,7.0,,,6.0
+2020,6,Esteban Ocon,Renault,12.0,9.0,11.0,15.0,,,13.0
+2020,6,Lando Norris,McLaren,13.0,14.0,15.0,8.0,,,10.0
+2020,6,Pierre Gasly,AlphaTauri,14.0,10.0,7.0,10.0,,,9.0
+2020,6,Antonio Giovinazzi,Alfa Romeo Racing,15.0,18.0,18.0,20.0,,,16.0
+2020,6,Kimi Räikkönen,Alfa Romeo Racing,16.0,17.0,14.0,14.0,,,14.0
+2020,6,Daniil Kvyat,AlphaTauri,17.0,15.0,16.0,12.0,,,12.0
+2020,6,Daniel Ricciardo,Renault,18.0,4.0,10.0,13.0,,,11.0
+2020,6,Nicholas Latifi,Williams,19.0,19.0,20.0,19.0,,,18.0
+2020,6,Roy Nissany,Williams,20.0,,,,,,
+2020,6,George Russell,Williams,,20.0,19.0,18.0,,,17.0
+2020,7,Valtteri Bottas,Mercedes,1.0,6.0,5.0,2.0,,,2.0
+2020,7,Lewis Hamilton,Mercedes,2.0,3.0,1.0,1.0,,,1.0
+2020,7,Max Verstappen,Red Bull Racing,3.0,1.0,6.0,3.0,,,3.0
+2020,7,Sergio Perez,Racing Point,4.0,5.0,10.0,8.0,,,10.0
+2020,7,Lance Stroll,Racing Point,5.0,11.0,8.0,9.0,,,9.0
+2020,7,Alexander Albon,Red Bull Racing,6.0,4.0,4.0,5.0,,,6.0
+2020,7,Esteban Ocon,Renault,7.0,8.0,2.0,6.0,,,5.0
+2020,7,Carlos Sainz,McLaren,8.0,9.0,9.0,7.0,,,20.0
+2020,7,Daniel Ricciardo,Renault,9.0,2.0,7.0,4.0,,,4.0
+2020,7,Lando Norris,McLaren,10.0,7.0,3.0,10.0,,,7.0
+2020,7,Daniil Kvyat,AlphaTauri,11.0,12.0,12.0,11.0,,,11.0
+2020,7,Pierre Gasly,AlphaTauri,12.0,10.0,11.0,12.0,,,8.0
+2020,7,Kimi Räikkönen,Alfa Romeo Racing,13.0,14.0,16.0,16.0,,,12.0
+2020,7,Charles Leclerc,Ferrari,14.0,15.0,17.0,13.0,,,14.0
+2020,7,Sebastian Vettel,Ferrari,15.0,17.0,20.0,14.0,,,13.0
+2020,7,Nicholas Latifi,Williams,16.0,18.0,13.0,19.0,,,16.0
+2020,7,George Russell,Williams,17.0,16.0,18.0,15.0,,,19.0
+2020,7,Antonio Giovinazzi,Alfa Romeo Racing,18.0,13.0,19.0,18.0,,,18.0
+2020,7,Romain Grosjean,Haas F1 Team,,19.0,15.0,17.0,,,15.0
+2020,7,Kevin Magnussen,Haas F1 Team,,20.0,14.0,20.0,,,17.0
+2020,8,Valtteri Bottas,Mercedes,1.0,2.0,1.0,2.0,,,5.0
+2020,8,Lewis Hamilton,Mercedes,2.0,1.0,5.0,1.0,,,7.0
+2020,8,Alexander Albon,Red Bull Racing,3.0,11.0,7.0,9.0,,,15.0
+2020,8,Daniil Kvyat,AlphaTauri,4.0,8.0,13.0,11.0,,,9.0
+2020,8,Max Verstappen,Red Bull Racing,5.0,6.0,6.0,5.0,,,17.0
+2020,8,Pierre Gasly,AlphaTauri,6.0,5.0,12.0,10.0,,,1.0
+2020,8,Lando Norris,McLaren,7.0,4.0,3.0,6.0,,,4.0
+2020,8,Sergio Perez,Racing Point,8.0,12.0,10.0,4.0,,,10.0
+2020,8,Daniel Ricciardo,Renault,9.0,3.0,4.0,7.0,,,6.0
+2020,8,Carlos Sainz,McLaren,10.0,7.0,2.0,3.0,,,2.0
+2020,8,Charles Leclerc,Ferrari,11.0,10.0,11.0,13.0,,,18.0
+2020,8,Esteban Ocon,Renault,12.0,13.0,8.0,12.0,,,8.0
+2020,8,Lance Stroll,Racing Point,13.0,9.0,9.0,8.0,,,3.0
+2020,8,Romain Grosjean,Haas F1 Team,14.0,14.0,14.0,16.0,,,12.0
+2020,8,Kevin Magnussen,Haas F1 Team,15.0,17.0,16.0,15.0,,,19.0
+2020,8,Antonio Giovinazzi,Alfa Romeo Racing,16.0,16.0,20.0,18.0,,,16.0
+2020,8,Sebastian Vettel,Ferrari,17.0,15.0,15.0,17.0,,,20.0
+2020,8,Kimi Räikkönen,Alfa Romeo Racing,18.0,18.0,17.0,14.0,,,13.0
+2020,8,Roy Nissany,Williams,19.0,,,,,,
+2020,8,Nicholas Latifi,Williams,20.0,19.0,19.0,20.0,,,11.0
+2020,8,George Russell,Williams,,20.0,18.0,19.0,,,14.0
+2020,9,Valtteri Bottas,Mercedes,1.0,1.0,1.0,2.0,,,2.0
+2020,9,Max Verstappen,Red Bull Racing,2.0,3.0,2.0,3.0,,,19.0
+2020,9,Charles Leclerc,Ferrari,3.0,10.0,7.0,5.0,,,8.0
+2020,9,Lewis Hamilton,Mercedes,4.0,2.0,3.0,1.0,,,1.0
+2020,9,Pierre Gasly,AlphaTauri,5.0,8.0,5.0,16.0,,,20.0
+2020,9,Esteban Ocon,Renault,6.0,6.0,11.0,10.0,,,14.0
+2020,9,Daniil Kvyat,AlphaTauri,7.0,15.0,9.0,12.0,,,7.0
+2020,9,Lando Norris,McLaren,8.0,14.0,19.0,11.0,,,6.0
+2020,9,Alexander Albon,Red Bull Racing,9.0,4.0,8.0,4.0,,,3.0
+2020,9,Daniel Ricciardo,Renault,10.0,5.0,17.0,8.0,,,4.0
+2020,9,Kimi Räikkönen,Alfa Romeo Racing,11.0,9.0,14.0,13.0,,,9.0
+2020,9,Romain Grosjean,Haas F1 Team,12.0,20.0,10.0,15.0,,,12.0
+2020,9,Sebastian Vettel,Ferrari,13.0,12.0,18.0,14.0,,,10.0
+2020,9,Antonio Giovinazzi,Alfa Romeo Racing,14.0,17.0,13.0,17.0,,,17.0
+2020,9,Carlos Sainz,McLaren,15.0,13.0,12.0,9.0,,,18.0
+2020,9,George Russell,Williams,16.0,16.0,,18.0,,,11.0
+2020,9,Kevin Magnussen,Haas F1 Team,17.0,19.0,15.0,20.0,,,16.0
+2020,9,Lance Stroll,Racing Point,18.0,11.0,4.0,7.0,,,13.0
+2020,9,Sergio Perez,Racing Point,19.0,7.0,6.0,6.0,,,5.0
+2020,9,Nicholas Latifi,Williams,20.0,18.0,16.0,19.0,,,15.0
+2020,10,Valtteri Bottas,Mercedes,1.0,1.0,2.0,3.0,,,1.0
+2020,10,Daniel Ricciardo,Renault,2.0,3.0,11.0,5.0,,,5.0
+2020,10,Max Verstappen,Red Bull Racing,3.0,7.0,6.0,2.0,,,2.0
+2020,10,Sergio Perez,Racing Point,4.0,6.0,5.0,4.0,,,4.0
+2020,10,Lance Stroll,Racing Point,5.0,17.0,9.0,13.0,,,20.0
+2020,10,Esteban Ocon,Renault,6.0,9.0,4.0,7.0,,,7.0
+2020,10,Daniil Kvyat,AlphaTauri,7.0,13.0,10.0,12.0,,,8.0
+2020,10,Alexander Albon,Red Bull Racing,8.0,12.0,8.0,10.0,,,10.0
+2020,10,Sebastian Vettel,Ferrari,9.0,10.0,7.0,15.0,,,13.0
+2020,10,Pierre Gasly,AlphaTauri,10.0,11.0,12.0,9.0,,,9.0
+2020,10,Charles Leclerc,Ferrari,11.0,8.0,13.0,11.0,,,6.0
+2020,10,Carlos Sainz,McLaren,12.0,4.0,3.0,6.0,,,19.0
+2020,10,Lando Norris,McLaren,13.0,5.0,20.0,8.0,,,15.0
+2020,10,Antonio Giovinazzi,Alfa Romeo Racing,14.0,19.0,18.0,17.0,,,11.0
+2020,10,Kimi Räikkönen,Alfa Romeo Racing,15.0,14.0,19.0,20.0,,,14.0
+2020,10,Kevin Magnussen,Haas F1 Team,16.0,18.0,17.0,18.0,,,12.0
+2020,10,George Russell,Williams,17.0,16.0,14.0,14.0,,,18.0
+2020,10,Romain Grosjean,Haas F1 Team,18.0,20.0,15.0,16.0,,,17.0
+2020,10,Lewis Hamilton,Mercedes,19.0,2.0,1.0,1.0,,,3.0
+2020,10,Nicholas Latifi,Williams,20.0,15.0,16.0,19.0,,,16.0
+2020,11,Valtteri Bottas,Mercedes,,,1.0,1.0,,,19.0
+2020,11,Lewis Hamilton,Mercedes,,,2.0,2.0,,,1.0
+2020,11,Charles Leclerc,Ferrari,,,3.0,4.0,,,7.0
+2020,11,Max Verstappen,Red Bull Racing,,,4.0,3.0,,,2.0
+2020,11,Sebastian Vettel,Ferrari,,,5.0,11.0,,,11.0
+2020,11,Lando Norris,McLaren,,,6.0,8.0,,,16.0
+2020,11,Sergio Perez,Racing Point,,,7.0,9.0,,,4.0
+2020,11,Daniel Ricciardo,Renault,,,8.0,6.0,,,3.0
+2020,11,Alexander Albon,Red Bull Racing,,,9.0,5.0,,,17.0
+2020,11,Pierre Gasly,AlphaTauri,,,10.0,12.0,,,6.0
+2020,11,Esteban Ocon,Renault,,,11.0,7.0,,,18.0
+2020,11,Daniil Kvyat,AlphaTauri,,,12.0,13.0,,,15.0
+2020,11,Carlos Sainz,McLaren,,,13.0,10.0,,,5.0
+2020,11,Kimi Räikkönen,Alfa Romeo Racing,,,14.0,19.0,,,12.0
+2020,11,Romain Grosjean,Haas F1 Team,,,15.0,16.0,,,9.0
+2020,11,Kevin Magnussen,Haas F1 Team,,,16.0,15.0,,,13.0
+2020,11,George Russell,Williams,,,17.0,17.0,,,20.0
+2020,11,Antonio Giovinazzi,Alfa Romeo Racing,,,18.0,14.0,,,10.0
+2020,11,Nicholas Latifi,Williams,,,19.0,18.0,,,14.0
+2020,11,Nico Hulkenberg,Racing Point,,,,20.0,,,8.0
+2020,12,Valtteri Bottas,Mercedes,1.0,1.0,1.0,2.0,,,2.0
+2020,12,Lewis Hamilton,Mercedes,2.0,8.0,3.0,1.0,,,1.0
+2020,12,Max Verstappen,Red Bull Racing,3.0,2.0,2.0,3.0,,,3.0
+2020,12,Charles Leclerc,Ferrari,4.0,4.0,6.0,4.0,,,4.0
+2020,12,Alexander Albon,Red Bull Racing,5.0,10.0,5.0,6.0,,,12.0
+2020,12,Carlos Sainz,McLaren,6.0,5.0,7.0,7.0,,,6.0
+2020,12,Sergio Perez,Racing Point,7.0,12.0,8.0,5.0,,,7.0
+2020,12,Kimi Räikkönen,Alfa Romeo Racing,8.0,16.0,13.0,16.0,,,11.0
+2020,12,Sebastian Vettel,Ferrari,9.0,6.0,11.0,15.0,,,10.0
+2020,12,Daniel Ricciardo,Renault,10.0,14.0,14.0,10.0,,,9.0
+2020,12,Pierre Gasly,AlphaTauri,11.0,7.0,4.0,9.0,,,5.0
+2020,12,Lando Norris,McLaren,12.0,3.0,9.0,8.0,,,13.0
+2020,12,Daniil Kvyat,AlphaTauri,13.0,13.0,12.0,13.0,,,19.0
+2020,12,Lance Stroll,Racing Point,14.0,17.0,16.0,12.0,,,20.0
+2020,12,Kevin Magnussen,Haas F1 Team,15.0,19.0,19.0,19.0,,,16.0
+2020,12,Antonio Giovinazzi,Alfa Romeo Racing,16.0,18.0,18.0,17.0,,,15.0
+2020,12,Romain Grosjean,Haas F1 Team,17.0,20.0,17.0,18.0,,,17.0
+2020,12,Esteban Ocon,Renault,18.0,9.0,10.0,11.0,,,8.0
+2020,12,George Russell,Williams,19.0,11.0,15.0,14.0,,,14.0
+2020,12,Nicholas Latifi,Williams,20.0,15.0,20.0,20.0,,,18.0
+2020,13,Lewis Hamilton,Mercedes,1.0,,,2.0,,,1.0
+2020,13,Max Verstappen,Red Bull Racing,2.0,,,3.0,,,17.0
+2020,13,Valtteri Bottas,Mercedes,3.0,,,1.0,,,2.0
+2020,13,Pierre Gasly,AlphaTauri,4.0,,,4.0,,,20.0
+2020,13,Charles Leclerc,Ferrari,5.0,,,7.0,,,5.0
+2020,13,Carlos Sainz,McLaren,6.0,,,10.0,,,7.0
+2020,13,Daniel Ricciardo,Renault,7.0,,,5.0,,,3.0
+2020,13,Lando Norris,McLaren,8.0,,,9.0,,,8.0
+2020,13,Esteban Ocon,Renault,9.0,,,12.0,,,19.0
+2020,13,Alexander Albon,Red Bull Racing,10.0,,,6.0,,,15.0
+2020,13,Daniil Kvyat,AlphaTauri,11.0,,,8.0,,,4.0
+2020,13,Lance Stroll,Racing Point,12.0,,,15.0,,,13.0
+2020,13,Sergio Perez,Racing Point,13.0,,,11.0,,,6.0
+2020,13,Sebastian Vettel,Ferrari,14.0,,,14.0,,,12.0
+2020,13,Romain Grosjean,Haas F1 Team,15.0,,,16.0,,,14.0
+2020,13,Antonio Giovinazzi,Alfa Romeo Racing,16.0,,,20.0,,,10.0
+2020,13,Kimi Räikkönen,Alfa Romeo Racing,17.0,,,18.0,,,9.0
+2020,13,George Russell,Williams,18.0,,,13.0,,,16.0
+2020,13,Kevin Magnussen,Haas F1 Team,19.0,,,17.0,,,18.0
+2020,13,Nicholas Latifi,Williams,20.0,,,19.0,,,11.0
+2020,14,Max Verstappen,Red Bull Racing,1.0,1.0,1.0,2.0,,,6.0
+2020,14,Alexander Albon,Red Bull Racing,2.0,5.0,3.0,4.0,,,7.0
+2020,14,Charles Leclerc,Ferrari,3.0,2.0,2.0,14.0,,,4.0
+2020,14,Pierre Gasly,AlphaTauri,4.0,7.0,14.0,15.0,,,13.0
+2020,14,Sebastian Vettel,Ferrari,5.0,9.0,6.0,12.0,,,3.0
+2020,14,Daniil Kvyat,AlphaTauri,6.0,6.0,17.0,17.0,,,12.0
+2020,14,Lando Norris,McLaren,7.0,8.0,5.0,11.0,,,8.0
+2020,14,Antonio Giovinazzi,Alfa Romeo Racing,8.0,13.0,13.0,10.0,,,20.0
+2020,14,Valtteri Bottas,Mercedes,9.0,3.0,8.0,9.0,,,14.0
+2020,14,Esteban Ocon,Renault,10.0,12.0,4.0,7.0,,,11.0
+2020,14,Nicholas Latifi,Williams,11.0,20.0,,20.0,,,19.0
+2020,14,Sergio Perez,Racing Point,12.0,11.0,7.0,3.0,,,2.0
+2020,14,Lance Stroll,Racing Point,13.0,10.0,10.0,1.0,,,9.0
+2020,14,Romain Grosjean,Haas F1 Team,14.0,18.0,15.0,19.0,,,18.0
+2020,14,Lewis Hamilton,Mercedes,15.0,4.0,,6.0,,,1.0
+2020,14,Kimi Räikkönen,Alfa Romeo Racing,16.0,16.0,16.0,8.0,,,15.0
+2020,14,Kevin Magnussen,Haas F1 Team,17.0,19.0,9.0,16.0,,,17.0
+2020,14,Daniel Ricciardo,Renault,18.0,15.0,11.0,5.0,,,10.0
+2020,14,Carlos Sainz,McLaren,19.0,14.0,12.0,13.0,,,5.0
+2020,14,George Russell,Williams,20.0,17.0,,18.0,,,16.0
+2020,15,Lewis Hamilton,Mercedes,1.0,1.0,2.0,1.0,,,1.0
+2020,15,Valtteri Bottas,Mercedes,2.0,3.0,3.0,2.0,,,8.0
+2020,15,Sergio Perez,Racing Point,3.0,4.0,10.0,5.0,,,18.0
+2020,15,Carlos Sainz,McLaren,4.0,13.0,5.0,15.0,,,5.0
+2020,15,Pierre Gasly,AlphaTauri,5.0,6.0,6.0,8.0,,,6.0
+2020,15,Max Verstappen,Red Bull Racing,6.0,2.0,1.0,3.0,,,2.0
+2020,15,Alexander Albon,Red Bull Racing,7.0,10.0,4.0,4.0,,,3.0
+2020,15,Esteban Ocon,Renault,8.0,11.0,12.0,7.0,,,9.0
+2020,15,Lance Stroll,Racing Point,9.0,8.0,9.0,13.0,,,19.0
+2020,15,Daniel Ricciardo,Renault,10.0,5.0,11.0,6.0,,,7.0
+2020,15,Charles Leclerc,Ferrari,11.0,14.0,15.0,12.0,,,10.0
+2020,15,Sebastian Vettel,Ferrari,12.0,12.0,13.0,11.0,,,13.0
+2020,15,Robert Kubica,Alfa Romeo Racing,13.0,,,,,,
+2020,15,Romain Grosjean,Haas F1 Team,14.0,19.0,17.0,19.0,,,20.0
+2020,15,Kevin Magnussen,Haas F1 Team,15.0,16.0,18.0,18.0,,,17.0
+2020,15,Antonio Giovinazzi,Alfa Romeo Racing,16.0,15.0,14.0,16.0,,,16.0
+2020,15,Daniil Kvyat,AlphaTauri,17.0,9.0,8.0,10.0,,,11.0
+2020,15,Lando Norris,McLaren,18.0,7.0,7.0,9.0,,,4.0
+2020,15,Nicholas Latifi,Williams,19.0,18.0,20.0,20.0,,,14.0
+2020,15,Roy Nissany,Williams,20.0,,,,,,
+2020,15,Kimi Räikkönen,Alfa Romeo Racing,,17.0,19.0,17.0,,,15.0
+2020,15,George Russell,Williams,,20.0,16.0,14.0,,,12.0
+2020,16,George Russell,Mercedes,1.0,2.0,7.0,2.0,,,9.0
+2020,16,Max Verstappen,Red Bull Racing,2.0,3.0,1.0,3.0,,,19.0
+2020,16,Alexander Albon,Red Bull Racing,3.0,6.0,6.0,12.0,,,6.0
+2020,16,Valtteri Bottas,Mercedes,4.0,1.0,2.0,1.0,,,8.0
+2020,16,Daniil Kvyat,AlphaTauri,5.0,7.0,12.0,6.0,,,7.0
+2020,16,Pierre Gasly,AlphaTauri,6.0,10.0,3.0,9.0,,,11.0
+2020,16,Esteban Ocon,Renault,7.0,5.0,4.0,11.0,,,2.0
+2020,16,Sebastian Vettel,Ferrari,8.0,16.0,15.0,13.0,,,12.0
+2020,16,Daniel Ricciardo,Renault,9.0,9.0,14.0,7.0,,,5.0
+2020,16,Charles Leclerc,Ferrari,10.0,20.0,13.0,4.0,,,20.0
+2020,16,Lance Stroll,Racing Point,11.0,8.0,9.0,10.0,,,3.0
+2020,16,Sergio Perez,Racing Point,12.0,4.0,8.0,5.0,,,1.0
+2020,16,Carlos Sainz,McLaren,13.0,11.0,10.0,8.0,,,4.0
+2020,16,Kimi Räikkönen,Alfa Romeo Racing,14.0,12.0,16.0,19.0,,,14.0
+2020,16,Antonio Giovinazzi,Alfa Romeo Racing,15.0,13.0,11.0,14.0,,,13.0
+2020,16,Lando Norris,McLaren,16.0,17.0,5.0,15.0,,,10.0
+2020,16,Kevin Magnussen,Haas F1 Team,17.0,14.0,17.0,16.0,,,15.0
+2020,16,Nicholas Latifi,Williams,18.0,15.0,18.0,17.0,,,18.0
+2020,16,Pietro Fittipaldi,Haas F1 Team,19.0,18.0,19.0,20.0,,,17.0
+2020,16,Jack Aitken,Williams,20.0,19.0,20.0,18.0,,,16.0
+2020,17,Max Verstappen,Red Bull Racing,1.0,4.0,1.0,1.0,,,1.0
+2020,17,Valtteri Bottas,Mercedes,2.0,2.0,9.0,2.0,,,2.0
+2020,17,Esteban Ocon,Renault,3.0,6.0,4.0,11.0,,,9.0
+2020,17,Alexander Albon,Red Bull Racing,4.0,3.0,2.0,5.0,,,4.0
+2020,17,Lewis Hamilton,Mercedes,5.0,1.0,6.0,3.0,,,3.0
+2020,17,Lance Stroll,Racing Point,6.0,10.0,7.0,8.0,,,10.0
+2020,17,Pierre Gasly,AlphaTauri,7.0,13.0,13.0,10.0,,,8.0
+2020,17,Sergio Perez,Racing Point,8.0,7.0,10.0,15.0,,,20.0
+2020,17,Daniil Kvyat,AlphaTauri,9.0,11.0,11.0,7.0,,,11.0
+2020,17,Kimi Räikkönen,Alfa Romeo Racing,10.0,14.0,17.0,16.0,,,12.0
+2020,17,Carlos Sainz,McLaren,11.0,12.0,8.0,6.0,,,6.0
+2020,17,Charles Leclerc,Ferrari,12.0,9.0,12.0,9.0,,,13.0
+2020,17,Lando Norris,McLaren,13.0,5.0,5.0,4.0,,,5.0
+2020,17,Sebastian Vettel,Ferrari,14.0,15.0,14.0,13.0,,,14.0
+2020,17,Robert Kubica,Alfa Romeo Racing,15.0,,,,,,
+2020,17,George Russell,Williams,16.0,18.0,15.0,18.0,,,15.0
+2020,17,Nicholas Latifi,Williams,17.0,20.0,19.0,20.0,,,17.0
+2020,17,Mick Schumacher,Haas F1 Team,18.0,,,,,,
+2020,17,Pietro Fittipaldi,Haas F1 Team,19.0,19.0,20.0,19.0,,,19.0
+2020,17,Daniel Ricciardo,Renault,,8.0,3.0,12.0,,,7.0
+2020,17,Kevin Magnussen,Haas F1 Team,,16.0,18.0,17.0,,,18.0
+2020,17,Antonio Giovinazzi,Alfa Romeo Racing,,17.0,16.0,14.0,,,16.0
